@@ -1,1 +1,11 @@
+annotated-types==0.8.0
+anyio==4.15.1
+arcosparse==0.5.1
+copernicusmarine==2.4.1
+ipykernel==7.3.0
+matplotlib==3.11.2
+pandas==3.0.6
+xarray==2026.7.0
+attrs==26.1.0
 
+babel==2.18.0
