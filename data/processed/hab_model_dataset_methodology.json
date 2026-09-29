@@ -1,0 +1,21 @@
+{
+  "random_seed": 42,
+  "non_event_ratio": 1,
+  "exclusion_days": 30,
+  "exclusion_radius_km": 150,
+  "spatial_buffer_degrees": 1.0,
+  "variables": [
+    "thetao",
+    "so"
+  ],
+  "model_features": [
+    "thetao_mean",
+    "thetao_p95",
+    "thetao_variance",
+    "so_mean",
+    "so_p95",
+    "so_variance"
+  ],
+  "non_event_method": "Same location and calendar month as a HAEDAT event, but sampled from a date outside the exclusion window.",
+  "important_limitation": "Synthetic non-events are assumed non-events, not confirmed absences."
+}
