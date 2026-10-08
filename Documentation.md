@@ -16,3 +16,8 @@ Rule 1: If Start Date is empty, BUT both Event Date & End Date exist -> Pick Mid
 Rule 2: If Start Date and End Date exist -> Pick Middle of Start and End\
 Rule 3: If Start Date is empty -> Fallback to Event Date\
 Rule 4: If Event Date is empty -> Fallback to Start Date
+
+
+# Milestone #2
+## Conducting HAB 
+From looking at the correlation between variables and HAB events, it appears that the sea temperature is a possible correlation. It is done with spearman and pearson correlation, where spearman appeared to show a higher correlation.
