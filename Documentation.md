@@ -16,3 +16,7 @@ Rule 1: If Start Date is empty, BUT both Event Date & End Date exist -> Pick Mid
 Rule 2: If Start Date and End Date exist -> Pick Middle of Start and End\
 Rule 3: If Start Date is empty -> Fallback to Event Date\
 Rule 4: If Event Date is empty -> Fallback to Start Date
+
+# Milestone #2
+## Training a Dummy Classifer
+The classifer is tested on data from hab_events_with_environmental_features.csv. Given that it is on a small batch of data with nearly equal HAB and synthetic non-events, there is about a 50% accuracy. This simply provides a baseline for training and other models will use it on actual Copernicus data. 
