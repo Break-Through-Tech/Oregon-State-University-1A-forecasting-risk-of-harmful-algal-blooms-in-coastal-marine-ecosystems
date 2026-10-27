@@ -33,6 +33,29 @@
 * How to access the dataset(s)
 * How to run the notebook or scripts
 
+### Evaluating model predictions
+
+Save one row per prediction in a CSV with `fold`, `y_true`, and `y_score`
+columns. `y_score` should be the positive-class probability or decision score.
+The evaluation script calculates Precision, Recall, F1-score, and PR-AUC for
+each fold, prints a macro-average row, and saves fold-by-fold
+Precision-Recall curves:
+
+```powershell
+python scripts\evaluate_predictions.py predictions.csv `
+  --output results\precision_recall_curves.png `
+  --metrics-output results\metrics.csv
+```
+
+If predictions have already been thresholded, an optional `y_pred` column is
+used for Precision, Recall, and F1-score. Otherwise, use `--threshold` to
+control the threshold applied to `y_score` (default: `0.5`).
+
+For an interactive end-to-end example using the project’s labeled data, open
+[notebooks/model_evaluation.ipynb](notebooks/model_evaluation.ipynb). It fits
+a scaled logistic-regression model with five stratified folds, displays the
+actual out-of-fold predictions and metrics, and plots the fold curves.
+
 ---
 
 ## 🏗️ **Project Overview**
