@@ -1,6 +1,12 @@
 {
   "random_seed": 42,
+  "maximum_real_events_selected": 500,
+  "final_real_events": 382,
+  "final_synthetic_non_events": 382,
+  "final_dataset_rows": 764,
   "non_event_ratio": 1,
+  "synthetic_year_window": 2,
+  "minimum_matched_event_gap_days": 45,
   "exclusion_days": 30,
   "exclusion_radius_km": 150,
   "spatial_buffer_degrees": 1.0,
@@ -16,6 +22,12 @@
     "so_p95",
     "so_variance"
   ],
-  "non_event_method": "Same location and calendar month as a HAEDAT event, but sampled from a date outside the exclusion window.",
-  "important_limitation": "Synthetic non-events are assumed non-events, not confirmed absences."
+  "seasonal_features": [
+    "sin_month",
+    "cos_month"
+  ],
+  "real_event_sampling": "Up to 500 eligible HAEDAT events were selected across years using round-robin ordering.",
+  "non_event_method": "Each synthetic non-event used the same location and calendar month as its matched HAEDAT event, with a year within two years of the event and outside the spatiotemporal exclusion window.",
+  "validation_method": "Five-fold leave-future-out cross-validation with a 30-day gap.",
+  "important_limitation": "Synthetic non-events are pseudo-absences and are not confirmed non-bloom observations."
 }
