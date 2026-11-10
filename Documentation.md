@@ -17,7 +17,7 @@ Rule 2: If Start Date and End Date exist -> Pick Middle of Start and End\
 Rule 3: If Start Date is empty -> Fallback to Event Date\
 Rule 4: If Event Date is empty -> Fallback to Start Date
 
-
+![event distribution](image-1.png)
 # Milestone #2
 ## Conducting HAB 
 From looking at the correlation between variables and HAB events, it appears that the sea temperature is a possible correlation. It is done with spearman and pearson correlation, where spearman appeared to show a higher correlation.
@@ -59,3 +59,6 @@ few non-events is exploratory and should not be treated as reliable evidence.
 The BGC overlap currently contains many HAB events but few eligible
 non-events, so the physics-based model should remain the primary predictive
 analysis until the BGC sample is better balanced.
+![eda statistics](image-2.png)
+![box plot eda](image-3.png)
+![spearman-correlation](image-4.png)
