@@ -59,6 +59,8 @@ few non-events is exploratory and should not be treated as reliable evidence.
 The BGC overlap currently contains many HAB events but few eligible
 non-events, so the physics-based model should remain the primary predictive
 analysis until the BGC sample is better balanced.
+
+Below are the EDA statistics:
 ![eda statistics](image-2.png)
 ![box plot eda](image-3.png)
 ![spearman-correlation](image-4.png)
