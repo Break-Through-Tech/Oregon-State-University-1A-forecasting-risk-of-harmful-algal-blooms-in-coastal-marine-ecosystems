@@ -11,6 +11,7 @@ HABs can harm marine ecosystems, human health, aquaculture, fisheries, and coast
 | Stephanie Ng | [@syng828](https://github.com/syng828) | HAEDAT preprocessing, exploratory analysis, and biogeochemical feature exploration |
 | Mayowa Esan | [@esanpelumi](https://github.com/esanpelumi) | Copernicus physics feature engineering, synthetic non-event construction, time-based validation, baseline modeling, and documentation |
 | Meghana Ivaturi | [@megiva](https://github.com/megiva) | Dataset preparation, seasonal feature engineering, data splitting, and model evaluation |
+| Lidia Workneh | | |
 
 ## Project Highlights
 
