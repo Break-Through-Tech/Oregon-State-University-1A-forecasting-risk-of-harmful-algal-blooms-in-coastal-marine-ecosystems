@@ -86,3 +86,7 @@ Run the feature generator with:
 ```powershell
 .venv\Scripts\python.exe regional_feature_engineering.py data/input.csv data/output.csv
 ```
+Example:
+
+```.venv\Scripts\python.exe regional_feature_engineering.py data/processed/hab_train_seasonal.csv data/processed/hab_train_regional.csv
+```
