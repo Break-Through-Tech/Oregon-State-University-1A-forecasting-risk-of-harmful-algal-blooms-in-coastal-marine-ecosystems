@@ -64,3 +64,29 @@ Below are the EDA statistics:
 ![eda statistics](image-2.png)
 ![box plot eda](image-3.png)
 ![spearman-correlation](image-4.png)
+
+## Regional interaction features
+
+`regional_feature_engineering.py` defines geography at two levels:
+
+- `country_region`: the HAEDAT `country` value, preserving the country as the
+  explicit region label.
+- `ocean_basin`: a broad coordinate-derived basin (Arctic, North Atlantic,
+  South Atlantic, North Pacific, South Pacific, Indian Ocean, Mediterranean,
+  or Other).
+
+For each of the six surface temperature and salinity summaries, the script
+creates indicator interaction terms of the form
+`variable x region_indicator`. This lets a linear model estimate a separate
+temperature or salinity coefficient in each region. Existing HAEDAT `region`
+labels are retained as a third optional region level.
+
+Run the feature generator with:
+
+```powershell
+.venv\Scripts\python.exe regional_feature_engineering.py data/input.csv data/output.csv
+```
+Example:
+
+```.venv\Scripts\python.exe regional_feature_engineering.py data/processed/hab_train_seasonal.csv data/processed/hab_train_regional.csv
+```
