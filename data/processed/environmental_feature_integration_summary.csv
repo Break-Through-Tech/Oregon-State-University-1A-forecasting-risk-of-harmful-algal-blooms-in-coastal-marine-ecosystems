@@ -1,7 +1,7 @@
 validation_check,result
-Total integrated rows,194
-Real HAEDAT events,97
-Synthetic non-events,97
+Total integrated rows,764
+Real HAEDAT events,382
+Synthetic non-events,382
 Missing environmental values,0
 Duplicate record IDs,0
 Rows without valid ocean cells,0

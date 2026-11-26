@@ -1,2 +1,4 @@
-
 .DS_Store
+# Copernicus download cache (rebuildable)
+data/interim/
+__pycache__/

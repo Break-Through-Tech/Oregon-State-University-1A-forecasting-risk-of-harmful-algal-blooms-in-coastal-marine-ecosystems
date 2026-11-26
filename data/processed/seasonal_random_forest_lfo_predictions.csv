@@ -1,0 +1,2533 @@
+model,fold,record_id,observation_date,actual_target,predicted_target,hab_probability
+Logistic - ocean only,1,non_event_12833_1,1997-09-09,0,1,0.5142898501265197
+Logistic - ocean only,1,non_event_12217_1,1997-09-22,0,1,0.5224393458280246
+Logistic - ocean only,1,non_event_12642_1,1997-09-26,0,0,0.4877513815859332
+Logistic - ocean only,1,event_12353,1997-09-28,1,1,0.516604998216885
+Logistic - ocean only,1,non_event_12610_1,1997-09-29,0,1,0.5197631639971676
+Logistic - ocean only,1,event_12359,1997-10-08,1,1,0.5315574758272646
+Logistic - ocean only,1,non_event_12615_1,1997-10-27,0,1,0.5072804112079082
+Logistic - ocean only,1,non_event_12363_1,1998-01-01,0,0,0.4897847700068771
+Logistic - ocean only,1,event_12202,1998-01-08,1,1,0.5244991615939207
+Logistic - ocean only,1,non_event_11419_1,1998-01-16,0,1,0.52104658098284
+Logistic - ocean only,1,non_event_11302_1,1998-01-17,0,1,0.5229261943794768
+Logistic - ocean only,1,non_event_12483_1,1998-02-12,0,1,0.5170645697313861
+Logistic - ocean only,1,non_event_12024_1,1998-02-17,0,1,0.5243256853563124
+Logistic - ocean only,1,non_event_12559_1,1998-03-15,0,1,0.528809376441092
+Logistic - ocean only,1,event_12281,1998-04-30,1,0,0.48973190001683614
+Logistic - ocean only,1,non_event_11870_1,1998-05-28,0,0,0.49714901897320685
+Logistic - ocean only,1,non_event_12665_1,1998-05-29,0,0,0.4895958903006754
+Logistic - ocean only,1,event_12226,1998-06-22,1,0,0.4990077765270293
+Logistic - ocean only,1,event_12120,1998-06-23,1,0,0.49165406889372615
+Logistic - ocean only,1,non_event_12102_1,1998-07-03,0,0,0.39622852607421943
+Logistic - ocean only,1,non_event_12413_1,1998-07-05,0,0,0.4841654981332947
+Logistic - ocean only,1,event_12253,1998-07-15,1,1,0.6128044475030113
+Logistic - ocean only,1,event_12262,1998-07-16,1,0,0.49107244846677817
+Logistic - ocean only,1,non_event_11499_1,1998-07-26,0,1,0.5177505135180993
+Logistic - ocean only,1,event_12302,1998-07-28,1,1,0.5274719546383788
+Logistic - ocean only,1,event_12264,1998-08-01,1,0,0.4847352352115707
+Logistic - ocean only,1,event_12688,1998-08-01,1,0,0.4938584334369146
+Logistic - ocean only,1,event_12260,1998-08-10,1,0,0.4949973766548395
+Logistic - ocean only,1,event_12176,1998-08-23,1,0,0.49508043720230116
+Logistic - ocean only,1,non_event_11634_1,1998-08-25,0,1,0.5174608918385962
+Logistic - ocean only,1,event_12297,1998-08-30,1,0,0.43878491511755546
+Logistic - ocean only,1,non_event_12496_1,1998-09-11,0,1,0.5512925822158
+Logistic - ocean only,1,event_13026,1998-09-13,1,1,0.5298477479223771
+Logistic - ocean only,1,event_12217,1998-09-22,1,1,0.5172185848879187
+Logistic - ocean only,1,non_event_11973_1,1998-10-07,0,1,0.5780412687823959
+Logistic - ocean only,1,non_event_11327_1,1998-10-20,0,1,0.5205313843922549
+Logistic - ocean only,1,non_event_11766_1,1998-12-01,0,1,0.5657888541195727
+Logistic - ocean only,1,event_12191,1998-12-11,1,1,0.5245936497076258
+Logistic - ocean only,1,non_event_11121_1,1999-01-01,0,1,0.5291912388510902
+Logistic - ocean only,1,non_event_12433_1,1999-01-02,0,1,0.5303902974465852
+Logistic - ocean only,1,non_event_11218_1,1999-01-14,0,1,0.5293306209632882
+Logistic - ocean only,1,non_event_10935_1,1999-01-22,0,0,0.4888308694610212
+Logistic - ocean only,1,event_12023,1999-02-08,1,1,0.5292450064450515
+Logistic - ocean only,1,event_12024,1999-02-08,1,1,0.522984772000595
+Logistic - ocean only,1,event_12026,1999-02-08,1,0,0.4663435257261181
+Logistic - ocean only,1,event_12000,1999-02-22,1,0,0.4872785794009981
+Logistic - ocean only,1,event_12060,1999-04-01,1,1,0.5407456644210613
+Logistic - ocean only,1,non_event_10862_1,1999-05-21,0,1,0.5208042969025142
+Logistic - ocean only,1,non_event_11868_1,1999-05-24,0,0,0.49630235949204227
+Logistic - ocean only,1,event_11911,1999-06-09,1,0,0.49835913139466786
+Logistic - ocean only,1,event_12081,1999-06-21,1,1,0.5172886487966348
+Logistic - ocean only,1,event_12087,1999-06-22,1,1,0.5008781576535467
+Logistic - ocean only,1,event_12100,1999-06-30,1,0,0.49379011618143687
+Logistic - ocean only,1,non_event_12345_1,1999-07-01,0,1,0.5071419870503646
+Logistic - ocean only,1,non_event_12253_1,1999-07-08,0,1,0.6094466676652869
+Logistic - ocean only,1,event_11921,1999-07-14,1,1,0.6116407299438379
+Logistic - ocean only,1,event_12102,1999-07-16,1,0,0.3646208442043464
+Logistic - ocean only,1,non_event_12461_1,1999-08-11,0,0,0.49430243956499054
+Logistic - ocean only,1,non_event_12353_1,1999-09-04,0,1,0.5415153120273927
+Logistic - ocean only,1,event_11920,1999-09-15,1,1,0.6030628273484869
+Logistic - ocean only,1,event_12096,1999-10-05,1,1,0.5235606381579574
+Logistic - ocean only,1,event_11973,1999-10-12,1,0,0.402046964535456
+Logistic - ocean only,1,non_event_11449_1,1999-10-14,0,1,0.5173889854805176
+Logistic - ocean only,1,non_event_12359_1,1999-10-22,0,1,0.5040440479232327
+Logistic - ocean only,1,event_11918,1999-11-02,1,1,0.520011747838449
+Logistic - ocean only,1,non_event_11141_1,1999-12-01,0,0,0.4916307696892422
+Logistic - ocean only,1,event_11218,2000-01-01,1,1,0.5246958511926486
+Logistic - ocean only,1,event_11583,2000-01-03,1,1,0.518471699962253
+Logistic - ocean only,1,event_11302,2000-01-09,1,1,0.518524939443441
+Logistic - ocean only,1,non_event_12202_1,2000-01-10,0,1,0.5279975963402778
+Logistic - ocean only,1,event_11419,2000-01-21,1,1,0.5210913934568546
+Logistic - ocean only,1,non_event_12281_1,2000-04-24,0,0,0.4880935667772027
+Logistic - ocean only,1,non_event_12060_1,2000-04-29,0,1,0.5451060624887225
+Logistic - ocean only,1,event_11868,2000-05-07,1,0,0.4907315806253491
+Logistic - ocean only,1,event_11870,2000-05-23,1,0,0.4946220395715646
+Logistic - ocean only,1,non_event_10844_1,2000-06-12,0,1,0.5397175579612931
+Logistic - ocean only,1,non_event_12100_1,2000-06-13,0,0,0.4969144343530725
+Logistic - ocean only,1,non_event_10802_1,2000-07-07,0,1,0.5127772126524964
+Logistic - ocean only,1,non_event_10530_1,2000-07-19,0,1,0.5016371637354171
+Logistic - ocean only,1,event_11499,2000-07-20,1,1,0.5155466560145489
+Logistic - ocean only,1,non_event_12176_1,2000-08-01,0,0,0.4829638179699484
+Logistic - ocean only,1,event_11634,2000-08-02,1,1,0.516025274681826
+Logistic - ocean only,1,non_event_12297_1,2000-08-07,0,0,0.42140023100961604
+Logistic - ocean only,1,event_11368,2000-08-22,1,1,0.517641018923551
+Logistic - ocean only,1,non_event_12688_1,2000-08-28,0,0,0.49421962221601484
+Logistic - ocean only,1,non_event_12260_1,2000-08-29,0,0,0.4974181593732917
+Logistic - ocean only,1,non_event_12264_1,2000-08-31,0,0,0.48724957406994995
+Logistic - ocean only,1,event_11373,2000-09-16,1,1,0.5123319062312999
+Logistic - ocean only,1,event_11563,2000-09-23,1,1,0.5173159887587784
+Logistic - ocean only,1,non_event_11920_1,2000-09-26,0,1,0.5956960856564032
+Logistic - ocean only,1,non_event_13026_1,2000-09-28,0,1,0.5191541224485603
+Logistic - ocean only,1,non_event_12096_1,2000-10-05,0,1,0.516091044401192
+Logistic - ocean only,1,event_11449,2000-10-21,1,1,0.5102738510854813
+Logistic - ocean only,1,event_11327,2000-10-26,1,1,0.517718251508655
+Logistic - ocean only,1,non_event_11918_1,2000-11-05,0,1,0.5193835251781062
+Logistic - ocean only,1,event_11432,2000-12-04,1,1,0.5182061239152465
+Logistic - ocean only,1,non_event_12191_1,2000-12-05,0,1,0.5238596379758089
+Logistic - ocean only,1,non_event_10813_1,2000-12-15,0,1,0.5174412116438302
+Logistic - ocean only,1,event_11766,2000-12-15,1,1,0.5575280710427736
+Logistic - ocean only,1,event_10935,2001-01-01,1,0,0.49223730702374896
+Logistic - ocean only,1,event_11121,2001-01-29,1,1,0.5194554626714095
+Logistic - ocean only,1,non_event_12026_1,2001-02-13,0,0,0.46020580457625393
+Logistic - ocean only,1,non_event_12000_1,2001-02-24,0,0,0.4895562293836631
+Logistic - ocean only,1,event_10999,2001-03-01,1,0,0.4806030486793631
+Logistic - ocean only,1,non_event_10763_1,2001-04-06,0,0,0.4911747939532214
+Logistic - ocean only,1,event_11021,2001-04-06,1,1,0.5286281950626766
+Logistic - ocean only,1,non_event_10390_1,2001-05-09,0,0,0.3992020059321693
+Logistic - ocean only,1,event_10862,2001-05-15,1,1,0.5230683319660374
+Logistic - ocean only,1,event_11177,2001-05-25,1,0,0.47982557508142226
+Logistic - ocean only,1,non_event_12087_1,2001-06-03,0,0,0.49633224795306535
+Logistic - ocean only,1,event_11145,2001-06-05,1,0,0.49801077802736027
+Logistic - ocean only,1,event_10844,2001-06-09,1,1,0.5380835906080133
+Logistic - ocean only,1,event_10866,2001-06-20,1,0,0.029200923738990463
+Logistic - ocean only,1,non_event_11911_1,2001-06-22,0,1,0.5075006170250014
+Logistic - ocean only,1,non_event_11921_1,2001-07-03,0,1,0.6114238820467006
+Logistic - ocean only,1,non_event_10393_1,2001-07-17,0,0,0.49674920452193716
+Logistic - ocean only,1,non_event_10236_1,2001-07-27,0,0,0.47939997682144797
+Logistic - ocean only,1,event_11053,2001-07-28,1,1,0.5411140631423755
+Logistic - ocean only,1,event_10948,2001-08-08,1,1,0.501911621918744
+Logistic - ocean only,1,event_10859,2001-08-27,1,1,0.5033849697216376
+Logistic - ocean only,1,non_event_11373_1,2001-09-09,0,1,0.5096859033958474
+Logistic - ocean only,1,non_event_10295_1,2001-10-01,0,1,0.5146903187782707
+Logistic - ocean only,1,event_11014,2001-11-19,1,1,0.531233189166426
+Logistic - ocean only,1,event_10813,2001-12-15,1,1,0.5003369315748729
+Logistic - ocean only,1,event_11141,2001-12-21,1,0,0.49034655856223297
+Logistic - ocean only,1,non_event_11432_1,2001-12-30,0,1,0.5210913316522054
+Logistic - ocean only,2,non_event_9866_1,2002-01-05,0,1,0.5218354885235735
+Logistic - ocean only,2,non_event_11583_1,2002-01-18,0,1,0.5222773421772057
+Logistic - ocean only,2,non_event_9888_1,2002-01-19,0,1,0.522312473244153
+Logistic - ocean only,2,non_event_10414_1,2002-01-24,0,1,0.5175764864844714
+Logistic - ocean only,2,event_10701,2002-03-11,1,0,0.45790239794691645
+Logistic - ocean only,2,non_event_10307_1,2002-03-17,0,1,0.5250551848819001
+Logistic - ocean only,2,event_10763,2002-04-22,1,0,0.48440567157287173
+Logistic - ocean only,2,event_10706,2002-06-24,1,0,0.4751607439450179
+Logistic - ocean only,2,event_10716,2002-07-01,1,0,0.4971924636097159
+Logistic - ocean only,2,event_10530,2002-07-02,1,0,0.4897933566325407
+Logistic - ocean only,2,non_event_10244_1,2002-07-19,0,0,0.4910584498571359
+Logistic - ocean only,2,non_event_10221_1,2002-07-22,0,0,0.4789972114366713
+Logistic - ocean only,2,event_10710,2002-07-22,1,0,0.4813872556580907
+Logistic - ocean only,2,event_10684,2002-07-28,1,0,0.49045156215654917
+Logistic - ocean only,2,event_10802,2002-07-29,1,0,0.49847530224753295
+Logistic - ocean only,2,non_event_10431_1,2002-08-05,0,1,0.5187131635576934
+Logistic - ocean only,2,event_10725,2002-08-17,1,1,0.5193842884772897
+Logistic - ocean only,2,non_event_11368_1,2002-08-23,0,1,0.5192496486539216
+Logistic - ocean only,2,non_event_10859_1,2002-08-30,0,1,0.5209327256199042
+Logistic - ocean only,2,non_event_11563_1,2002-09-03,0,1,0.5194486049472646
+Logistic - ocean only,2,event_10688,2002-09-05,1,0,0.48963245690391055
+Logistic - ocean only,2,event_10734,2002-09-07,1,1,0.5026962668881955
+Logistic - ocean only,2,event_10761,2002-09-15,1,1,0.5131877249473488
+Logistic - ocean only,2,non_event_10059_1,2002-10-19,0,0,0.47871661809338983
+Logistic - ocean only,2,event_10404,2003-01-01,1,1,0.50720306192155
+Logistic - ocean only,2,event_10470,2003-01-02,1,1,0.5241526861649813
+Logistic - ocean only,2,event_10414,2003-01-10,1,1,0.5198017062603661
+Logistic - ocean only,2,non_event_9915_1,2003-01-25,0,1,0.5257813062639577
+Logistic - ocean only,2,non_event_9949_1,2003-01-29,0,1,0.5246723089343677
+Logistic - ocean only,2,non_event_9864_1,2003-02-02,0,1,0.5239097696828793
+Logistic - ocean only,2,non_event_9836_1,2003-02-05,0,1,0.5236077431432954
+Logistic - ocean only,2,event_10307,2003-03-01,1,1,0.5217010427719613
+Logistic - ocean only,2,event_10358,2003-03-06,1,1,0.5051149561980028
+Logistic - ocean only,2,non_event_10138_1,2003-03-17,0,0,0.4858367542506359
+Logistic - ocean only,2,non_event_10999_1,2003-03-30,0,0,0.4872043502968799
+Logistic - ocean only,2,non_event_11021_1,2003-04-09,0,1,0.5075629512447005
+Logistic - ocean only,2,non_event_9525_1,2003-04-17,0,0,0.45532638120136865
+Logistic - ocean only,2,non_event_9375_1,2003-04-21,0,1,0.523937461926386
+Logistic - ocean only,2,non_event_9583_1,2003-04-26,0,0,0.46351192604445085
+Logistic - ocean only,2,non_event_9384_1,2003-05-25,0,1,0.5211031315971553
+Logistic - ocean only,2,event_10390,2003-05-26,1,1,0.5010949619264837
+Logistic - ocean only,2,non_event_11177_1,2003-05-29,0,0,0.4758888845777556
+Logistic - ocean only,2,non_event_10706_1,2003-06-06,0,0,0.4700888286119074
+Logistic - ocean only,2,non_event_11145_1,2003-06-09,0,1,0.506571575353312
+Logistic - ocean only,2,non_event_10866_1,2003-06-15,0,1,0.5812215370571694
+Logistic - ocean only,2,event_10236,2003-07-05,1,0,0.4935464439204002
+Logistic - ocean only,2,event_10221,2003-07-12,1,0,0.4753174458711804
+Logistic - ocean only,2,non_event_10710_1,2003-07-13,0,0,0.4826262490725788
+Logistic - ocean only,2,event_10244,2003-07-14,1,0,0.4954854279347705
+Logistic - ocean only,2,event_10393,2003-07-14,1,0,0.48296577089532117
+Logistic - ocean only,2,non_event_11053_1,2003-07-18,0,1,0.5218112142987779
+Logistic - ocean only,2,non_event_10684_1,2003-07-29,0,0,0.49653593828761844
+Logistic - ocean only,2,event_10431,2003-08-22,1,1,0.5238027291655672
+Logistic - ocean only,2,non_event_10948_1,2003-08-27,0,0,0.493060947915806
+Logistic - ocean only,2,non_event_9388_1,2003-09-11,0,1,0.5185838756644238
+Logistic - ocean only,2,non_event_9378_1,2003-09-16,0,1,0.5196175035862982
+Logistic - ocean only,2,non_event_10734_1,2003-09-24,0,0,0.4993041699190273
+Logistic - ocean only,2,non_event_10688_1,2003-09-30,0,0,0.4765940354200526
+Logistic - ocean only,2,non_event_10761_1,2003-09-30,0,1,0.5080694903125507
+Logistic - ocean only,2,event_10295,2003-10-17,1,1,0.5193707028287261
+Logistic - ocean only,2,non_event_11014_1,2003-11-05,0,1,0.5162272999496021
+Logistic - ocean only,2,event_10124,2004-01-01,1,1,0.5022976078265091
+Logistic - ocean only,2,event_9915,2004-01-07,1,1,0.5239275805496731
+Logistic - ocean only,2,event_9866,2004-01-12,1,1,0.5231690579347906
+Logistic - ocean only,2,non_event_10470_1,2004-01-16,0,1,0.5378519667279075
+Logistic - ocean only,2,event_9949,2004-01-20,1,1,0.52457434499672
+Logistic - ocean only,2,non_event_10404_1,2004-01-28,0,1,0.5230289328197449
+Logistic - ocean only,2,event_9888,2004-01-28,1,1,0.5227365695609023
+Logistic - ocean only,2,event_9929,2004-02-08,1,1,0.5204171486870702
+Logistic - ocean only,2,event_9836,2004-02-20,1,1,0.5244428704561067
+Logistic - ocean only,2,event_9864,2004-02-21,1,1,0.5246080960110033
+Logistic - ocean only,2,event_10138,2004-03-15,1,0,0.4869815010571818
+Logistic - ocean only,2,non_event_10358_1,2004-03-17,0,1,0.504529791391207
+Logistic - ocean only,2,non_event_10701_1,2004-03-17,0,0,0.4627154776453246
+Logistic - ocean only,2,non_event_9137_1,2004-03-24,0,1,0.522220420783357
+Logistic - ocean only,2,event_10080,2004-05-06,1,1,0.5257116985482023
+Logistic - ocean only,2,event_10062,2004-05-31,1,0,0.46923544986762034
+Logistic - ocean only,2,non_event_9707_1,2004-06-30,0,0,0.49389778636023773
+Logistic - ocean only,2,non_event_10716_1,2004-07-27,0,0,0.49336335559164873
+Logistic - ocean only,2,event_10042,2004-08-10,1,0,0.4920477413816084
+Logistic - ocean only,2,non_event_10725_1,2004-08-22,0,1,0.5227278619829637
+Logistic - ocean only,2,non_event_8911_1,2004-10-01,0,1,0.5102308253625791
+Logistic - ocean only,2,non_event_8913_1,2004-10-07,0,1,0.513264646454087
+Logistic - ocean only,2,event_10059,2004-10-15,1,0,0.4775180964745061
+Logistic - ocean only,2,non_event_9471_1,2004-10-17,0,1,0.5124697511678843
+Logistic - ocean only,2,non_event_8925_1,2004-11-27,0,1,0.5164618229106474
+Logistic - ocean only,2,event_9667,2005-01-01,1,0,0.4874417289202241
+Logistic - ocean only,2,non_event_9161_1,2005-01-06,0,1,0.5226509883009235
+Logistic - ocean only,2,event_9537,2005-03-14,1,0,0.4886616832672102
+Logistic - ocean only,2,event_9375,2005-04-25,1,1,0.5243547686148833
+Logistic - ocean only,2,event_9583,2005-04-25,1,0,0.4636437548719525
+Logistic - ocean only,2,event_9525,2005-04-28,1,0,0.4567703618614217
+Logistic - ocean only,2,non_event_10080_1,2005-05-12,0,1,0.5274206882694027
+Logistic - ocean only,2,event_9548,2005-05-13,1,0,0.4558515847507352
+Logistic - ocean only,2,event_9384,2005-05-29,1,1,0.521442682853748
+Logistic - ocean only,2,non_event_8525_1,2005-06-06,0,1,0.5149525069319042
+Logistic - ocean only,2,event_9707,2005-06-08,1,0,0.4827377277005488
+Logistic - ocean only,2,event_9580,2005-07-25,1,0,0.4778718675228273
+Logistic - ocean only,2,non_event_8524_1,2005-07-27,0,1,0.5199244599532662
+Logistic - ocean only,2,event_9554,2005-07-29,1,1,0.5183431233800355
+Logistic - ocean only,2,event_9312,2005-08-28,1,0,0.4951890619693255
+Logistic - ocean only,2,non_event_8530_1,2005-09-11,0,1,0.5109351184095247
+Logistic - ocean only,2,event_9388,2005-09-27,1,1,0.519352980846923
+Logistic - ocean only,2,event_9378,2005-09-29,1,1,0.5195536435743934
+Logistic - ocean only,2,non_event_8563_1,2005-10-06,0,1,0.5102004057606845
+Logistic - ocean only,2,event_9471,2005-10-15,1,1,0.5131204685774652
+Logistic - ocean only,2,non_event_8562_1,2005-10-17,0,1,0.5114108596972807
+Logistic - ocean only,2,non_event_8491_1,2005-10-20,0,1,0.5134566955749847
+Logistic - ocean only,2,event_9652,2005-11-01,1,0,0.49443641774442354
+Logistic - ocean only,2,event_9161,2006-01-12,1,1,0.5219447501303205
+Logistic - ocean only,2,non_event_8455_1,2006-01-25,0,1,0.5210078156599716
+Logistic - ocean only,2,non_event_10124_1,2006-01-28,0,0,0.49752748575494543
+Logistic - ocean only,2,non_event_9929_1,2006-02-18,0,1,0.520892709512664
+Logistic - ocean only,2,event_9137,2006-03-08,1,1,0.5204557223102937
+Logistic - ocean only,2,event_9113,2006-03-16,1,1,0.5302691941265433
+Logistic - ocean only,2,non_event_7951_1,2006-03-19,0,1,0.5238416283262614
+Logistic - ocean only,2,event_9225,2006-04-06,1,0,0.49159508731193485
+Logistic - ocean only,2,event_9125,2006-04-21,1,1,0.5057626442985831
+Logistic - ocean only,2,non_event_10062_1,2006-05-06,0,0,0.46389856913030264
+Logistic - ocean only,2,non_event_8605_1,2006-07-01,0,1,0.5032657308218017
+Logistic - ocean only,2,non_event_9554_1,2006-07-02,0,1,0.5039327264548573
+Logistic - ocean only,2,event_9174,2006-07-13,1,1,0.5002906729169254
+Logistic - ocean only,2,non_event_9580_1,2006-07-27,0,0,0.4766115543242791
+Logistic - ocean only,2,non_event_9312_1,2006-08-06,0,1,0.5096571575371237
+Logistic - ocean only,2,non_event_8109_1,2006-08-07,0,1,0.5231851539611954
+Logistic - ocean only,2,non_event_10042_1,2006-08-26,0,0,0.4920155496522337
+Logistic - ocean only,2,event_8911,2006-10-18,1,1,0.5110286340505968
+Logistic - ocean only,3,event_8913,2006-10-27,1,0,0.4789086011402939
+Logistic - ocean only,3,event_8925,2006-11-01,1,0,0.4789351030753712
+Logistic - ocean only,3,non_event_9652_1,2006-11-02,0,0,0.4902583841568853
+Logistic - ocean only,3,event_8455,2007-01-14,1,0,0.4715237371198417
+Logistic - ocean only,3,non_event_9667_1,2007-01-27,0,1,0.5008638334727143
+Logistic - ocean only,3,non_event_8000_1,2007-02-02,0,0,0.468431411355102
+Logistic - ocean only,3,non_event_7059_1,2007-02-12,0,0,0.4974464365447012
+Logistic - ocean only,3,non_event_9537_1,2007-03-14,0,1,0.8788428548282756
+Logistic - ocean only,3,non_event_9113_1,2007-03-18,0,1,0.8350243920523698
+Logistic - ocean only,3,non_event_9125_1,2007-04-14,0,1,0.7386492999533338
+Logistic - ocean only,3,non_event_8003_1,2007-05-27,0,0,0.46706099467527284
+Logistic - ocean only,3,non_event_9548_1,2007-05-28,0,1,0.5556144924303646
+Logistic - ocean only,3,event_8525,2007-06-04,1,0,0.47658067675506166
+Logistic - ocean only,3,event_8524,2007-07-17,1,0,0.46982499307566283
+Logistic - ocean only,3,non_event_9174_1,2007-07-27,0,1,0.534048929980194
+Logistic - ocean only,3,event_8605,2007-07-31,1,0,0.47700597060220473
+Logistic - ocean only,3,event_8530,2007-09-04,1,0,0.4778131962276675
+Logistic - ocean only,3,event_8491,2007-10-13,1,0,0.48273291770883425
+Logistic - ocean only,3,event_8562,2007-10-14,1,0,0.4826329780122022
+Logistic - ocean only,3,event_8563,2007-10-23,1,0,0.4820629004845488
+Logistic - ocean only,3,event_8000,2008-02-03,1,0,0.4701960621160249
+Logistic - ocean only,3,event_8194,2008-03-01,1,1,0.50459094985251
+Logistic - ocean only,3,event_7951,2008-03-13,1,0,0.4719071134930221
+Logistic - ocean only,3,non_event_9225_1,2008-04-05,0,0,0.49602920986935706
+Logistic - ocean only,3,non_event_7524_1,2008-05-03,0,0,0.4925709639681298
+Logistic - ocean only,3,non_event_7119_1,2008-05-22,0,1,0.5105707503695693
+Logistic - ocean only,3,event_8003,2008-05-26,1,0,0.47010445741144014
+Logistic - ocean only,3,event_8097,2008-06-22,1,1,0.5100951317266734
+Logistic - ocean only,3,non_event_7471_1,2008-06-29,0,1,0.5005156957237613
+Logistic - ocean only,3,event_8109,2008-08-07,1,0,0.46514792586852965
+Logistic - ocean only,3,event_7901,2008-09-03,1,0,0.49311936016788427
+Logistic - ocean only,3,non_event_6835_1,2008-09-23,0,0,0.48446603707431135
+Logistic - ocean only,3,event_7059,2009-02-10,1,0,0.49950537675200035
+Logistic - ocean only,3,non_event_8194_1,2009-03-21,0,1,0.5116672755328948
+Logistic - ocean only,3,event_7543,2009-03-23,1,1,0.5209069300229066
+Logistic - ocean only,3,non_event_6351_1,2009-04-19,0,0,0.46636960165679475
+Logistic - ocean only,3,event_7524,2009-05-01,1,0,0.4771248576381903
+Logistic - ocean only,3,event_7119,2009-05-04,1,1,0.5131882855779556
+Logistic - ocean only,3,event_7556,2009-05-11,1,1,0.5089683846781181
+Logistic - ocean only,3,event_7281,2009-05-26,1,0,0.47575930571831465
+Logistic - ocean only,3,event_7491,2009-06-08,1,0,0.4959210957497746
+Logistic - ocean only,3,non_event_8097_1,2009-06-11,0,1,0.5030733178128054
+Logistic - ocean only,3,event_7471,2009-06-15,1,1,0.5090792867328878
+Logistic - ocean only,3,non_event_6506_1,2009-07-31,0,1,0.5236843419147091
+Logistic - ocean only,3,non_event_5675_1,2010-02-10,0,0,0.47037850185957053
+Logistic - ocean only,3,non_event_7281_1,2010-05-05,0,0,0.47371342761302604
+Logistic - ocean only,3,non_event_5782_1,2010-05-18,0,0,0.4630682646777525
+Logistic - ocean only,3,event_6537,2010-06-01,1,0,0.4793108183705993
+Logistic - ocean only,3,event_6506,2010-07-12,1,1,0.5188847195725984
+Logistic - ocean only,3,event_6824,2010-08-02,1,0,0.4969182167799742
+Logistic - ocean only,3,event_6522,2010-08-04,1,0,0.4745797439169774
+Logistic - ocean only,3,non_event_5969_1,2010-08-31,0,1,0.5570343992505669
+Logistic - ocean only,3,event_6835,2010-09-10,1,1,0.5399905378501321
+Logistic - ocean only,3,non_event_7901_1,2010-09-24,0,0,0.48212397997725887
+Logistic - ocean only,3,non_event_7543_1,2011-03-28,0,1,0.5334888342768396
+Logistic - ocean only,3,event_6351,2011-04-04,1,0,0.4731621674262827
+Logistic - ocean only,3,non_event_5308_1,2011-04-14,0,0,0.48989919164299456
+Logistic - ocean only,3,non_event_7556_1,2011-05-30,0,1,0.5124775066711238
+Logistic - ocean only,3,non_event_7491_1,2011-06-10,0,0,0.4972276253958208
+Logistic - ocean only,3,non_event_5268_1,2011-06-30,0,0,0.4980253240269837
+Logistic - ocean only,3,event_6318,2011-07-22,1,0,0.4648861680426277
+Logistic - ocean only,3,non_event_6824_1,2011-08-05,0,0,0.49812966313052987
+Logistic - ocean only,3,non_event_5281_1,2011-08-07,0,0,0.46642819435065513
+Logistic - ocean only,3,event_6432,2011-08-30,1,0,0.4987000183195892
+Logistic - ocean only,3,non_event_5396_1,2011-10-19,0,1,0.5017374273631073
+Logistic - ocean only,3,event_6003,2011-10-21,1,1,0.517265241006424
+Logistic - ocean only,3,non_event_5711_1,2011-11-27,0,0,0.47678627216952896
+Logistic - ocean only,3,non_event_4896_1,2012-01-12,0,0,0.4922430981693763
+Logistic - ocean only,3,event_5675,2012-02-18,1,0,0.46835242172554736
+Logistic - ocean only,3,non_event_4852_1,2012-04-09,0,1,0.5199849733977737
+Logistic - ocean only,3,event_5782,2012-05-15,1,0,0.4709268750921741
+Logistic - ocean only,3,non_event_4658_1,2012-06-15,0,1,0.5054639422826248
+Logistic - ocean only,3,non_event_6537_1,2012-06-21,0,0,0.4778076630835119
+Logistic - ocean only,3,event_5803,2012-07-17,1,1,0.5208203101690373
+Logistic - ocean only,3,non_event_4846_1,2012-07-27,0,1,0.5295977907434576
+Logistic - ocean only,3,event_5969,2012-08-01,1,1,0.5493970625855754
+Logistic - ocean only,3,non_event_6432_1,2012-08-05,0,0,0.4937865293666076
+Logistic - ocean only,3,non_event_4661_1,2012-08-12,0,0,0.47142117918491006
+Logistic - ocean only,3,non_event_6522_1,2012-08-13,0,0,0.4703410155532031
+Logistic - ocean only,3,event_5784,2012-10-03,1,0,0.46642340738684235
+Logistic - ocean only,3,event_5711,2012-11-25,1,0,0.4746823315133186
+Logistic - ocean only,3,event_5792,2012-12-07,1,0,0.47875248094420797
+Logistic - ocean only,3,non_event_4223_1,2013-01-14,0,1,0.6389041905967192
+Logistic - ocean only,3,event_5308,2013-04-09,1,0,0.49733757318175215
+Logistic - ocean only,3,non_event_4864_1,2013-04-20,0,1,0.5363946590365877
+Logistic - ocean only,3,non_event_4710_1,2013-06-15,0,0,0.46733502976138014
+Logistic - ocean only,3,event_5335,2013-06-15,1,0,0.4958832177840262
+Logistic - ocean only,3,event_5268,2013-06-24,1,1,0.5234734496564334
+Logistic - ocean only,3,event_5277,2013-07-01,1,1,0.5001334663635489
+Logistic - ocean only,3,non_event_4876_1,2013-07-07,0,1,0.506606616694054
+Logistic - ocean only,3,non_event_6318_1,2013-07-17,0,0,0.46645007758730916
+Logistic - ocean only,3,event_5281,2013-08-05,1,0,0.46659565340569953
+Logistic - ocean only,3,non_event_6003_1,2013-10-06,0,1,0.5121386779079573
+Logistic - ocean only,3,non_event_5784_1,2013-10-17,0,0,0.47152166563245923
+Logistic - ocean only,3,event_5396,2013-10-21,1,0,0.4982298129655725
+Logistic - ocean only,3,non_event_4631_1,2013-12-02,0,0,0.4878187014902024
+Logistic - ocean only,3,event_4896,2014-01-17,1,0,0.4850904414871975
+Logistic - ocean only,3,event_4852,2014-04-01,1,1,0.5246223079390863
+Logistic - ocean only,3,event_4446,2014-04-11,1,0,0.4810358561010511
+Logistic - ocean only,3,event_4864,2014-04-22,1,1,0.5351720094854352
+Logistic - ocean only,3,event_4658,2014-06-10,1,0,0.49213047791985204
+Logistic - ocean only,3,event_4710,2014-06-23,1,0,0.4640004950638701
+Logistic - ocean only,3,non_event_5803_1,2014-07-17,0,0,0.4917554738526106
+Logistic - ocean only,3,event_4846,2014-07-22,1,1,0.5213740365352599
+Logistic - ocean only,3,event_4876,2014-07-23,1,0,0.4984286990879519
+Logistic - ocean only,3,non_event_3846_1,2014-08-06,0,0,0.4981126192823655
+Logistic - ocean only,3,event_4661,2014-08-26,1,0,0.4788722632751655
+Logistic - ocean only,3,non_event_3562_1,2014-10-25,0,1,0.5418913860329128
+Logistic - ocean only,3,event_4631,2014-12-15,1,0,0.49719747160355837
+Logistic - ocean only,3,non_event_5792_1,2014-12-31,0,0,0.4732644278503159
+Logistic - ocean only,3,event_4144,2015-01-05,1,0,0.4763223590670643
+Logistic - ocean only,3,event_4223,2015-01-06,1,1,0.6298067617180947
+Logistic - ocean only,3,non_event_3960_1,2015-01-16,0,1,0.5163094821569589
+Logistic - ocean only,3,non_event_3829_1,2015-02-15,0,1,0.5042095093795401
+Logistic - ocean only,3,event_4231,2015-03-26,1,0,0.4729085084112539
+Logistic - ocean only,3,event_4346,2015-04-01,1,0,0.4910003958880819
+Logistic - ocean only,3,non_event_3600_1,2015-04-05,0,1,0.5045159988426949
+Logistic - ocean only,3,non_event_4446_1,2015-04-30,0,0,0.47934497616387384
+Logistic - ocean only,3,non_event_3974_1,2015-05-27,0,0,0.4740477865237094
+Logistic - ocean only,3,non_event_3498_1,2015-05-28,0,1,0.5041023233967409
+Logistic - ocean only,3,non_event_5335_1,2015-06-03,0,0,0.4997407985290002
+Logistic - ocean only,3,non_event_3523_1,2015-06-04,0,1,0.5372643406904697
+Logistic - ocean only,4,event_4286,2015-06-24,1,1,0.5028939464288976
+Logistic - ocean only,4,event_4253,2015-06-29,1,1,0.502358309496749
+Logistic - ocean only,4,non_event_3814_1,2015-07-01,0,1,0.5041178113588503
+Logistic - ocean only,4,non_event_5277_1,2015-07-06,0,1,0.509670552102681
+Logistic - ocean only,4,event_4047,2015-07-18,1,0,0.41512256734759423
+Logistic - ocean only,4,event_4227,2015-08-02,1,0,0.4906272262556052
+Logistic - ocean only,4,non_event_3508_1,2015-08-27,0,1,0.5032513149010933
+Logistic - ocean only,4,event_4264,2015-09-28,1,0,0.4986847724455435
+Logistic - ocean only,4,event_3960,2016-01-01,1,1,0.5067428220994518
+Logistic - ocean only,4,event_3829,2016-02-16,1,0,0.48846802477010565
+Logistic - ocean only,4,event_3645,2016-03-01,1,1,0.507150877865385
+Logistic - ocean only,4,non_event_3109_1,2016-03-03,0,1,0.5038701330572589
+Logistic - ocean only,4,non_event_2908_1,2016-03-13,0,1,0.5058190003733042
+Logistic - ocean only,4,non_event_4231_1,2016-03-26,0,1,0.5057981858873118
+Logistic - ocean only,4,event_3941,2016-04-05,1,1,0.5128045766050041
+Logistic - ocean only,4,non_event_4346_1,2016-04-17,0,1,0.5098797815634858
+Logistic - ocean only,4,event_3600,2016-04-24,1,1,0.5116646533891764
+Logistic - ocean only,4,non_event_3120_1,2016-05-10,0,1,0.5108168915756778
+Logistic - ocean only,4,event_3974,2016-05-23,1,0,0.4988889752049272
+Logistic - ocean only,4,non_event_4286_1,2016-06-08,0,1,0.5043635936011859
+Logistic - ocean only,4,non_event_4253_1,2016-06-19,0,1,0.5037987756174748
+Logistic - ocean only,4,non_event_2702_1,2016-06-20,0,0,0.4979535855206558
+Logistic - ocean only,4,event_3814,2016-07-06,1,0,0.4955015061188037
+Logistic - ocean only,4,non_event_2765_1,2016-07-26,0,1,0.5064041001757956
+Logistic - ocean only,4,non_event_3482_1,2016-08-01,0,0,0.4911184548029408
+Logistic - ocean only,4,event_3846,2016-08-08,1,0,0.4998113718843449
+Logistic - ocean only,4,event_3562,2016-10-15,1,0,0.4906630136431715
+Logistic - ocean only,4,non_event_3024_1,2016-11-07,0,1,0.5069983789541392
+Logistic - ocean only,4,non_event_3231_1,2016-11-30,0,1,0.5071823083514182
+Logistic - ocean only,4,event_3664,2016-12-01,1,1,0.507665655478763
+Logistic - ocean only,4,event_3667,2016-12-29,1,1,0.5068205907443771
+Logistic - ocean only,4,event_3655,2016-12-31,1,1,0.507035874424734
+Logistic - ocean only,4,non_event_3009_1,2017-01-11,0,1,0.5057093397716922
+Logistic - ocean only,4,non_event_3001_1,2017-01-12,0,1,0.5063974330149786
+Logistic - ocean only,4,non_event_4144_1,2017-01-24,0,1,0.5043435716525873
+Logistic - ocean only,4,event_3427,2017-01-31,1,0,0.4963784333533871
+Logistic - ocean only,4,event_3410,2017-03-27,1,1,0.5082399891243029
+Logistic - ocean only,4,non_event_2320_1,2017-04-01,0,0,0.499447004377803
+Logistic - ocean only,4,non_event_3941_1,2017-04-07,0,1,0.5110821387622317
+Logistic - ocean only,4,event_3404,2017-05-08,1,1,0.5115161798738574
+Logistic - ocean only,4,event_3498,2017-05-16,1,0,0.4986592448232281
+Logistic - ocean only,4,event_3523,2017-06-06,1,0,0.48609961351271436
+Logistic - ocean only,4,non_event_2331_1,2017-06-11,0,1,0.5084416144959931
+Logistic - ocean only,4,non_event_2477_1,2017-06-14,0,1,0.5076776448673734
+Logistic - ocean only,4,event_3196,2017-06-20,1,1,0.5033480330020477
+Logistic - ocean only,4,non_event_4047_1,2017-07-04,0,0,0.49751657337296545
+Logistic - ocean only,4,event_3339,2017-07-10,1,1,0.500132825190792
+Logistic - ocean only,4,event_3516,2017-07-17,1,1,0.5103746679412039
+Logistic - ocean only,4,non_event_2538_1,2017-07-30,0,1,0.50336930443962
+Logistic - ocean only,4,non_event_2471_1,2017-07-31,0,1,0.5036355841403766
+Logistic - ocean only,4,event_3508,2017-08-03,1,1,0.5013384989917263
+Logistic - ocean only,4,non_event_4227_1,2017-08-11,0,0,0.49822277794558606
+Logistic - ocean only,4,event_3386,2017-08-14,1,0,0.4894646435775057
+Logistic - ocean only,4,event_3482,2017-08-22,1,0,0.49446519781629533
+Logistic - ocean only,4,non_event_4264_1,2017-09-18,0,0,0.4962196658502126
+Logistic - ocean only,4,event_3231,2017-11-01,1,1,0.5066158472759864
+Logistic - ocean only,4,non_event_3664_1,2017-12-29,0,1,0.5075573823577686
+Logistic - ocean only,4,non_event_3655_1,2017-12-30,0,1,0.5074132388693506
+Logistic - ocean only,4,non_event_3667_1,2017-12-31,0,1,0.5073197040807583
+Logistic - ocean only,4,event_3009,2018-01-12,1,1,0.5030895477586538
+Logistic - ocean only,4,event_3001,2018-01-15,1,1,0.5048581980949541
+Logistic - ocean only,4,non_event_3427_1,2018-01-25,0,0,0.4670044541779497
+Logistic - ocean only,4,event_3109,2018-03-15,1,1,0.5076312667546636
+Logistic - ocean only,4,event_2908,2018-03-20,1,1,0.5057468979781934
+Logistic - ocean only,4,non_event_3645_1,2018-03-22,0,1,0.5077350759439602
+Logistic - ocean only,4,non_event_2587_1,2018-04-09,0,1,0.5076730932767589
+Logistic - ocean only,4,event_3120,2018-05-09,1,1,0.5106083059540197
+Logistic - ocean only,4,non_event_3404_1,2018-05-31,0,1,0.5090601780739237
+Logistic - ocean only,4,event_2702,2018-06-18,1,1,0.5018452534319071
+Logistic - ocean only,4,event_2698,2018-06-26,1,0,0.4998352928754851
+Logistic - ocean only,4,non_event_3196_1,2018-06-29,0,0,0.4856502997361765
+Logistic - ocean only,4,non_event_2283_1,2018-07-11,0,1,0.5085264612720669
+Logistic - ocean only,4,non_event_3516_1,2018-07-11,0,1,0.5081693055402439
+Logistic - ocean only,4,non_event_3339_1,2018-07-15,0,1,0.5019296302252334
+Logistic - ocean only,4,event_2765,2018-07-25,1,1,0.5072060711391794
+Logistic - ocean only,4,non_event_2121_1,2018-07-26,0,0,0.4558866561683051
+Logistic - ocean only,4,non_event_3386_1,2018-08-18,0,1,0.5042749322430284
+Logistic - ocean only,4,event_2655,2018-08-22,1,1,0.5026150635022373
+Logistic - ocean only,4,non_event_2087_1,2018-10-11,0,1,0.510466582147557
+Logistic - ocean only,4,event_3024,2018-11-23,1,1,0.5061536533277946
+Logistic - ocean only,4,non_event_1663_1,2019-03-05,0,0,0.4978154126654525
+Logistic - ocean only,4,non_event_3410_1,2019-03-12,0,0,0.49326533692538854
+Logistic - ocean only,4,non_event_1301_1,2019-04-02,0,1,0.5098901355682173
+Logistic - ocean only,4,event_2587,2019-04-15,1,1,0.5107687844584836
+Logistic - ocean only,4,event_2320,2019-04-29,1,1,0.5111505434114397
+Logistic - ocean only,4,event_2331,2019-06-24,1,1,0.5053166198557533
+Logistic - ocean only,4,event_2477,2019-06-28,1,1,0.5044782234328535
+Logistic - ocean only,4,event_2121,2019-07-11,1,0,0.4781180202296682
+Logistic - ocean only,4,event_2538,2019-07-12,1,1,0.5066912284053882
+Logistic - ocean only,4,event_2283,2019-07-22,1,0,0.49975483885680316
+Logistic - ocean only,4,event_2471,2019-07-24,1,1,0.5049697719535015
+Logistic - ocean only,4,event_2165,2019-08-24,1,1,0.5068488056572888
+Logistic - ocean only,4,non_event_2655_1,2019-08-29,0,1,0.5019392071230329
+Logistic - ocean only,4,non_event_1457_1,2019-09-18,0,1,0.5112909353091785
+Logistic - ocean only,4,event_2438,2019-09-26,1,1,0.5035414941069161
+Logistic - ocean only,4,event_2440,2019-09-26,1,1,0.5029793275290549
+Logistic - ocean only,4,event_2292,2019-11-05,1,0,0.49267405446415274
+Logistic - ocean only,4,event_1951,2020-03-09,1,1,0.5077759683048447
+Logistic - ocean only,4,event_1988,2020-03-09,1,1,0.5038069310778417
+Logistic - ocean only,4,non_event_1053_1,2020-03-26,0,1,0.5054650107413751
+Logistic - ocean only,4,event_1941,2020-03-27,1,1,0.5041732668226918
+Logistic - ocean only,4,event_1663,2020-03-30,1,0,0.4977057948326263
+Logistic - ocean only,4,event_1922,2020-05-21,1,1,0.5034583495215984
+Logistic - ocean only,4,non_event_877_1,2020-06-11,0,1,0.5073211899330101
+Logistic - ocean only,4,non_event_2698_1,2020-06-30,0,1,0.5061080647288365
+Logistic - ocean only,4,non_event_990_1,2020-07-31,0,1,0.5032441750592089
+Logistic - ocean only,4,non_event_2165_1,2020-08-01,0,1,0.5059157992615497
+Logistic - ocean only,4,event_1524,2020-08-19,1,0,0.4937731941194266
+Logistic - ocean only,4,event_1862,2020-09-19,1,1,0.5026842266279633
+Logistic - ocean only,4,event_1867,2020-09-19,1,1,0.5035274426834987
+Logistic - ocean only,4,event_1671,2020-10-12,1,1,0.5004329238410501
+Logistic - ocean only,4,event_2087,2020-10-12,1,1,0.5109496834578432
+Logistic - ocean only,4,non_event_1507_1,2020-10-26,0,1,0.5035914371647614
+Logistic - ocean only,4,event_1966,2020-12-14,1,1,0.502020218512468
+Logistic - ocean only,4,event_1702,2020-12-22,1,1,0.5001598246800126
+Logistic - ocean only,4,event_1751,2020-12-22,1,1,0.5045847944341255
+Logistic - ocean only,4,event_1371,2021-01-12,1,1,0.5042961490334515
+Logistic - ocean only,4,event_1342,2021-01-28,1,1,0.5057766621015384
+Logistic - ocean only,4,event_1335,2021-02-08,1,1,0.5056071611332352
+Logistic - ocean only,4,event_1379,2021-02-08,1,1,0.5039001125743433
+Logistic - ocean only,4,event_1317,2021-02-26,1,1,0.502719585731535
+Logistic - ocean only,4,non_event_1003_1,2021-03-07,0,1,0.5081539807016813
+Logistic - ocean only,4,non_event_1951_1,2021-03-29,0,1,0.5072820420900922
+Logistic - ocean only,4,non_event_720_1,2021-04-05,0,0,0.4975291139096409
+Logistic - ocean only,4,event_1301,2021-04-12,1,1,0.5080902045056118
+Logistic - ocean only,4,non_event_1922_1,2021-05-13,0,1,0.5017606736578762
+Logistic - ocean only,4,event_1271,2021-05-30,1,0,0.46173830764455703
+Logistic - ocean only,4,non_event_820_1,2021-06-09,0,0,0.4966112723096787
+Logistic - ocean only,5,non_event_1040_1,2021-07-25,0,0,0.48596186471338787
+Logistic - ocean only,5,non_event_1052_1,2021-08-07,0,0,0.47307005971494437
+Logistic - ocean only,5,event_1168,2021-08-15,1,0,0.4972421949675762
+Logistic - ocean only,5,non_event_2438_1,2021-09-07,0,1,0.5238252094792245
+Logistic - ocean only,5,event_1457,2021-09-15,1,0,0.4902932784880181
+Logistic - ocean only,5,non_event_1867_1,2021-09-18,0,1,0.5237625455223466
+Logistic - ocean only,5,non_event_2440_1,2021-09-19,0,1,0.5217640261624541
+Logistic - ocean only,5,non_event_1862_1,2021-09-20,0,1,0.5216654824181939
+Logistic - ocean only,5,non_event_1671_1,2021-10-01,0,0,0.48375296357410447
+Logistic - ocean only,5,event_1507,2021-10-08,1,0,0.4858091661048211
+Logistic - ocean only,5,non_event_1034_1,2021-10-12,0,1,0.5226371271251643
+Logistic - ocean only,5,non_event_2292_1,2021-11-06,0,1,0.5046136818268867
+Logistic - ocean only,5,non_event_1702_1,2021-12-23,0,1,0.5177647520377481
+Logistic - ocean only,5,non_event_1371_1,2022-01-30,0,1,0.5198714007858866
+Logistic - ocean only,5,non_event_1317_1,2022-02-26,0,1,0.5190404197874486
+Logistic - ocean only,5,non_event_1379_1,2022-02-27,0,1,0.518751541037598
+Logistic - ocean only,5,non_event_1941_1,2022-03-02,0,1,0.5191619525722446
+Logistic - ocean only,5,non_event_423_1,2022-03-13,0,1,0.5196255376322321
+Logistic - ocean only,5,non_event_1988_1,2022-03-22,0,1,0.5210183467642856
+Logistic - ocean only,5,event_1053,2022-03-22,1,0,0.48592939509848354
+Logistic - ocean only,5,event_1003,2022-03-28,1,0,0.4697923067258372
+Logistic - ocean only,5,non_event_1271_1,2022-05-02,0,0,0.4964781923257275
+Logistic - ocean only,5,event_838,2022-05-20,1,1,0.5177165534450017
+Logistic - ocean only,5,non_event_254_1,2022-05-23,0,1,0.5134306760836799
+Logistic - ocean only,5,event_877,2022-06-09,1,1,0.5163367885116451
+Logistic - ocean only,5,event_820,2022-06-28,1,0,0.460013685644533
+Logistic - ocean only,5,event_821,2022-06-28,1,0,0.484285153556717
+Logistic - ocean only,5,event_990,2022-07-11,1,0,0.48109754587048004
+Logistic - ocean only,5,event_1040,2022-07-20,1,0,0.4982653451841355
+Logistic - ocean only,5,event_817,2022-07-22,1,0,0.4651031875561849
+Logistic - ocean only,5,event_1052,2022-08-02,1,0,0.48912321688896077
+Logistic - ocean only,5,non_event_1524_1,2022-08-07,0,1,0.5087406449557903
+Logistic - ocean only,5,non_event_564_1,2022-08-18,0,0,0.4993202678452685
+Logistic - ocean only,5,non_event_373_1,2022-09-29,0,1,0.523214069082637
+Logistic - ocean only,5,event_1014,2022-10-07,1,1,0.521921964702392
+Logistic - ocean only,5,event_1034,2022-10-07,1,1,0.5223265535503531
+Logistic - ocean only,5,non_event_1966_1,2022-12-02,0,1,0.5231569530570598
+Logistic - ocean only,5,non_event_1751_1,2022-12-05,0,1,0.5234617995386731
+Logistic - ocean only,5,non_event_1342_1,2023-01-26,0,1,0.5204900578897059
+Logistic - ocean only,5,non_event_366_1,2023-02-14,0,1,0.5172460044053946
+Logistic - ocean only,5,non_event_1335_1,2023-02-18,0,1,0.5167849084307126
+Logistic - ocean only,5,event_680,2023-02-24,1,0,0.4520250636145482
+Logistic - ocean only,5,non_event_77_1,2023-03-06,0,0,0.42139299681206194
+Logistic - ocean only,5,event_710,2023-04-10,1,0,0.472902945868353
+Logistic - ocean only,5,event_720,2023-04-17,1,0,0.4735279470334841
+Logistic - ocean only,5,non_event_170_1,2023-05-25,0,0,0.49898967676259004
+Logistic - ocean only,5,event_623,2023-06-05,1,1,0.5183171419743083
+Logistic - ocean only,5,non_event_821_1,2023-06-13,0,0,0.4782143649391364
+Logistic - ocean only,5,non_event_355_1,2023-07-24,0,1,0.5218214113222361
+Logistic - ocean only,5,non_event_1168_1,2023-08-08,0,0,0.4971472633565435
+Logistic - ocean only,5,event_596,2023-08-13,1,1,0.5152850441204543
+Logistic - ocean only,5,event_564,2023-08-23,1,0,0.4972489149942154
+Logistic - ocean only,5,event_670,2023-08-23,1,0,0.47333691880376005
+Logistic - ocean only,5,event_601,2023-09-03,1,1,0.5175041690806222
+Logistic - ocean only,5,event_600,2023-09-29,1,1,0.5148645186160871
+Logistic - ocean only,5,non_event_1014_1,2023-10-07,0,1,0.5229719163612172
+Logistic - ocean only,5,non_event_107_1,2023-11-07,0,1,0.5237984704476819
+Logistic - ocean only,5,event_610,2023-11-15,1,1,0.5071944362440581
+Logistic - ocean only,5,event_575,2023-12-12,1,1,0.5182047709422283
+Logistic - ocean only,5,event_750,2023-12-18,1,0,0.49387783067626273
+Logistic - ocean only,5,non_event_15_1,2024-01-03,0,1,0.5204810572288463
+Logistic - ocean only,5,non_event_132_1,2024-01-13,0,1,0.520693841516212
+Logistic - ocean only,5,non_event_17_1,2024-01-21,0,1,0.5185698194359418
+Logistic - ocean only,5,non_event_680_1,2024-02-04,0,0,0.44337992222122063
+Logistic - ocean only,5,event_366,2024-02-13,1,1,0.5134167337315904
+Logistic - ocean only,5,event_423,2024-03-15,1,1,0.5197276410123446
+Logistic - ocean only,5,event_315,2024-03-18,1,0,0.4589749431041107
+Logistic - ocean only,5,event_352,2024-04-12,1,1,0.5222087267342913
+Logistic - ocean only,5,non_event_3_1,2024-04-28,0,0,0.4743160604111235
+Logistic - ocean only,5,non_event_838_1,2024-05-02,0,1,0.5237735631492366
+Logistic - ocean only,5,non_event_36_1,2024-05-14,0,1,0.5112768927049338
+Logistic - ocean only,5,event_254,2024-05-22,1,1,0.508647286863849
+Logistic - ocean only,5,non_event_97_1,2024-06-17,0,0,0.4861359153148612
+Logistic - ocean only,5,event_320,2024-06-17,1,0,0.4784578951135577
+Logistic - ocean only,5,event_308,2024-07-01,1,0,0.49091210422416837
+Logistic - ocean only,5,non_event_817_1,2024-07-12,0,0,0.42639137623528217
+Logistic - ocean only,5,event_355,2024-07-19,1,1,0.5221283470241062
+Logistic - ocean only,5,event_491,2024-07-24,1,0,0.49180939317838157
+Logistic - ocean only,5,event_268,2024-08-05,1,1,0.5177476696833472
+Logistic - ocean only,5,event_266,2024-08-11,1,1,0.5149593259814849
+Logistic - ocean only,5,event_465,2024-08-27,1,1,0.5330998211499817
+Logistic - ocean only,5,non_event_670_1,2024-08-28,0,0,0.47714660067037684
+Logistic - ocean only,5,event_325,2024-09-01,1,0,0.4961021803453407
+Logistic - ocean only,5,event_373,2024-09-27,1,1,0.5224227856406378
+Logistic - ocean only,5,non_event_750_1,2024-12-13,0,0,0.4942565917116989
+Logistic - ocean only,5,event_132,2025-01-25,1,1,0.5218304397891699
+Logistic - ocean only,5,non_event_28_1,2025-02-16,0,1,0.5149058251416947
+Logistic - ocean only,5,event_50,2025-03-01,1,1,0.5196588466799904
+Logistic - ocean only,5,event_29,2025-03-17,1,0,0.4939070248413676
+Logistic - ocean only,5,event_77,2025-03-24,1,0,0.445292085858223
+Logistic - ocean only,5,event_47,2025-03-31,1,1,0.5193748869448334
+Logistic - ocean only,5,non_event_352_1,2025-04-15,0,1,0.5242570546493928
+Logistic - ocean only,5,event_39,2025-04-26,1,1,0.5197755186447154
+Logistic - ocean only,5,non_event_12_1,2025-04-27,0,0,0.4783768588852277
+Logistic - ocean only,5,non_event_710_1,2025-04-29,0,0,0.47533110350899244
+Logistic - ocean only,5,non_event_0_1,2025-05-02,0,0,0.47473648430732657
+Logistic - ocean only,5,event_36,2025-05-02,1,1,0.5111706790513958
+Logistic - ocean only,5,event_170,2025-05-06,1,0,0.4977756148609932
+Logistic - ocean only,5,event_94,2025-06-02,1,0,0.488090677015814
+Logistic - ocean only,5,event_97,2025-06-02,1,0,0.47799065295959725
+Logistic - ocean only,5,non_event_623_1,2025-06-07,0,1,0.5168871855088663
+Logistic - ocean only,5,event_89,2025-06-09,1,0,0.4789252249819923
+Logistic - ocean only,5,non_event_308_1,2025-07-24,0,0,0.49446392344138984
+Logistic - ocean only,5,non_event_266_1,2025-08-02,0,1,0.5154380068400193
+Logistic - ocean only,5,non_event_268_1,2025-08-09,0,1,0.5166228103929542
+Logistic - ocean only,5,event_81,2025-08-18,1,0,0.48301728856047765
+Logistic - ocean only,5,non_event_596_1,2025-08-22,0,1,0.515368159210448
+Logistic - ocean only,5,non_event_601_1,2025-09-18,0,1,0.5165843957594518
+Logistic - ocean only,5,non_event_600_1,2025-09-20,0,1,0.5147640129174884
+Logistic - ocean only,5,non_event_610_1,2025-11-26,0,1,0.5102685373038816
+Logistic - ocean only,5,event_107,2025-11-28,1,1,0.5237842899768683
+Logistic - ocean only,5,non_event_575_1,2025-12-18,0,1,0.5170785289474594
+Logistic - ocean only,5,event_15,2026-01-15,1,1,0.5202960492558292
+Logistic - ocean only,5,event_17,2026-01-15,1,1,0.5202954581917829
+Logistic - ocean only,5,event_28,2026-02-26,1,1,0.513099043962721
+Logistic - ocean only,5,non_event_315_1,2026-03-06,0,0,0.45667512609220684
+Logistic - ocean only,5,non_event_29_1,2026-03-08,0,0,0.49099514475125816
+Logistic - ocean only,5,non_event_50_1,2026-03-17,0,1,0.5192511325509268
+Logistic - ocean only,5,non_event_47_1,2026-03-20,0,1,0.518703658907853
+Logistic - ocean only,5,event_3,2026-04-20,1,0,0.4753066500788555
+Logistic - ocean only,5,event_12,2026-04-27,1,0,0.4747260203517788
+Logistic - ocean only,5,non_event_39_1,2026-04-30,0,1,0.5183981525547446
+Logistic - ocean only,5,event_0,2026-05-04,1,0,0.47216189555839544
+Logistic - ocean only,5,non_event_320_1,2026-06-13,0,0,0.4823665108408051
+Logistic - ocean only,5,non_event_89_1,2026-06-27,0,0,0.4948425296186946
+Logistic - ocean only,5,non_event_94_1,2026-06-27,0,0,0.49672520811984877
+Logistic - ocean only,5,non_event_491_1,2026-07-01,0,1,0.5029946041884511
+Logistic - ocean only,5,non_event_81_1,2026-08-02,0,0,0.48470512343655275
+Logistic - ocean only,5,non_event_465_1,2026-08-21,0,1,0.5279106376858677
+Logistic - ocean only,5,non_event_325_1,2026-09-07,0,0,0.48891924043679047
+Logistic - ocean plus season,1,non_event_12833_1,1997-09-09,0,1,0.5631589577754852
+Logistic - ocean plus season,1,non_event_12217_1,1997-09-22,0,1,0.5606196985136552
+Logistic - ocean plus season,1,non_event_12642_1,1997-09-26,0,1,0.5457827072267412
+Logistic - ocean plus season,1,event_12353,1997-09-28,1,1,0.5507333414209482
+Logistic - ocean plus season,1,non_event_12610_1,1997-09-29,0,1,0.5641076374500023
+Logistic - ocean plus season,1,event_12359,1997-10-08,1,1,0.5623831719499977
+Logistic - ocean plus season,1,non_event_12615_1,1997-10-27,0,1,0.5691302632184935
+Logistic - ocean plus season,1,non_event_12363_1,1998-01-01,0,1,0.5139732105220353
+Logistic - ocean plus season,1,event_12202,1998-01-08,1,1,0.5398745821044364
+Logistic - ocean plus season,1,non_event_11419_1,1998-01-16,0,1,0.5396356538253015
+Logistic - ocean plus season,1,non_event_11302_1,1998-01-17,0,1,0.5406332379353784
+Logistic - ocean plus season,1,non_event_12483_1,1998-02-12,0,1,0.5115881281392972
+Logistic - ocean plus season,1,non_event_12024_1,1998-02-17,0,1,0.5152162259102915
+Logistic - ocean plus season,1,non_event_12559_1,1998-03-15,0,0,0.4976156615515778
+Logistic - ocean plus season,1,event_12281,1998-04-30,1,0,0.4539724932739319
+Logistic - ocean plus season,1,non_event_11870_1,1998-05-28,0,0,0.46833323159057
+Logistic - ocean plus season,1,non_event_12665_1,1998-05-29,0,0,0.45957491133227024
+Logistic - ocean plus season,1,event_12226,1998-06-22,1,0,0.4843393827314574
+Logistic - ocean plus season,1,event_12120,1998-06-23,1,0,0.4697524045697155
+Logistic - ocean plus season,1,non_event_12102_1,1998-07-03,0,0,0.39584591393248125
+Logistic - ocean plus season,1,non_event_12413_1,1998-07-05,0,0,0.487692348102758
+Logistic - ocean plus season,1,event_12253,1998-07-15,1,1,0.559929790219282
+Logistic - ocean plus season,1,event_12262,1998-07-16,1,1,0.5018719881136128
+Logistic - ocean plus season,1,non_event_11499_1,1998-07-26,0,1,0.5214830291766847
+Logistic - ocean plus season,1,event_12302,1998-07-28,1,1,0.526552543431397
+Logistic - ocean plus season,1,event_12264,1998-08-01,1,1,0.5231260771182413
+Logistic - ocean plus season,1,event_12688,1998-08-01,1,1,0.523721471323815
+Logistic - ocean plus season,1,event_12260,1998-08-10,1,1,0.5293362173083059
+Logistic - ocean plus season,1,event_12176,1998-08-23,1,1,0.5274733769455723
+Logistic - ocean plus season,1,non_event_11634_1,1998-08-25,0,1,0.5470259399844517
+Logistic - ocean plus season,1,event_12297,1998-08-30,1,0,0.47187391669169193
+Logistic - ocean plus season,1,non_event_12496_1,1998-09-11,0,1,0.5755758588325818
+Logistic - ocean plus season,1,event_13026,1998-09-13,1,1,0.5733089775386274
+Logistic - ocean plus season,1,event_12217,1998-09-22,1,1,0.5588813864249648
+Logistic - ocean plus season,1,non_event_11973_1,1998-10-07,0,1,0.601173515661933
+Logistic - ocean plus season,1,non_event_11327_1,1998-10-20,0,1,0.5796705998742925
+Logistic - ocean plus season,1,non_event_11766_1,1998-12-01,0,1,0.565894438373817
+Logistic - ocean plus season,1,event_12191,1998-12-11,1,1,0.5644432209439744
+Logistic - ocean plus season,1,non_event_11121_1,1999-01-01,0,1,0.5435822937827857
+Logistic - ocean plus season,1,non_event_12433_1,1999-01-02,0,1,0.5438784231201456
+Logistic - ocean plus season,1,non_event_11218_1,1999-01-14,0,1,0.5443908432760783
+Logistic - ocean plus season,1,non_event_10935_1,1999-01-22,0,1,0.5146762459692528
+Logistic - ocean plus season,1,event_12023,1999-02-08,1,1,0.5174389601845708
+Logistic - ocean plus season,1,event_12024,1999-02-08,1,1,0.513885610123727
+Logistic - ocean plus season,1,event_12026,1999-02-08,1,0,0.4592104210291603
+Logistic - ocean plus season,1,event_12000,1999-02-22,1,0,0.4852036850213596
+Logistic - ocean plus season,1,event_12060,1999-04-01,1,0,0.47556548805128246
+Logistic - ocean plus season,1,non_event_10862_1,1999-05-21,0,0,0.48337999809710014
+Logistic - ocean plus season,1,non_event_11868_1,1999-05-24,0,0,0.4682803906924454
+Logistic - ocean plus season,1,event_11911,1999-06-09,1,0,0.4785974687497174
+Logistic - ocean plus season,1,event_12081,1999-06-21,1,0,0.4906886590287265
+Logistic - ocean plus season,1,event_12087,1999-06-22,1,0,0.4836064202059956
+Logistic - ocean plus season,1,event_12100,1999-06-30,1,0,0.4751720858702986
+Logistic - ocean plus season,1,non_event_12345_1,1999-07-01,0,1,0.5138463543636027
+Logistic - ocean plus season,1,non_event_12253_1,1999-07-08,0,1,0.5601065756222563
+Logistic - ocean plus season,1,event_11921,1999-07-14,1,1,0.56459175209519
+Logistic - ocean plus season,1,event_12102,1999-07-16,1,0,0.36075676461632866
+Logistic - ocean plus season,1,non_event_12461_1,1999-08-11,0,1,0.5300474475963712
+Logistic - ocean plus season,1,non_event_12353_1,1999-09-04,0,1,0.5688004350436061
+Logistic - ocean plus season,1,event_11920,1999-09-15,1,1,0.6057701462383592
+Logistic - ocean plus season,1,event_12096,1999-10-05,1,1,0.5777596290682893
+Logistic - ocean plus season,1,event_11973,1999-10-12,1,0,0.4549364959095921
+Logistic - ocean plus season,1,non_event_11449_1,1999-10-14,0,1,0.5754636978040187
+Logistic - ocean plus season,1,non_event_12359_1,1999-10-22,0,1,0.5589251958934061
+Logistic - ocean plus season,1,event_11918,1999-11-02,1,1,0.5765693205728968
+Logistic - ocean plus season,1,non_event_11141_1,1999-12-01,0,1,0.5394931791160889
+Logistic - ocean plus season,1,event_11218,2000-01-01,1,1,0.5420203177779853
+Logistic - ocean plus season,1,event_11583,2000-01-03,1,1,0.537287066606219
+Logistic - ocean plus season,1,event_11302,2000-01-09,1,1,0.5371658821375208
+Logistic - ocean plus season,1,non_event_12202_1,2000-01-10,0,1,0.5424424895629969
+Logistic - ocean plus season,1,event_11419,2000-01-21,1,1,0.5394244292859462
+Logistic - ocean plus season,1,non_event_12281_1,2000-04-24,0,0,0.4527349468785158
+Logistic - ocean plus season,1,non_event_12060_1,2000-04-29,0,0,0.47376094066857244
+Logistic - ocean plus season,1,event_11868,2000-05-07,1,0,0.4649599543317049
+Logistic - ocean plus season,1,event_11870,2000-05-23,1,0,0.46724090495149895
+Logistic - ocean plus season,1,non_event_10844_1,2000-06-12,0,1,0.5006511042754139
+Logistic - ocean plus season,1,non_event_12100_1,2000-06-13,0,0,0.4780179699627944
+Logistic - ocean plus season,1,non_event_10802_1,2000-07-07,0,1,0.5039806095645373
+Logistic - ocean plus season,1,non_event_10530_1,2000-07-19,0,0,0.4909882875061658
+Logistic - ocean plus season,1,event_11499,2000-07-20,1,1,0.5204395378204433
+Logistic - ocean plus season,1,non_event_12176_1,2000-08-01,0,1,0.5111377245855057
+Logistic - ocean plus season,1,event_11634,2000-08-02,1,1,0.5462564239431609
+Logistic - ocean plus season,1,non_event_12297_1,2000-08-07,0,0,0.45415065232518154
+Logistic - ocean plus season,1,event_11368,2000-08-22,1,1,0.5470808423678432
+Logistic - ocean plus season,1,non_event_12688_1,2000-08-28,0,1,0.5242609191981857
+Logistic - ocean plus season,1,non_event_12260_1,2000-08-29,0,1,0.5315074967860854
+Logistic - ocean plus season,1,non_event_12264_1,2000-08-31,0,1,0.5248366759025757
+Logistic - ocean plus season,1,event_11373,2000-09-16,1,1,0.5612354498394264
+Logistic - ocean plus season,1,event_11563,2000-09-23,1,1,0.5676153059444451
+Logistic - ocean plus season,1,non_event_11920_1,2000-09-26,0,1,0.5997112880949624
+Logistic - ocean plus season,1,non_event_13026_1,2000-09-28,0,1,0.5591342516623574
+Logistic - ocean plus season,1,non_event_12096_1,2000-10-05,0,1,0.5755207385729226
+Logistic - ocean plus season,1,event_11449,2000-10-21,1,1,0.5728636693867302
+Logistic - ocean plus season,1,event_11327,2000-10-26,1,1,0.5780684742562179
+Logistic - ocean plus season,1,non_event_11918_1,2000-11-05,0,1,0.5760505436322124
+Logistic - ocean plus season,1,event_11432,2000-12-04,1,1,0.5609343906337179
+Logistic - ocean plus season,1,non_event_12191_1,2000-12-05,0,1,0.5636556737617554
+Logistic - ocean plus season,1,non_event_10813_1,2000-12-15,0,1,0.5493812443226432
+Logistic - ocean plus season,1,event_11766,2000-12-15,1,1,0.5612419586198218
+Logistic - ocean plus season,1,event_10935,2001-01-01,1,1,0.5178735926039743
+Logistic - ocean plus season,1,event_11121,2001-01-29,1,1,0.5349267777554544
+Logistic - ocean plus season,1,non_event_12026_1,2001-02-13,0,0,0.4537409182696673
+Logistic - ocean plus season,1,non_event_12000_1,2001-02-24,0,0,0.485141204917393
+Logistic - ocean plus season,1,event_10999,2001-03-01,1,0,0.46609096336512446
+Logistic - ocean plus season,1,non_event_10763_1,2001-04-06,0,0,0.4575074383194141
+Logistic - ocean plus season,1,event_11021,2001-04-06,1,0,0.4713225877407814
+Logistic - ocean plus season,1,non_event_10390_1,2001-05-09,0,0,0.37658244346460734
+Logistic - ocean plus season,1,event_10862,2001-05-15,1,0,0.4844151960062946
+Logistic - ocean plus season,1,event_11177,2001-05-25,1,0,0.4546975705299966
+Logistic - ocean plus season,1,non_event_12087_1,2001-06-03,0,0,0.48020797000578097
+Logistic - ocean plus season,1,event_11145,2001-06-05,1,0,0.4850836066712347
+Logistic - ocean plus season,1,event_10844,2001-06-09,1,1,0.5009797358763647
+Logistic - ocean plus season,1,event_10866,2001-06-20,1,0,0.030458214833821003
+Logistic - ocean plus season,1,non_event_11911_1,2001-06-22,0,0,0.483404024450356
+Logistic - ocean plus season,1,non_event_11921_1,2001-07-03,0,1,0.5639869762199521
+Logistic - ocean plus season,1,non_event_10393_1,2001-07-17,0,1,0.50368159563548
+Logistic - ocean plus season,1,non_event_10236_1,2001-07-27,0,0,0.46461513939015675
+Logistic - ocean plus season,1,event_11053,2001-07-28,1,1,0.5316466414094155
+Logistic - ocean plus season,1,event_10948,2001-08-08,1,1,0.5327571575401495
+Logistic - ocean plus season,1,event_10859,2001-08-27,1,1,0.524056702402678
+Logistic - ocean plus season,1,non_event_11373_1,2001-09-09,0,1,0.5606319362887002
+Logistic - ocean plus season,1,non_event_10295_1,2001-10-01,0,1,0.5764584245676251
+Logistic - ocean plus season,1,event_11014,2001-11-19,1,1,0.5691716837757743
+Logistic - ocean plus season,1,event_10813,2001-12-15,1,1,0.5435935510329822
+Logistic - ocean plus season,1,event_11141,2001-12-21,1,1,0.538633723864119
+Logistic - ocean plus season,1,non_event_11432_1,2001-12-30,0,1,0.5623801467463199
+Logistic - ocean plus season,2,non_event_9866_1,2002-01-05,0,1,0.5161813854524352
+Logistic - ocean plus season,2,non_event_11583_1,2002-01-18,0,1,0.5166286090229253
+Logistic - ocean plus season,2,non_event_9888_1,2002-01-19,0,1,0.5166663873084669
+Logistic - ocean plus season,2,non_event_10414_1,2002-01-24,0,1,0.5116293913479874
+Logistic - ocean plus season,2,event_10701,2002-03-11,1,0,0.45342441887141743
+Logistic - ocean plus season,2,non_event_10307_1,2002-03-17,0,1,0.5250625316269264
+Logistic - ocean plus season,2,event_10763,2002-04-22,1,0,0.4858080854440978
+Logistic - ocean plus season,2,event_10706,2002-06-24,1,0,0.4793759075641698
+Logistic - ocean plus season,2,event_10716,2002-07-01,1,1,0.5027428699308233
+Logistic - ocean plus season,2,event_10530,2002-07-02,1,0,0.4926994186203696
+Logistic - ocean plus season,2,non_event_10244_1,2002-07-19,0,0,0.49456512238065775
+Logistic - ocean plus season,2,non_event_10221_1,2002-07-22,0,0,0.48287598693908207
+Logistic - ocean plus season,2,event_10710,2002-07-22,1,0,0.48612831382348737
+Logistic - ocean plus season,2,event_10684,2002-07-28,1,0,0.4951932931264736
+Logistic - ocean plus season,2,event_10802,2002-07-29,1,1,0.5035091152983142
+Logistic - ocean plus season,2,non_event_10431_1,2002-08-05,0,1,0.5233490144805619
+Logistic - ocean plus season,2,event_10725,2002-08-17,1,1,0.5240500579907249
+Logistic - ocean plus season,2,non_event_11368_1,2002-08-23,0,1,0.5239260443851157
+Logistic - ocean plus season,2,non_event_10859_1,2002-08-30,0,1,0.5242640002286314
+Logistic - ocean plus season,2,non_event_11563_1,2002-09-03,0,1,0.5207775432008187
+Logistic - ocean plus season,2,event_10688,2002-09-05,1,0,0.48874762375952613
+Logistic - ocean plus season,2,event_10734,2002-09-07,1,1,0.5029992482883934
+Logistic - ocean plus season,2,event_10761,2002-09-15,1,1,0.5140671980748612
+Logistic - ocean plus season,2,non_event_10059_1,2002-10-19,0,0,0.4741903486691034
+Logistic - ocean plus season,2,event_10404,2003-01-01,1,1,0.5006486208948532
+Logistic - ocean plus season,2,event_10470,2003-01-02,1,1,0.5184363843992202
+Logistic - ocean plus season,2,event_10414,2003-01-10,1,1,0.5139889950347406
+Logistic - ocean plus season,2,non_event_9915_1,2003-01-25,0,1,0.5203405049230945
+Logistic - ocean plus season,2,non_event_9949_1,2003-01-29,0,1,0.5191763524999722
+Logistic - ocean plus season,2,non_event_9864_1,2003-02-02,0,1,0.5206184248468126
+Logistic - ocean plus season,2,non_event_9836_1,2003-02-05,0,1,0.5203009010426048
+Logistic - ocean plus season,2,event_10307,2003-03-01,1,1,0.5213317291497676
+Logistic - ocean plus season,2,event_10358,2003-03-06,1,1,0.5039817029691708
+Logistic - ocean plus season,2,non_event_10138_1,2003-03-17,0,0,0.4831984097634459
+Logistic - ocean plus season,2,non_event_10999_1,2003-03-30,0,0,0.48524709695133156
+Logistic - ocean plus season,2,non_event_11021_1,2003-04-09,0,1,0.5099725094581671
+Logistic - ocean plus season,2,non_event_9525_1,2003-04-17,0,0,0.4548133153554518
+Logistic - ocean plus season,2,non_event_9375_1,2003-04-21,0,1,0.5275452467113476
+Logistic - ocean plus season,2,non_event_9583_1,2003-04-26,0,0,0.4636852740430416
+Logistic - ocean plus season,2,non_event_9384_1,2003-05-25,0,1,0.5273750579132203
+Logistic - ocean plus season,2,event_10390,2003-05-26,1,1,0.5026168251382646
+Logistic - ocean plus season,2,non_event_11177_1,2003-05-29,0,0,0.4796188965692687
+Logistic - ocean plus season,2,non_event_10706_1,2003-06-06,0,0,0.47473018396890687
+Logistic - ocean plus season,2,non_event_11145_1,2003-06-09,0,1,0.513308659100269
+Logistic - ocean plus season,2,non_event_10866_1,2003-06-15,0,1,0.5803504099139164
+Logistic - ocean plus season,2,event_10236,2003-07-05,1,0,0.49675111285537416
+Logistic - ocean plus season,2,event_10221,2003-07-12,1,0,0.47933030912010327
+Logistic - ocean plus season,2,non_event_10710_1,2003-07-13,0,0,0.48745985602510084
+Logistic - ocean plus season,2,event_10244,2003-07-14,1,0,0.49918434937954237
+Logistic - ocean plus season,2,event_10393,2003-07-14,1,0,0.4878243277307939
+Logistic - ocean plus season,2,non_event_11053_1,2003-07-18,0,1,0.5287629010861084
+Logistic - ocean plus season,2,non_event_10684_1,2003-07-29,0,1,0.5016199923754217
+Logistic - ocean plus season,2,event_10431,2003-08-22,1,1,0.5287108354922178
+Logistic - ocean plus season,2,non_event_10948_1,2003-08-27,0,0,0.49622293095092596
+Logistic - ocean plus season,2,non_event_9388_1,2003-09-11,0,1,0.5198820305846558
+Logistic - ocean plus season,2,non_event_9378_1,2003-09-16,0,1,0.5209660139563081
+Logistic - ocean plus season,2,non_event_10734_1,2003-09-24,0,0,0.49944370341533595
+Logistic - ocean plus season,2,non_event_10688_1,2003-09-30,0,0,0.4750086563936838
+Logistic - ocean plus season,2,non_event_10761_1,2003-09-30,0,1,0.5087295232284066
+Logistic - ocean plus season,2,event_10295,2003-10-17,1,1,0.5171454536037247
+Logistic - ocean plus season,2,non_event_11014_1,2003-11-05,0,1,0.5106639945175906
+Logistic - ocean plus season,2,event_10124,2004-01-01,1,0,0.4955429494371282
+Logistic - ocean plus season,2,event_9915,2004-01-07,1,1,0.5183819344057217
+Logistic - ocean plus season,2,event_9866,2004-01-12,1,1,0.5175870667157461
+Logistic - ocean plus season,2,non_event_10470_1,2004-01-16,0,1,0.5326833113326601
+Logistic - ocean plus season,2,event_9949,2004-01-20,1,1,0.519068279947537
+Logistic - ocean plus season,2,non_event_10404_1,2004-01-28,0,1,0.5171259771874416
+Logistic - ocean plus season,2,event_9888,2004-01-28,1,1,0.5171274723481794
+Logistic - ocean plus season,2,event_9929,2004-02-08,1,1,0.5169278688764956
+Logistic - ocean plus season,2,event_9836,2004-02-20,1,1,0.5211828647920694
+Logistic - ocean plus season,2,event_9864,2004-02-21,1,1,0.5213574720270084
+Logistic - ocean plus season,2,event_10138,2004-03-15,1,0,0.48431084261678914
+Logistic - ocean plus season,2,non_event_10358_1,2004-03-17,0,1,0.5033908064468192
+Logistic - ocean plus season,2,non_event_10701_1,2004-03-17,0,0,0.4571101381511492
+Logistic - ocean plus season,2,non_event_9137_1,2004-03-24,0,1,0.522081840805312
+Logistic - ocean plus season,2,event_10080,2004-05-06,1,1,0.5321862465937617
+Logistic - ocean plus season,2,event_10062,2004-05-31,1,0,0.4725289469494582
+Logistic - ocean plus season,2,non_event_9707_1,2004-06-30,0,0,0.4998330298384154
+Logistic - ocean plus season,2,non_event_10716_1,2004-07-27,0,0,0.498782099138767
+Logistic - ocean plus season,2,event_10042,2004-08-10,1,0,0.4946475660548077
+Logistic - ocean plus season,2,non_event_10725_1,2004-08-22,0,1,0.5275450167409294
+Logistic - ocean plus season,2,non_event_8911_1,2004-10-01,0,1,0.5074508133808405
+Logistic - ocean plus season,2,non_event_8913_1,2004-10-07,0,1,0.5106379842316511
+Logistic - ocean plus season,2,event_10059,2004-10-15,1,0,0.47293386106600377
+Logistic - ocean plus season,2,non_event_9471_1,2004-10-17,0,1,0.5098023703428263
+Logistic - ocean plus season,2,non_event_8925_1,2004-11-27,0,1,0.5112515908974408
+Logistic - ocean plus season,2,event_9667,2005-01-01,1,0,0.47975204312432995
+Logistic - ocean plus season,2,non_event_9161_1,2005-01-06,0,1,0.5169890353872971
+Logistic - ocean plus season,2,event_9537,2005-03-14,1,0,0.48631265148596714
+Logistic - ocean plus season,2,event_9375,2005-04-25,1,1,0.5279895188963402
+Logistic - ocean plus season,2,event_9583,2005-04-25,1,0,0.4638309722825922
+Logistic - ocean plus season,2,event_9525,2005-04-28,1,0,0.4564248558351558
+Logistic - ocean plus season,2,non_event_10080_1,2005-05-12,0,1,0.5339833932290209
+Logistic - ocean plus season,2,event_9548,2005-05-13,1,0,0.4583208418811292
+Logistic - ocean plus season,2,event_9384,2005-05-29,1,1,0.5277164884538421
+Logistic - ocean plus season,2,non_event_8525_1,2005-06-06,0,1,0.5221516042075743
+Logistic - ocean plus season,2,event_9707,2005-06-08,1,0,0.4877479693422224
+Logistic - ocean plus season,2,event_9580,2005-07-25,1,0,0.48231902214260886
+Logistic - ocean plus season,2,non_event_8524_1,2005-07-27,0,1,0.5268852640413121
+Logistic - ocean plus season,2,event_9554,2005-07-29,1,1,0.524952218096539
+Logistic - ocean plus season,2,event_9312,2005-08-28,1,0,0.49597188276216586
+Logistic - ocean plus season,2,non_event_8530_1,2005-09-11,0,1,0.511790613793081
+Logistic - ocean plus season,2,event_9388,2005-09-27,1,1,0.5206823882936372
+Logistic - ocean plus season,2,event_9378,2005-09-29,1,1,0.5208899450850503
+Logistic - ocean plus season,2,non_event_8563_1,2005-10-06,0,1,0.5074431445558185
+Logistic - ocean plus season,2,event_9471,2005-10-15,1,1,0.5105329511890854
+Logistic - ocean plus season,2,non_event_8562_1,2005-10-17,0,1,0.508723703930085
+Logistic - ocean plus season,2,non_event_8491_1,2005-10-20,0,1,0.5108718748524574
+Logistic - ocean plus season,2,event_9652,2005-11-01,1,0,0.4879968622766472
+Logistic - ocean plus season,2,event_9161,2006-01-12,1,1,0.5162504992881631
+Logistic - ocean plus season,2,non_event_8455_1,2006-01-25,0,1,0.5153047241868457
+Logistic - ocean plus season,2,non_event_10124_1,2006-01-28,0,0,0.49048531117662325
+Logistic - ocean plus season,2,non_event_9929_1,2006-02-18,0,1,0.5174435724082337
+Logistic - ocean plus season,2,event_9137,2006-03-08,1,1,0.5202426031618789
+Logistic - ocean plus season,2,event_9113,2006-03-16,1,1,0.5296747956338429
+Logistic - ocean plus season,2,non_event_7951_1,2006-03-19,0,1,0.5238710237671133
+Logistic - ocean plus season,2,event_9225,2006-04-06,1,0,0.4934075421196678
+Logistic - ocean plus season,2,event_9125,2006-04-21,1,1,0.5079000738369511
+Logistic - ocean plus season,2,non_event_10062_1,2006-05-06,0,0,0.4669050412776795
+Logistic - ocean plus season,2,non_event_8605_1,2006-07-01,0,1,0.5091709636264077
+Logistic - ocean plus season,2,non_event_9554_1,2006-07-02,0,1,0.5098786995813516
+Logistic - ocean plus season,2,event_9174,2006-07-13,1,1,0.5056223072362706
+Logistic - ocean plus season,2,non_event_9580_1,2006-07-27,0,0,0.48095691448598604
+Logistic - ocean plus season,2,non_event_9312_1,2006-08-06,0,1,0.5113442128681984
+Logistic - ocean plus season,2,non_event_8109_1,2006-08-07,0,1,0.5280378009009525
+Logistic - ocean plus season,2,non_event_10042_1,2006-08-26,0,0,0.4945957693280079
+Logistic - ocean plus season,2,event_8911,2006-10-18,1,1,0.5083302632270941
+Logistic - ocean plus season,3,event_8913,2006-10-27,1,0,0.45096947888806743
+Logistic - ocean plus season,3,event_8925,2006-11-01,1,0,0.4608891289003593
+Logistic - ocean plus season,3,non_event_9652_1,2006-11-02,0,0,0.47031206006461435
+Logistic - ocean plus season,3,event_8455,2007-01-14,1,0,0.48328261968128866
+Logistic - ocean plus season,3,non_event_9667_1,2007-01-27,0,1,0.5094220780804257
+Logistic - ocean plus season,3,non_event_8000_1,2007-02-02,0,0,0.49289674635410236
+Logistic - ocean plus season,3,non_event_7059_1,2007-02-12,0,1,0.5216071067021684
+Logistic - ocean plus season,3,non_event_9537_1,2007-03-14,0,1,0.8886855441369254
+Logistic - ocean plus season,3,non_event_9113_1,2007-03-18,0,1,0.8482320629515909
+Logistic - ocean plus season,3,non_event_9125_1,2007-04-14,0,1,0.756078810737559
+Logistic - ocean plus season,3,non_event_8003_1,2007-05-27,0,0,0.48488767012231304
+Logistic - ocean plus season,3,non_event_9548_1,2007-05-28,0,1,0.5696861006020013
+Logistic - ocean plus season,3,event_8525,2007-06-04,1,0,0.4785881143604809
+Logistic - ocean plus season,3,event_8524,2007-07-17,1,0,0.457702596175352
+Logistic - ocean plus season,3,non_event_9174_1,2007-07-27,0,1,0.5434884351538021
+Logistic - ocean plus season,3,event_8605,2007-07-31,1,0,0.4682206646290757
+Logistic - ocean plus season,3,event_8530,2007-09-04,1,0,0.4471965657577302
+Logistic - ocean plus season,3,event_8491,2007-10-13,1,0,0.4542978132365269
+Logistic - ocean plus season,3,event_8562,2007-10-14,1,0,0.45416696673071544
+Logistic - ocean plus season,3,event_8563,2007-10-23,1,0,0.4540344112150266
+Logistic - ocean plus season,3,event_8000,2008-02-03,1,0,0.49425080845361963
+Logistic - ocean plus season,3,event_8194,2008-03-01,1,1,0.5321977059931893
+Logistic - ocean plus season,3,event_7951,2008-03-13,1,1,0.5014669819689771
+Logistic - ocean plus season,3,non_event_9225_1,2008-04-05,0,1,0.5193031176361481
+Logistic - ocean plus season,3,non_event_7524_1,2008-05-03,0,1,0.5121396943865227
+Logistic - ocean plus season,3,non_event_7119_1,2008-05-22,0,1,0.5248911384383131
+Logistic - ocean plus season,3,event_8003,2008-05-26,1,0,0.48763747477248964
+Logistic - ocean plus season,3,event_8097,2008-06-22,1,1,0.5108698656606243
+Logistic - ocean plus season,3,non_event_7471_1,2008-06-29,0,1,0.5175750453497614
+Logistic - ocean plus season,3,event_8109,2008-08-07,1,0,0.4434042852994714
+Logistic - ocean plus season,3,event_7901,2008-09-03,1,0,0.4622552829963429
+Logistic - ocean plus season,3,non_event_6835_1,2008-09-23,0,0,0.45684622989932466
+Logistic - ocean plus season,3,event_7059,2009-02-10,1,1,0.5232675919522182
+Logistic - ocean plus season,3,non_event_8194_1,2009-03-21,0,1,0.5391036096066563
+Logistic - ocean plus season,3,event_7543,2009-03-23,1,1,0.546358405134767
+Logistic - ocean plus season,3,non_event_6351_1,2009-04-19,0,0,0.49624000589111045
+Logistic - ocean plus season,3,event_7524,2009-05-01,1,0,0.4965975883067622
+Logistic - ocean plus season,3,event_7119,2009-05-04,1,1,0.526688045367717
+Logistic - ocean plus season,3,event_7556,2009-05-11,1,1,0.5224361296810927
+Logistic - ocean plus season,3,event_7281,2009-05-26,1,0,0.49182773793468726
+Logistic - ocean plus season,3,event_7491,2009-06-08,1,0,0.49921446925155116
+Logistic - ocean plus season,3,non_event_8097_1,2009-06-11,0,1,0.5035394826179788
+Logistic - ocean plus season,3,event_7471,2009-06-15,1,1,0.5257734940207879
+Logistic - ocean plus season,3,non_event_6506_1,2009-07-31,0,1,0.5122085449653835
+Logistic - ocean plus season,3,non_event_5675_1,2010-02-10,0,0,0.494128867947906
+Logistic - ocean plus season,3,non_event_7281_1,2010-05-05,0,0,0.490582996456654
+Logistic - ocean plus season,3,non_event_5782_1,2010-05-18,0,0,0.48274057893879063
+Logistic - ocean plus season,3,event_6537,2010-06-01,1,0,0.48531635566455067
+Logistic - ocean plus season,3,event_6506,2010-07-12,1,1,0.5073991356735388
+Logistic - ocean plus season,3,event_6824,2010-08-02,1,0,0.47012899118101287
+Logistic - ocean plus season,3,event_6522,2010-08-04,1,0,0.45305378109779765
+Logistic - ocean plus season,3,non_event_5969_1,2010-08-31,0,1,0.5240895775315327
+Logistic - ocean plus season,3,event_6835,2010-09-10,1,1,0.5127499442336679
+Logistic - ocean plus season,3,non_event_7901_1,2010-09-24,0,0,0.45067849616745453
+Logistic - ocean plus season,3,non_event_7543_1,2011-03-28,0,1,0.5583754685102125
+Logistic - ocean plus season,3,event_6351,2011-04-04,1,1,0.5023405896620367
+Logistic - ocean plus season,3,non_event_5308_1,2011-04-14,0,1,0.5135686163363548
+Logistic - ocean plus season,3,non_event_7556_1,2011-05-30,0,1,0.5259433987062403
+Logistic - ocean plus season,3,non_event_7491_1,2011-06-10,0,1,0.5005003006778845
+Logistic - ocean plus season,3,non_event_5268_1,2011-06-30,0,1,0.5011937216999539
+Logistic - ocean plus season,3,event_6318,2011-07-22,1,0,0.45377694234864585
+Logistic - ocean plus season,3,non_event_6824_1,2011-08-05,0,0,0.47054085887870895
+Logistic - ocean plus season,3,non_event_5281_1,2011-08-07,0,0,0.44448942941778535
+Logistic - ocean plus season,3,event_6432,2011-08-30,1,0,0.4717461110576769
+Logistic - ocean plus season,3,non_event_5396_1,2011-10-19,0,0,0.47401941928935476
+Logistic - ocean plus season,3,event_6003,2011-10-21,1,0,0.4913497914156405
+Logistic - ocean plus season,3,non_event_5711_1,2011-11-27,0,0,0.4580222282180222
+Logistic - ocean plus season,3,non_event_4896_1,2012-01-12,0,1,0.5068248940059719
+Logistic - ocean plus season,3,event_5675,2012-02-18,1,0,0.4922948391609895
+Logistic - ocean plus season,3,non_event_4852_1,2012-04-09,0,1,0.5449705835017762
+Logistic - ocean plus season,3,event_5782,2012-05-15,1,0,0.4906455671492369
+Logistic - ocean plus season,3,non_event_4658_1,2012-06-15,0,1,0.5093407538632725
+Logistic - ocean plus season,3,non_event_6537_1,2012-06-21,0,0,0.4855768909359212
+Logistic - ocean plus season,3,event_5803,2012-07-17,1,1,0.5094311866522604
+Logistic - ocean plus season,3,non_event_4846_1,2012-07-27,0,1,0.5405716501861344
+Logistic - ocean plus season,3,event_5969,2012-08-01,1,1,0.5160205650966436
+Logistic - ocean plus season,3,non_event_6432_1,2012-08-05,0,0,0.4673644979346132
+Logistic - ocean plus season,3,non_event_4661_1,2012-08-12,0,0,0.4501521400552255
+Logistic - ocean plus season,3,non_event_6522_1,2012-08-13,0,0,0.44928833403730833
+Logistic - ocean plus season,3,event_5784,2012-10-03,1,0,0.441514601556663
+Logistic - ocean plus season,3,event_5711,2012-11-25,1,0,0.45679973148215486
+Logistic - ocean plus season,3,event_5792,2012-12-07,1,0,0.4784989483797636
+Logistic - ocean plus season,3,non_event_4223_1,2013-01-14,0,1,0.6478730435948519
+Logistic - ocean plus season,3,event_5308,2013-04-09,1,1,0.5208258808298086
+Logistic - ocean plus season,3,non_event_4864_1,2013-04-20,0,1,0.5742249781769347
+Logistic - ocean plus season,3,non_event_4710_1,2013-06-15,0,0,0.47232190078372577
+Logistic - ocean plus season,3,event_5335,2013-06-15,1,0,0.49507153253358804
+Logistic - ocean plus season,3,event_5268,2013-06-24,1,1,0.5252617888715567
+Logistic - ocean plus season,3,event_5277,2013-07-01,1,0,0.48435650814773074
+Logistic - ocean plus season,3,non_event_4876_1,2013-07-07,0,0,0.48935141931379184
+Logistic - ocean plus season,3,non_event_6318_1,2013-07-17,0,0,0.4542952014767368
+Logistic - ocean plus season,3,event_5281,2013-08-05,1,0,0.4450188096581271
+Logistic - ocean plus season,3,non_event_6003_1,2013-10-06,0,0,0.4875911888415453
+Logistic - ocean plus season,3,non_event_5784_1,2013-10-17,0,0,0.44579868468010875
+Logistic - ocean plus season,3,event_5396,2013-10-21,1,0,0.4725358558118332
+Logistic - ocean plus season,3,non_event_4631_1,2013-12-02,0,0,0.4813753020746091
+Logistic - ocean plus season,3,event_4896,2014-01-17,1,1,0.500630527755221
+Logistic - ocean plus season,3,event_4852,2014-04-01,1,1,0.5494637845386261
+Logistic - ocean plus season,3,event_4446,2014-04-11,1,1,0.5109201163081598
+Logistic - ocean plus season,3,event_4864,2014-04-22,1,1,0.572828618398879
+Logistic - ocean plus season,3,event_4658,2014-06-10,1,0,0.49503476534847685
+Logistic - ocean plus season,3,event_4710,2014-06-23,1,0,0.47019918103689823
+Logistic - ocean plus season,3,non_event_5803_1,2014-07-17,0,0,0.4809313513370383
+Logistic - ocean plus season,3,event_4846,2014-07-22,1,1,0.5328212419008695
+Logistic - ocean plus season,3,event_4876,2014-07-23,1,0,0.4823660350714904
+Logistic - ocean plus season,3,non_event_3846_1,2014-08-06,0,0,0.4734537261775691
+Logistic - ocean plus season,3,event_4661,2014-08-26,1,0,0.4567155737710836
+Logistic - ocean plus season,3,non_event_3562_1,2014-10-25,0,1,0.51267594088814
+Logistic - ocean plus season,3,event_4631,2014-12-15,1,0,0.4895516135014972
+Logistic - ocean plus season,3,non_event_5792_1,2014-12-31,0,0,0.47221640576512586
+Logistic - ocean plus season,3,event_4144,2015-01-05,1,0,0.4881784961415094
+Logistic - ocean plus season,3,event_4223,2015-01-06,1,1,0.6388893532220056
+Logistic - ocean plus season,3,non_event_3960_1,2015-01-16,0,1,0.5270488481012737
+Logistic - ocean plus season,3,non_event_3829_1,2015-02-15,0,1,0.5298584191423354
+Logistic - ocean plus season,3,event_4231,2015-03-26,1,1,0.5035653267145718
+Logistic - ocean plus season,3,event_4346,2015-04-01,1,1,0.514417611162473
+Logistic - ocean plus season,3,non_event_3600_1,2015-04-05,0,1,0.5297777994693913
+Logistic - ocean plus season,3,non_event_4446_1,2015-04-30,0,1,0.5088913632884577
+Logistic - ocean plus season,3,non_event_3974_1,2015-05-27,0,0,0.4906846420537958
+Logistic - ocean plus season,3,non_event_3498_1,2015-05-28,0,1,0.5177318786461483
+Logistic - ocean plus season,3,non_event_5335_1,2015-06-03,0,0,0.49920414037814304
+Logistic - ocean plus season,3,non_event_3523_1,2015-06-04,0,1,0.5380917462072364
+Logistic - ocean plus season,4,event_4286,2015-06-24,1,1,0.5092751240076997
+Logistic - ocean plus season,4,event_4253,2015-06-29,1,1,0.505458066860608
+Logistic - ocean plus season,4,non_event_3814_1,2015-07-01,0,1,0.5055763638145506
+Logistic - ocean plus season,4,non_event_5277_1,2015-07-06,0,1,0.5089758466444192
+Logistic - ocean plus season,4,event_4047,2015-07-18,1,0,0.41726258514168024
+Logistic - ocean plus season,4,event_4227,2015-08-02,1,0,0.48818223832961977
+Logistic - ocean plus season,4,non_event_3508_1,2015-08-27,0,1,0.5028541697157725
+Logistic - ocean plus season,4,event_4264,2015-09-28,1,0,0.4901598244789303
+Logistic - ocean plus season,4,event_3960,2016-01-01,1,1,0.5032114646475996
+Logistic - ocean plus season,4,event_3829,2016-02-16,1,0,0.4915535639843674
+Logistic - ocean plus season,4,event_3645,2016-03-01,1,1,0.5139128442164514
+Logistic - ocean plus season,4,non_event_3109_1,2016-03-03,0,1,0.5084288323253308
+Logistic - ocean plus season,4,non_event_2908_1,2016-03-13,0,1,0.5125144064789602
+Logistic - ocean plus season,4,non_event_4231_1,2016-03-26,0,1,0.5126535575212713
+Logistic - ocean plus season,4,event_3941,2016-04-05,1,1,0.518226275507721
+Logistic - ocean plus season,4,non_event_4346_1,2016-04-17,0,1,0.5170303398042841
+Logistic - ocean plus season,4,event_3600,2016-04-24,1,1,0.5179277927270495
+Logistic - ocean plus season,4,non_event_3120_1,2016-05-10,0,1,0.5164212328553353
+Logistic - ocean plus season,4,event_3974,2016-05-23,1,1,0.5069922610910731
+Logistic - ocean plus season,4,non_event_4286_1,2016-06-08,0,1,0.5107361177602122
+Logistic - ocean plus season,4,non_event_4253_1,2016-06-19,0,1,0.5070537314356305
+Logistic - ocean plus season,4,non_event_2702_1,2016-06-20,0,1,0.5018707641194671
+Logistic - ocean plus season,4,event_3814,2016-07-06,1,0,0.4971741003546003
+Logistic - ocean plus season,4,non_event_2765_1,2016-07-26,0,1,0.5077984662593943
+Logistic - ocean plus season,4,non_event_3482_1,2016-08-01,0,0,0.4872383240184792
+Logistic - ocean plus season,4,event_3846,2016-08-08,1,0,0.49517831909689036
+Logistic - ocean plus season,4,event_3562,2016-10-15,1,0,0.4813124613612557
+Logistic - ocean plus season,4,non_event_3024_1,2016-11-07,0,1,0.5001344930882287
+Logistic - ocean plus season,4,non_event_3231_1,2016-11-30,0,0,0.49997255499739024
+Logistic - ocean plus season,4,event_3664,2016-12-01,1,1,0.5028167104709582
+Logistic - ocean plus season,4,event_3667,2016-12-29,1,1,0.5020999888306625
+Logistic - ocean plus season,4,event_3655,2016-12-31,1,1,0.5023068500078754
+Logistic - ocean plus season,4,non_event_3009_1,2017-01-11,0,1,0.5046390528744082
+Logistic - ocean plus season,4,non_event_3001_1,2017-01-12,0,1,0.5055465865889135
+Logistic - ocean plus season,4,non_event_4144_1,2017-01-24,0,1,0.503206408225443
+Logistic - ocean plus season,4,event_3427,2017-01-31,1,0,0.49464680200867883
+Logistic - ocean plus season,4,event_3410,2017-03-27,1,1,0.5113243360916178
+Logistic - ocean plus season,4,non_event_2320_1,2017-04-01,0,1,0.5044534380492054
+Logistic - ocean plus season,4,non_event_3941_1,2017-04-07,0,1,0.5165232968457042
+Logistic - ocean plus season,4,event_3404,2017-05-08,1,1,0.5164073985884606
+Logistic - ocean plus season,4,event_3498,2017-05-16,1,1,0.5049393153590315
+Logistic - ocean plus season,4,event_3523,2017-06-06,1,0,0.48955887889680816
+Logistic - ocean plus season,4,non_event_2331_1,2017-06-11,0,1,0.5113536028898292
+Logistic - ocean plus season,4,non_event_2477_1,2017-06-14,0,1,0.5138671777658098
+Logistic - ocean plus season,4,event_3196,2017-06-20,1,1,0.5089349691027049
+Logistic - ocean plus season,4,non_event_4047_1,2017-07-04,0,1,0.5006749386452142
+Logistic - ocean plus season,4,event_3339,2017-07-10,1,1,0.5036169683833714
+Logistic - ocean plus season,4,event_3516,2017-07-17,1,1,0.5102066768141051
+Logistic - ocean plus season,4,non_event_2538_1,2017-07-30,0,1,0.5040796696896663
+Logistic - ocean plus season,4,non_event_2471_1,2017-07-31,0,1,0.5062175229119986
+Logistic - ocean plus season,4,event_3508,2017-08-03,1,1,0.5008905234310356
+Logistic - ocean plus season,4,non_event_4227_1,2017-08-11,0,0,0.4963094250157726
+Logistic - ocean plus season,4,event_3386,2017-08-14,1,0,0.48508602609433593
+Logistic - ocean plus season,4,event_3482,2017-08-22,1,0,0.4908501034717103
+Logistic - ocean plus season,4,non_event_4264_1,2017-09-18,0,0,0.48786306336080043
+Logistic - ocean plus season,4,event_3231,2017-11-01,1,0,0.4992935312609464
+Logistic - ocean plus season,4,non_event_3664_1,2017-12-29,0,1,0.5028313651801819
+Logistic - ocean plus season,4,non_event_3655_1,2017-12-30,0,1,0.5027216027694829
+Logistic - ocean plus season,4,non_event_3667_1,2017-12-31,0,1,0.5026054018209009
+Logistic - ocean plus season,4,event_3009,2018-01-12,1,1,0.5022626717668137
+Logistic - ocean plus season,4,event_3001,2018-01-15,1,1,0.5039180164860205
+Logistic - ocean plus season,4,non_event_3427_1,2018-01-25,0,0,0.4648646611522251
+Logistic - ocean plus season,4,event_3109,2018-03-15,1,1,0.512123548816665
+Logistic - ocean plus season,4,event_2908,2018-03-20,1,1,0.5126876395070492
+Logistic - ocean plus season,4,non_event_3645_1,2018-03-22,0,1,0.5144806866152072
+Logistic - ocean plus season,4,non_event_2587_1,2018-04-09,0,1,0.5137325871714219
+Logistic - ocean plus season,4,event_3120,2018-05-09,1,1,0.5162028158810973
+Logistic - ocean plus season,4,non_event_3404_1,2018-05-31,0,1,0.5145034161288408
+Logistic - ocean plus season,4,event_2702,2018-06-18,1,1,0.5060053740098494
+Logistic - ocean plus season,4,event_2698,2018-06-26,1,1,0.50407563605955
+Logistic - ocean plus season,4,non_event_3196_1,2018-06-29,0,0,0.49130408794094144
+Logistic - ocean plus season,4,non_event_2283_1,2018-07-11,0,1,0.5090609209148778
+Logistic - ocean plus season,4,non_event_3516_1,2018-07-11,0,1,0.508097077086242
+Logistic - ocean plus season,4,non_event_3339_1,2018-07-15,0,1,0.5057586768734643
+Logistic - ocean plus season,4,event_2765,2018-07-25,1,1,0.5086729824030273
+Logistic - ocean plus season,4,non_event_2121_1,2018-07-26,0,0,0.45559754085133575
+Logistic - ocean plus season,4,non_event_3386_1,2018-08-18,0,1,0.5000070856466043
+Logistic - ocean plus season,4,event_2655,2018-08-22,1,0,0.49924922700925684
+Logistic - ocean plus season,4,non_event_2087_1,2018-10-11,0,1,0.5005322593922328
+Logistic - ocean plus season,4,event_3024,2018-11-23,1,0,0.4991667356708042
+Logistic - ocean plus season,4,non_event_1663_1,2019-03-05,0,1,0.5009795432796978
+Logistic - ocean plus season,4,non_event_3410_1,2019-03-12,0,0,0.4961602387126675
+Logistic - ocean plus season,4,non_event_1301_1,2019-04-02,0,1,0.5147209540485975
+Logistic - ocean plus season,4,event_2587,2019-04-15,1,1,0.5173469001985945
+Logistic - ocean plus season,4,event_2320,2019-04-29,1,1,0.5164492606503226
+Logistic - ocean plus season,4,event_2331,2019-06-24,1,1,0.5084733765732101
+Logistic - ocean plus season,4,event_2477,2019-06-28,1,1,0.5106409698362977
+Logistic - ocean plus season,4,event_2121,2019-07-11,1,0,0.47775340880845474
+Logistic - ocean plus season,4,event_2538,2019-07-12,1,1,0.5073805545990663
+Logistic - ocean plus season,4,event_2283,2019-07-22,1,0,0.49989798795773593
+Logistic - ocean plus season,4,event_2471,2019-07-24,1,1,0.5073760746618191
+Logistic - ocean plus season,4,event_2165,2019-08-24,1,1,0.5039506987109695
+Logistic - ocean plus season,4,non_event_2655_1,2019-08-29,0,0,0.4984382559194859
+Logistic - ocean plus season,4,non_event_1457_1,2019-09-18,0,1,0.5032914880182233
+Logistic - ocean plus season,4,event_2438,2019-09-26,1,0,0.49824642119390156
+Logistic - ocean plus season,4,event_2440,2019-09-26,1,0,0.4976410809197417
+Logistic - ocean plus season,4,event_2292,2019-11-05,1,0,0.48477271422006674
+Logistic - ocean plus season,4,event_1951,2020-03-09,1,1,0.5146583287677502
+Logistic - ocean plus season,4,event_1988,2020-03-09,1,1,0.5105615278290215
+Logistic - ocean plus season,4,non_event_1053_1,2020-03-26,0,1,0.5098969584710039
+Logistic - ocean plus season,4,event_1941,2020-03-27,1,1,0.5110151969212249
+Logistic - ocean plus season,4,event_1663,2020-03-30,1,1,0.5007649513343724
+Logistic - ocean plus season,4,event_1922,2020-05-21,1,1,0.5122306554512855
+Logistic - ocean plus season,4,non_event_877_1,2020-06-11,0,1,0.5132430527564172
+Logistic - ocean plus season,4,non_event_2698_1,2020-06-30,0,1,0.5101651147404641
+Logistic - ocean plus season,4,non_event_990_1,2020-07-31,0,1,0.5030922270865408
+Logistic - ocean plus season,4,non_event_2165_1,2020-08-01,0,1,0.5030035487820985
+Logistic - ocean plus season,4,event_1524,2020-08-19,1,0,0.4909851077936118
+Logistic - ocean plus season,4,event_1862,2020-09-19,1,0,0.4974049648692754
+Logistic - ocean plus season,4,event_1867,2020-09-19,1,0,0.4983009748871138
+Logistic - ocean plus season,4,event_1671,2020-10-12,1,0,0.4900561908144279
+Logistic - ocean plus season,4,event_2087,2020-10-12,1,1,0.5011417760997551
+Logistic - ocean plus season,4,non_event_1507_1,2020-10-26,0,0,0.4941779606026753
+Logistic - ocean plus season,4,event_1966,2020-12-14,1,0,0.49763307932374773
+Logistic - ocean plus season,4,event_1702,2020-12-22,1,0,0.49543634924943486
+Logistic - ocean plus season,4,event_1751,2020-12-22,1,1,0.5000865625803766
+Logistic - ocean plus season,4,event_1371,2021-01-12,1,1,0.5033867890055418
+Logistic - ocean plus season,4,event_1342,2021-01-28,1,1,0.5049386084558775
+Logistic - ocean plus season,4,event_1335,2021-02-08,1,1,0.5089520551350233
+Logistic - ocean plus season,4,event_1379,2021-02-08,1,1,0.507111435346545
+Logistic - ocean plus season,4,event_1317,2021-02-26,1,1,0.5060436835984731
+Logistic - ocean plus season,4,non_event_1003_1,2021-03-07,0,1,0.511150177151261
+Logistic - ocean plus season,4,non_event_1951_1,2021-03-29,0,1,0.5143428789871411
+Logistic - ocean plus season,4,non_event_720_1,2021-04-05,0,1,0.5024055617909514
+Logistic - ocean plus season,4,event_1301,2021-04-12,1,1,0.5133110985010076
+Logistic - ocean plus season,4,non_event_1922_1,2021-05-13,0,1,0.5103668318715338
+Logistic - ocean plus season,4,event_1271,2021-05-30,1,0,0.470020170564061
+Logistic - ocean plus season,4,non_event_820_1,2021-06-09,0,0,0.49896066103175524
+Logistic - ocean plus season,5,non_event_1040_1,2021-07-25,0,0,0.47233247056278327
+Logistic - ocean plus season,5,non_event_1052_1,2021-08-07,0,0,0.4623820757965803
+Logistic - ocean plus season,5,event_1168,2021-08-15,1,0,0.48978148415737294
+Logistic - ocean plus season,5,non_event_2438_1,2021-09-07,0,1,0.5191893890217572
+Logistic - ocean plus season,5,event_1457,2021-09-15,1,0,0.48950717049318093
+Logistic - ocean plus season,5,non_event_1867_1,2021-09-18,0,1,0.5193506257893317
+Logistic - ocean plus season,5,non_event_2440_1,2021-09-19,0,1,0.517530745533901
+Logistic - ocean plus season,5,non_event_1862_1,2021-09-20,0,1,0.5174540383767491
+Logistic - ocean plus season,5,non_event_1671_1,2021-10-01,0,0,0.4923172147159295
+Logistic - ocean plus season,5,event_1507,2021-10-08,1,0,0.4975990536589678
+Logistic - ocean plus season,5,non_event_1034_1,2021-10-12,0,1,0.525754748611185
+Logistic - ocean plus season,5,non_event_2292_1,2021-11-06,0,1,0.515805452550734
+Logistic - ocean plus season,5,non_event_1702_1,2021-12-23,0,1,0.5321773757087159
+Logistic - ocean plus season,5,non_event_1371_1,2022-01-30,0,1,0.5341387943075482
+Logistic - ocean plus season,5,non_event_1317_1,2022-02-26,0,1,0.5294032224717489
+Logistic - ocean plus season,5,non_event_1379_1,2022-02-27,0,1,0.5290462625375193
+Logistic - ocean plus season,5,non_event_1941_1,2022-03-02,0,1,0.5227779856650238
+Logistic - ocean plus season,5,non_event_423_1,2022-03-13,0,1,0.523395678822967
+Logistic - ocean plus season,5,non_event_1988_1,2022-03-22,0,1,0.5243681464934389
+Logistic - ocean plus season,5,event_1053,2022-03-22,1,0,0.4925790233847967
+Logistic - ocean plus season,5,event_1003,2022-03-28,1,0,0.4818766470637168
+Logistic - ocean plus season,5,non_event_1271_1,2022-05-02,0,1,0.5001214195786194
+Logistic - ocean plus season,5,event_838,2022-05-20,1,1,0.5077450750660706
+Logistic - ocean plus season,5,non_event_254_1,2022-05-23,0,1,0.5023503794647354
+Logistic - ocean plus season,5,event_877,2022-06-09,1,1,0.5011378020411122
+Logistic - ocean plus season,5,event_820,2022-06-28,1,0,0.4509363917002216
+Logistic - ocean plus season,5,event_821,2022-06-28,1,0,0.4740970904558722
+Logistic - ocean plus season,5,event_990,2022-07-11,1,0,0.47133875089616944
+Logistic - ocean plus season,5,event_1040,2022-07-20,1,0,0.4848137828131026
+Logistic - ocean plus season,5,event_817,2022-07-22,1,0,0.452831422022087
+Logistic - ocean plus season,5,event_1052,2022-08-02,1,0,0.47878111705957666
+Logistic - ocean plus season,5,non_event_1524_1,2022-08-07,0,1,0.5013031719696451
+Logistic - ocean plus season,5,non_event_564_1,2022-08-18,0,0,0.49012082180550015
+Logistic - ocean plus season,5,non_event_373_1,2022-09-29,0,1,0.5198999032872863
+Logistic - ocean plus season,5,event_1014,2022-10-07,1,1,0.5255860696329383
+Logistic - ocean plus season,5,event_1034,2022-10-07,1,1,0.5256997774055815
+Logistic - ocean plus season,5,non_event_1966_1,2022-12-02,0,1,0.5374200172994066
+Logistic - ocean plus season,5,non_event_1751_1,2022-12-05,0,1,0.5374653795524742
+Logistic - ocean plus season,5,non_event_1342_1,2023-01-26,0,1,0.5351924056085304
+Logistic - ocean plus season,5,non_event_366_1,2023-02-14,0,1,0.5296814030288529
+Logistic - ocean plus season,5,non_event_1335_1,2023-02-18,0,1,0.5280995052050468
+Logistic - ocean plus season,5,event_680,2023-02-24,1,0,0.4622365527070188
+Logistic - ocean plus season,5,non_event_77_1,2023-03-06,0,0,0.4283581756857112
+Logistic - ocean plus season,5,event_710,2023-04-10,1,0,0.47497587352100235
+Logistic - ocean plus season,5,event_720,2023-04-17,1,0,0.4752781523689968
+Logistic - ocean plus season,5,non_event_170_1,2023-05-25,0,0,0.4892081656730576
+Logistic - ocean plus season,5,event_623,2023-06-05,1,1,0.5026298729140095
+Logistic - ocean plus season,5,non_event_821_1,2023-06-13,0,0,0.46934472570907715
+Logistic - ocean plus season,5,non_event_355_1,2023-07-24,0,1,0.5068308821062459
+Logistic - ocean plus season,5,non_event_1168_1,2023-08-08,0,0,0.4897754801418041
+Logistic - ocean plus season,5,event_596,2023-08-13,1,1,0.5037487042775654
+Logistic - ocean plus season,5,event_564,2023-08-23,1,0,0.4879179474795338
+Logistic - ocean plus season,5,event_670,2023-08-23,1,0,0.466718172752301
+Logistic - ocean plus season,5,event_601,2023-09-03,1,1,0.5128343980386613
+Logistic - ocean plus season,5,event_600,2023-09-29,1,1,0.5102052636916937
+Logistic - ocean plus season,5,non_event_1014_1,2023-10-07,0,1,0.5263619711616323
+Logistic - ocean plus season,5,non_event_107_1,2023-11-07,0,1,0.5336712499954988
+Logistic - ocean plus season,5,event_610,2023-11-15,1,1,0.5182200064519068
+Logistic - ocean plus season,5,event_575,2023-12-12,1,1,0.531755856431558
+Logistic - ocean plus season,5,event_750,2023-12-18,1,1,0.5100084881919098
+Logistic - ocean plus season,5,non_event_15_1,2024-01-03,0,1,0.5346637174922081
+Logistic - ocean plus season,5,non_event_132_1,2024-01-13,0,1,0.5347814733045111
+Logistic - ocean plus season,5,non_event_17_1,2024-01-21,0,1,0.5329903419251059
+Logistic - ocean plus season,5,non_event_680_1,2024-02-04,0,0,0.4525883417319171
+Logistic - ocean plus season,5,event_366,2024-02-13,1,1,0.5260751540168954
+Logistic - ocean plus season,5,event_423,2024-03-15,1,1,0.5232439372602493
+Logistic - ocean plus season,5,event_315,2024-03-18,1,0,0.47845584551196196
+Logistic - ocean plus season,5,event_352,2024-04-12,1,1,0.5174823250141386
+Logistic - ocean plus season,5,non_event_3_1,2024-04-28,0,0,0.4763726922979318
+Logistic - ocean plus season,5,non_event_838_1,2024-05-02,0,1,0.5122612127105676
+Logistic - ocean plus season,5,non_event_36_1,2024-05-14,0,1,0.5004357747165895
+Logistic - ocean plus season,5,event_254,2024-05-22,1,0,0.4977020102393012
+Logistic - ocean plus season,5,non_event_97_1,2024-06-17,0,0,0.47618725793929945
+Logistic - ocean plus season,5,event_320,2024-06-17,1,0,0.46970579488829
+Logistic - ocean plus season,5,event_308,2024-07-01,1,0,0.48377301862620664
+Logistic - ocean plus season,5,non_event_817_1,2024-07-12,0,0,0.41276367028025135
+Logistic - ocean plus season,5,event_355,2024-07-19,1,1,0.5071404634482639
+Logistic - ocean plus season,5,event_491,2024-07-24,1,0,0.4770255483356781
+Logistic - ocean plus season,5,event_268,2024-08-05,1,1,0.5063552453779041
+Logistic - ocean plus season,5,event_266,2024-08-11,1,1,0.5035665595406298
+Logistic - ocean plus season,5,event_465,2024-08-27,1,1,0.5310299202863442
+Logistic - ocean plus season,5,non_event_670_1,2024-08-28,0,0,0.47137914165177924
+Logistic - ocean plus season,5,event_325,2024-09-01,1,1,0.5005678133948854
+Logistic - ocean plus season,5,event_373,2024-09-27,1,1,0.5194759995783823
+Logistic - ocean plus season,5,non_event_750_1,2024-12-13,0,1,0.5105455648595881
+Logistic - ocean plus season,5,event_132,2025-01-25,1,1,0.5357719866517184
+Logistic - ocean plus season,5,non_event_28_1,2025-02-16,0,1,0.5255332089467019
+Logistic - ocean plus season,5,event_50,2025-03-01,1,1,0.5226188657193401
+Logistic - ocean plus season,5,event_29,2025-03-17,1,0,0.49914586524774873
+Logistic - ocean plus season,5,event_77,2025-03-24,1,0,0.45386593370057143
+Logistic - ocean plus season,5,event_47,2025-03-31,1,1,0.5219699932564158
+Logistic - ocean plus season,5,non_event_352_1,2025-04-15,0,1,0.5196014065196171
+Logistic - ocean plus season,5,event_39,2025-04-26,1,1,0.5148868104894093
+Logistic - ocean plus season,5,non_event_12_1,2025-04-27,0,0,0.4802324085422236
+Logistic - ocean plus season,5,non_event_710_1,2025-04-29,0,0,0.4774102893846635
+Logistic - ocean plus season,5,non_event_0_1,2025-05-02,0,0,0.47146722238439753
+Logistic - ocean plus season,5,event_36,2025-05-02,1,1,0.500263201862016
+Logistic - ocean plus season,5,event_170,2025-05-06,1,0,0.4886155821021248
+Logistic - ocean plus season,5,event_94,2025-06-02,1,0,0.47989627922032485
+Logistic - ocean plus season,5,event_97,2025-06-02,1,0,0.4683955426804331
+Logistic - ocean plus season,5,non_event_623_1,2025-06-07,0,1,0.5013078126738651
+Logistic - ocean plus season,5,event_89,2025-06-09,1,0,0.472045733223882
+Logistic - ocean plus season,5,non_event_308_1,2025-07-24,0,0,0.4897281271283563
+Logistic - ocean plus season,5,non_event_266_1,2025-08-02,0,1,0.5040349930782378
+Logistic - ocean plus season,5,non_event_268_1,2025-08-09,0,1,0.5054112147653013
+Logistic - ocean plus season,5,event_81,2025-08-18,1,0,0.47595631137721306
+Logistic - ocean plus season,5,non_event_596_1,2025-08-22,0,1,0.5039744397195356
+Logistic - ocean plus season,5,non_event_601_1,2025-09-18,0,1,0.5120561867067618
+Logistic - ocean plus season,5,non_event_600_1,2025-09-20,0,1,0.5100644072847418
+Logistic - ocean plus season,5,non_event_610_1,2025-11-26,0,1,0.5208959424361024
+Logistic - ocean plus season,5,event_107,2025-11-28,1,1,0.5335690171092359
+Logistic - ocean plus season,5,non_event_575_1,2025-12-18,0,1,0.5306959923176977
+Logistic - ocean plus season,5,event_15,2026-01-15,1,1,0.5343470684920086
+Logistic - ocean plus season,5,event_17,2026-01-15,1,1,0.5349638276850516
+Logistic - ocean plus season,5,event_28,2026-02-26,1,1,0.5236493496944709
+Logistic - ocean plus season,5,non_event_315_1,2026-03-06,0,0,0.4707772018784436
+Logistic - ocean plus season,5,non_event_29_1,2026-03-08,0,0,0.4963493932541899
+Logistic - ocean plus season,5,non_event_50_1,2026-03-17,0,1,0.5221576731084941
+Logistic - ocean plus season,5,non_event_47_1,2026-03-20,0,1,0.5213512863278146
+Logistic - ocean plus season,5,event_3,2026-04-20,1,0,0.47684345925749566
+Logistic - ocean plus season,5,event_12,2026-04-27,1,0,0.4770631089392394
+Logistic - ocean plus season,5,non_event_39_1,2026-04-30,0,1,0.5136544915282749
+Logistic - ocean plus season,5,event_0,2026-05-04,1,0,0.46803351981335084
+Logistic - ocean plus season,5,non_event_320_1,2026-06-13,0,0,0.47390680933511875
+Logistic - ocean plus season,5,non_event_89_1,2026-06-27,0,0,0.4852559034630144
+Logistic - ocean plus season,5,non_event_94_1,2026-06-27,0,0,0.4870063177817797
+Logistic - ocean plus season,5,non_event_491_1,2026-07-01,0,0,0.4886764850801374
+Logistic - ocean plus season,5,non_event_81_1,2026-08-02,0,0,0.47821372796574035
+Logistic - ocean plus season,5,non_event_465_1,2026-08-21,0,1,0.5257873420988698
+Logistic - ocean plus season,5,non_event_325_1,2026-09-07,0,0,0.49194752627203786
+Random Forest - ocean only,1,non_event_12833_1,1997-09-09,0,1,0.7666666666666667
+Random Forest - ocean only,1,non_event_12217_1,1997-09-22,0,0,0.4
+Random Forest - ocean only,1,non_event_12642_1,1997-09-26,0,0,0.31333333333333335
+Random Forest - ocean only,1,event_12353,1997-09-28,1,1,0.51
+Random Forest - ocean only,1,non_event_12610_1,1997-09-29,0,0,0.38666666666666666
+Random Forest - ocean only,1,event_12359,1997-10-08,1,1,0.6133333333333333
+Random Forest - ocean only,1,non_event_12615_1,1997-10-27,0,0,0.44666666666666666
+Random Forest - ocean only,1,non_event_12363_1,1998-01-01,0,0,0.43333333333333335
+Random Forest - ocean only,1,event_12202,1998-01-08,1,0,0.32
+Random Forest - ocean only,1,non_event_11419_1,1998-01-16,0,1,0.58
+Random Forest - ocean only,1,non_event_11302_1,1998-01-17,0,1,0.53
+Random Forest - ocean only,1,non_event_12483_1,1998-02-12,0,1,0.8266666666666667
+Random Forest - ocean only,1,non_event_12024_1,1998-02-17,0,0,0.27666666666666667
+Random Forest - ocean only,1,non_event_12559_1,1998-03-15,0,0,0.36666666666666664
+Random Forest - ocean only,1,event_12281,1998-04-30,1,0,0.33666666666666667
+Random Forest - ocean only,1,non_event_11870_1,1998-05-28,0,1,0.56
+Random Forest - ocean only,1,non_event_12665_1,1998-05-29,0,1,0.5533333333333333
+Random Forest - ocean only,1,event_12226,1998-06-22,1,0,0.4266666666666667
+Random Forest - ocean only,1,event_12120,1998-06-23,1,1,0.6933333333333334
+Random Forest - ocean only,1,non_event_12102_1,1998-07-03,0,1,0.6433333333333333
+Random Forest - ocean only,1,non_event_12413_1,1998-07-05,0,1,0.6366666666666667
+Random Forest - ocean only,1,event_12253,1998-07-15,1,0,0.37
+Random Forest - ocean only,1,event_12262,1998-07-16,1,0,0.4033333333333333
+Random Forest - ocean only,1,non_event_11499_1,1998-07-26,0,1,0.67
+Random Forest - ocean only,1,event_12302,1998-07-28,1,0,0.48
+Random Forest - ocean only,1,event_12264,1998-08-01,1,1,0.59
+Random Forest - ocean only,1,event_12688,1998-08-01,1,1,0.5033333333333333
+Random Forest - ocean only,1,event_12260,1998-08-10,1,1,0.6133333333333333
+Random Forest - ocean only,1,event_12176,1998-08-23,1,1,0.5133333333333333
+Random Forest - ocean only,1,non_event_11634_1,1998-08-25,0,0,0.49666666666666665
+Random Forest - ocean only,1,event_12297,1998-08-30,1,1,0.5766666666666667
+Random Forest - ocean only,1,non_event_12496_1,1998-09-11,0,1,0.56
+Random Forest - ocean only,1,event_13026,1998-09-13,1,1,0.6333333333333333
+Random Forest - ocean only,1,event_12217,1998-09-22,1,0,0.36
+Random Forest - ocean only,1,non_event_11973_1,1998-10-07,0,0,0.4066666666666667
+Random Forest - ocean only,1,non_event_11327_1,1998-10-20,0,1,0.7133333333333334
+Random Forest - ocean only,1,non_event_11766_1,1998-12-01,0,1,0.64
+Random Forest - ocean only,1,event_12191,1998-12-11,1,1,0.7133333333333334
+Random Forest - ocean only,1,non_event_11121_1,1999-01-01,0,1,0.6166666666666667
+Random Forest - ocean only,1,non_event_12433_1,1999-01-02,0,1,0.5833333333333334
+Random Forest - ocean only,1,non_event_11218_1,1999-01-14,0,1,0.6166666666666667
+Random Forest - ocean only,1,non_event_10935_1,1999-01-22,0,0,0.3433333333333333
+Random Forest - ocean only,1,event_12023,1999-02-08,1,1,0.6433333333333333
+Random Forest - ocean only,1,event_12024,1999-02-08,1,0,0.36333333333333334
+Random Forest - ocean only,1,event_12026,1999-02-08,1,0,0.5
+Random Forest - ocean only,1,event_12000,1999-02-22,1,0,0.3933333333333333
+Random Forest - ocean only,1,event_12060,1999-04-01,1,1,0.83
+Random Forest - ocean only,1,non_event_10862_1,1999-05-21,0,1,0.5666666666666667
+Random Forest - ocean only,1,non_event_11868_1,1999-05-24,0,0,0.46
+Random Forest - ocean only,1,event_11911,1999-06-09,1,1,0.59
+Random Forest - ocean only,1,event_12081,1999-06-21,1,0,0.39
+Random Forest - ocean only,1,event_12087,1999-06-22,1,0,0.41333333333333333
+Random Forest - ocean only,1,event_12100,1999-06-30,1,1,0.6166666666666667
+Random Forest - ocean only,1,non_event_12345_1,1999-07-01,0,1,0.7566666666666667
+Random Forest - ocean only,1,non_event_12253_1,1999-07-08,0,0,0.35333333333333333
+Random Forest - ocean only,1,event_11921,1999-07-14,1,0,0.42
+Random Forest - ocean only,1,event_12102,1999-07-16,1,1,0.56
+Random Forest - ocean only,1,non_event_12461_1,1999-08-11,0,1,0.6366666666666667
+Random Forest - ocean only,1,non_event_12353_1,1999-09-04,0,1,0.5933333333333334
+Random Forest - ocean only,1,event_11920,1999-09-15,1,1,0.54
+Random Forest - ocean only,1,event_12096,1999-10-05,1,0,0.36333333333333334
+Random Forest - ocean only,1,event_11973,1999-10-12,1,1,0.5033333333333333
+Random Forest - ocean only,1,non_event_11449_1,1999-10-14,0,0,0.4633333333333333
+Random Forest - ocean only,1,non_event_12359_1,1999-10-22,0,1,0.6
+Random Forest - ocean only,1,event_11918,1999-11-02,1,1,0.6866666666666666
+Random Forest - ocean only,1,non_event_11141_1,1999-12-01,0,0,0.43666666666666665
+Random Forest - ocean only,1,event_11218,2000-01-01,1,0,0.4533333333333333
+Random Forest - ocean only,1,event_11583,2000-01-03,1,1,0.6666666666666666
+Random Forest - ocean only,1,event_11302,2000-01-09,1,1,0.7133333333333334
+Random Forest - ocean only,1,non_event_12202_1,2000-01-10,0,1,0.5566666666666666
+Random Forest - ocean only,1,event_11419,2000-01-21,1,1,0.71
+Random Forest - ocean only,1,non_event_12281_1,2000-04-24,0,1,0.5433333333333333
+Random Forest - ocean only,1,non_event_12060_1,2000-04-29,0,1,0.7466666666666667
+Random Forest - ocean only,1,event_11868,2000-05-07,1,1,0.6066666666666667
+Random Forest - ocean only,1,event_11870,2000-05-23,1,1,0.5166666666666667
+Random Forest - ocean only,1,non_event_10844_1,2000-06-12,0,1,0.5366666666666666
+Random Forest - ocean only,1,non_event_12100_1,2000-06-13,0,0,0.46
+Random Forest - ocean only,1,non_event_10802_1,2000-07-07,0,0,0.2866666666666667
+Random Forest - ocean only,1,non_event_10530_1,2000-07-19,0,0,0.4266666666666667
+Random Forest - ocean only,1,event_11499,2000-07-20,1,1,0.6966666666666667
+Random Forest - ocean only,1,non_event_12176_1,2000-08-01,0,1,0.5966666666666667
+Random Forest - ocean only,1,event_11634,2000-08-02,1,1,0.66
+Random Forest - ocean only,1,non_event_12297_1,2000-08-07,0,1,0.6866666666666666
+Random Forest - ocean only,1,event_11368,2000-08-22,1,1,0.71
+Random Forest - ocean only,1,non_event_12688_1,2000-08-28,0,0,0.45
+Random Forest - ocean only,1,non_event_12260_1,2000-08-29,0,1,0.5066666666666667
+Random Forest - ocean only,1,non_event_12264_1,2000-08-31,0,1,0.66
+Random Forest - ocean only,1,event_11373,2000-09-16,1,1,0.7966666666666666
+Random Forest - ocean only,1,event_11563,2000-09-23,1,1,0.71
+Random Forest - ocean only,1,non_event_11920_1,2000-09-26,0,1,0.5266666666666666
+Random Forest - ocean only,1,non_event_13026_1,2000-09-28,0,1,0.5533333333333333
+Random Forest - ocean only,1,non_event_12096_1,2000-10-05,0,1,0.5133333333333333
+Random Forest - ocean only,1,event_11449,2000-10-21,1,1,0.7766666666666666
+Random Forest - ocean only,1,event_11327,2000-10-26,1,1,0.7066666666666667
+Random Forest - ocean only,1,non_event_11918_1,2000-11-05,0,1,0.6866666666666666
+Random Forest - ocean only,1,event_11432,2000-12-04,1,1,0.66
+Random Forest - ocean only,1,non_event_12191_1,2000-12-05,0,1,0.5566666666666666
+Random Forest - ocean only,1,non_event_10813_1,2000-12-15,0,1,0.62
+Random Forest - ocean only,1,event_11766,2000-12-15,1,1,0.6433333333333333
+Random Forest - ocean only,1,event_10935,2001-01-01,1,1,0.61
+Random Forest - ocean only,1,event_11121,2001-01-29,1,1,0.5366666666666666
+Random Forest - ocean only,1,non_event_12026_1,2001-02-13,0,0,0.47333333333333333
+Random Forest - ocean only,1,non_event_12000_1,2001-02-24,0,0,0.36
+Random Forest - ocean only,1,event_10999,2001-03-01,1,0,0.49333333333333335
+Random Forest - ocean only,1,non_event_10763_1,2001-04-06,0,1,0.5166666666666667
+Random Forest - ocean only,1,event_11021,2001-04-06,1,1,0.5433333333333333
+Random Forest - ocean only,1,non_event_10390_1,2001-05-09,0,1,0.61
+Random Forest - ocean only,1,event_10862,2001-05-15,1,1,0.6366666666666667
+Random Forest - ocean only,1,event_11177,2001-05-25,1,1,0.5466666666666666
+Random Forest - ocean only,1,non_event_12087_1,2001-06-03,0,1,0.5266666666666666
+Random Forest - ocean only,1,event_11145,2001-06-05,1,0,0.5
+Random Forest - ocean only,1,event_10844,2001-06-09,1,0,0.43666666666666665
+Random Forest - ocean only,1,event_10866,2001-06-20,1,0,0.32
+Random Forest - ocean only,1,non_event_11911_1,2001-06-22,0,0,0.4266666666666667
+Random Forest - ocean only,1,non_event_11921_1,2001-07-03,0,0,0.42333333333333334
+Random Forest - ocean only,1,non_event_10393_1,2001-07-17,0,1,0.52
+Random Forest - ocean only,1,non_event_10236_1,2001-07-27,0,0,0.47333333333333333
+Random Forest - ocean only,1,event_11053,2001-07-28,1,0,0.49666666666666665
+Random Forest - ocean only,1,event_10948,2001-08-08,1,0,0.31
+Random Forest - ocean only,1,event_10859,2001-08-27,1,1,0.87
+Random Forest - ocean only,1,non_event_11373_1,2001-09-09,0,1,0.9066666666666666
+Random Forest - ocean only,1,non_event_10295_1,2001-10-01,0,1,0.69
+Random Forest - ocean only,1,event_11014,2001-11-19,1,1,0.54
+Random Forest - ocean only,1,event_10813,2001-12-15,1,0,0.4666666666666667
+Random Forest - ocean only,1,event_11141,2001-12-21,1,0,0.47
+Random Forest - ocean only,1,non_event_11432_1,2001-12-30,0,1,0.5866666666666667
+Random Forest - ocean only,2,non_event_9866_1,2002-01-05,0,0,0.39
+Random Forest - ocean only,2,non_event_11583_1,2002-01-18,0,1,0.7
+Random Forest - ocean only,2,non_event_9888_1,2002-01-19,0,1,0.72
+Random Forest - ocean only,2,non_event_10414_1,2002-01-24,0,1,0.6433333333333333
+Random Forest - ocean only,2,event_10701,2002-03-11,1,0,0.35
+Random Forest - ocean only,2,non_event_10307_1,2002-03-17,0,0,0.47333333333333333
+Random Forest - ocean only,2,event_10763,2002-04-22,1,0,0.33
+Random Forest - ocean only,2,event_10706,2002-06-24,1,0,0.41
+Random Forest - ocean only,2,event_10716,2002-07-01,1,1,0.69
+Random Forest - ocean only,2,event_10530,2002-07-02,1,1,0.7
+Random Forest - ocean only,2,non_event_10244_1,2002-07-19,0,1,0.5533333333333333
+Random Forest - ocean only,2,non_event_10221_1,2002-07-22,0,0,0.3433333333333333
+Random Forest - ocean only,2,event_10710,2002-07-22,1,0,0.47
+Random Forest - ocean only,2,event_10684,2002-07-28,1,1,0.73
+Random Forest - ocean only,2,event_10802,2002-07-29,1,0,0.3
+Random Forest - ocean only,2,non_event_10431_1,2002-08-05,0,0,0.39
+Random Forest - ocean only,2,event_10725,2002-08-17,1,0,0.48333333333333334
+Random Forest - ocean only,2,non_event_11368_1,2002-08-23,0,0,0.45
+Random Forest - ocean only,2,non_event_10859_1,2002-08-30,0,1,0.8666666666666667
+Random Forest - ocean only,2,non_event_11563_1,2002-09-03,0,1,0.65
+Random Forest - ocean only,2,event_10688,2002-09-05,1,1,0.7533333333333333
+Random Forest - ocean only,2,event_10734,2002-09-07,1,1,0.53
+Random Forest - ocean only,2,event_10761,2002-09-15,1,0,0.46
+Random Forest - ocean only,2,non_event_10059_1,2002-10-19,0,0,0.36
+Random Forest - ocean only,2,event_10404,2003-01-01,1,1,0.6333333333333333
+Random Forest - ocean only,2,event_10470,2003-01-02,1,1,0.5933333333333334
+Random Forest - ocean only,2,event_10414,2003-01-10,1,0,0.33666666666666667
+Random Forest - ocean only,2,non_event_9915_1,2003-01-25,0,1,0.6566666666666666
+Random Forest - ocean only,2,non_event_9949_1,2003-01-29,0,1,0.51
+Random Forest - ocean only,2,non_event_9864_1,2003-02-02,0,1,0.5566666666666666
+Random Forest - ocean only,2,non_event_9836_1,2003-02-05,0,1,0.56
+Random Forest - ocean only,2,event_10307,2003-03-01,1,1,0.6166666666666667
+Random Forest - ocean only,2,event_10358,2003-03-06,1,1,0.7166666666666667
+Random Forest - ocean only,2,non_event_10138_1,2003-03-17,0,0,0.44333333333333336
+Random Forest - ocean only,2,non_event_10999_1,2003-03-30,0,1,0.72
+Random Forest - ocean only,2,non_event_11021_1,2003-04-09,0,1,0.7933333333333333
+Random Forest - ocean only,2,non_event_9525_1,2003-04-17,0,0,0.36666666666666664
+Random Forest - ocean only,2,non_event_9375_1,2003-04-21,0,0,0.36333333333333334
+Random Forest - ocean only,2,non_event_9583_1,2003-04-26,0,0,0.38333333333333336
+Random Forest - ocean only,2,non_event_9384_1,2003-05-25,0,1,0.5533333333333333
+Random Forest - ocean only,2,event_10390,2003-05-26,1,0,0.3566666666666667
+Random Forest - ocean only,2,non_event_11177_1,2003-05-29,0,1,0.5233333333333333
+Random Forest - ocean only,2,non_event_10706_1,2003-06-06,0,0,0.24333333333333335
+Random Forest - ocean only,2,non_event_11145_1,2003-06-09,0,0,0.49666666666666665
+Random Forest - ocean only,2,non_event_10866_1,2003-06-15,0,1,0.7033333333333334
+Random Forest - ocean only,2,event_10236,2003-07-05,1,0,0.3566666666666667
+Random Forest - ocean only,2,event_10221,2003-07-12,1,0,0.47333333333333333
+Random Forest - ocean only,2,non_event_10710_1,2003-07-13,0,1,0.58
+Random Forest - ocean only,2,event_10244,2003-07-14,1,0,0.24666666666666667
+Random Forest - ocean only,2,event_10393,2003-07-14,1,0,0.36666666666666664
+Random Forest - ocean only,2,non_event_11053_1,2003-07-18,0,1,0.6433333333333333
+Random Forest - ocean only,2,non_event_10684_1,2003-07-29,0,1,0.6233333333333333
+Random Forest - ocean only,2,event_10431,2003-08-22,1,0,0.45666666666666667
+Random Forest - ocean only,2,non_event_10948_1,2003-08-27,0,1,0.5633333333333334
+Random Forest - ocean only,2,non_event_9388_1,2003-09-11,0,0,0.44333333333333336
+Random Forest - ocean only,2,non_event_9378_1,2003-09-16,0,0,0.46
+Random Forest - ocean only,2,non_event_10734_1,2003-09-24,0,1,0.7366666666666667
+Random Forest - ocean only,2,non_event_10688_1,2003-09-30,0,0,0.45
+Random Forest - ocean only,2,non_event_10761_1,2003-09-30,0,1,0.5066666666666667
+Random Forest - ocean only,2,event_10295,2003-10-17,1,1,0.5066666666666667
+Random Forest - ocean only,2,non_event_11014_1,2003-11-05,0,1,0.59
+Random Forest - ocean only,2,event_10124,2004-01-01,1,1,0.5566666666666666
+Random Forest - ocean only,2,event_9915,2004-01-07,1,0,0.4666666666666667
+Random Forest - ocean only,2,event_9866,2004-01-12,1,1,0.5733333333333334
+Random Forest - ocean only,2,non_event_10470_1,2004-01-16,0,1,0.68
+Random Forest - ocean only,2,event_9949,2004-01-20,1,1,0.6166666666666667
+Random Forest - ocean only,2,non_event_10404_1,2004-01-28,0,1,0.64
+Random Forest - ocean only,2,event_9888,2004-01-28,1,0,0.4
+Random Forest - ocean only,2,event_9929,2004-02-08,1,1,0.6833333333333333
+Random Forest - ocean only,2,event_9836,2004-02-20,1,1,0.5566666666666666
+Random Forest - ocean only,2,event_9864,2004-02-21,1,1,0.54
+Random Forest - ocean only,2,event_10138,2004-03-15,1,0,0.4
+Random Forest - ocean only,2,non_event_10358_1,2004-03-17,0,1,0.71
+Random Forest - ocean only,2,non_event_10701_1,2004-03-17,0,0,0.30666666666666664
+Random Forest - ocean only,2,non_event_9137_1,2004-03-24,0,1,0.5266666666666666
+Random Forest - ocean only,2,event_10080,2004-05-06,1,1,0.6266666666666667
+Random Forest - ocean only,2,event_10062,2004-05-31,1,1,0.6066666666666667
+Random Forest - ocean only,2,non_event_9707_1,2004-06-30,0,0,0.4866666666666667
+Random Forest - ocean only,2,non_event_10716_1,2004-07-27,0,1,0.6566666666666666
+Random Forest - ocean only,2,event_10042,2004-08-10,1,1,0.6466666666666666
+Random Forest - ocean only,2,non_event_10725_1,2004-08-22,0,0,0.41333333333333333
+Random Forest - ocean only,2,non_event_8911_1,2004-10-01,0,1,0.6733333333333333
+Random Forest - ocean only,2,non_event_8913_1,2004-10-07,0,1,0.6166666666666667
+Random Forest - ocean only,2,event_10059,2004-10-15,1,0,0.37333333333333335
+Random Forest - ocean only,2,non_event_9471_1,2004-10-17,0,0,0.43
+Random Forest - ocean only,2,non_event_8925_1,2004-11-27,0,0,0.31333333333333335
+Random Forest - ocean only,2,event_9667,2005-01-01,1,0,0.22
+Random Forest - ocean only,2,non_event_9161_1,2005-01-06,0,0,0.43666666666666665
+Random Forest - ocean only,2,event_9537,2005-03-14,1,0,0.36666666666666664
+Random Forest - ocean only,2,event_9375,2005-04-25,1,0,0.4033333333333333
+Random Forest - ocean only,2,event_9583,2005-04-25,1,0,0.3433333333333333
+Random Forest - ocean only,2,event_9525,2005-04-28,1,0,0.21333333333333335
+Random Forest - ocean only,2,non_event_10080_1,2005-05-12,0,0,0.47333333333333333
+Random Forest - ocean only,2,event_9548,2005-05-13,1,0,0.31666666666666665
+Random Forest - ocean only,2,event_9384,2005-05-29,1,1,0.7
+Random Forest - ocean only,2,non_event_8525_1,2005-06-06,0,1,0.54
+Random Forest - ocean only,2,event_9707,2005-06-08,1,0,0.24333333333333335
+Random Forest - ocean only,2,event_9580,2005-07-25,1,0,0.15333333333333332
+Random Forest - ocean only,2,non_event_8524_1,2005-07-27,0,0,0.4866666666666667
+Random Forest - ocean only,2,event_9554,2005-07-29,1,1,0.63
+Random Forest - ocean only,2,event_9312,2005-08-28,1,0,0.4766666666666667
+Random Forest - ocean only,2,non_event_8530_1,2005-09-11,0,0,0.5
+Random Forest - ocean only,2,event_9388,2005-09-27,1,1,0.5533333333333333
+Random Forest - ocean only,2,event_9378,2005-09-29,1,0,0.49333333333333335
+Random Forest - ocean only,2,non_event_8563_1,2005-10-06,0,1,0.6633333333333333
+Random Forest - ocean only,2,event_9471,2005-10-15,1,0,0.30666666666666664
+Random Forest - ocean only,2,non_event_8562_1,2005-10-17,0,1,0.7266666666666667
+Random Forest - ocean only,2,non_event_8491_1,2005-10-20,0,1,0.6766666666666666
+Random Forest - ocean only,2,event_9652,2005-11-01,1,1,0.6566666666666666
+Random Forest - ocean only,2,event_9161,2006-01-12,1,0,0.2633333333333333
+Random Forest - ocean only,2,non_event_8455_1,2006-01-25,0,0,0.37666666666666665
+Random Forest - ocean only,2,non_event_10124_1,2006-01-28,0,0,0.39
+Random Forest - ocean only,2,non_event_9929_1,2006-02-18,0,0,0.3566666666666667
+Random Forest - ocean only,2,event_9137,2006-03-08,1,1,0.67
+Random Forest - ocean only,2,event_9113,2006-03-16,1,0,0.29
+Random Forest - ocean only,2,non_event_7951_1,2006-03-19,0,0,0.25666666666666665
+Random Forest - ocean only,2,event_9225,2006-04-06,1,1,0.5733333333333334
+Random Forest - ocean only,2,event_9125,2006-04-21,1,0,0.3233333333333333
+Random Forest - ocean only,2,non_event_10062_1,2006-05-06,0,0,0.24666666666666667
+Random Forest - ocean only,2,non_event_8605_1,2006-07-01,0,1,0.5833333333333334
+Random Forest - ocean only,2,non_event_9554_1,2006-07-02,0,1,0.6166666666666667
+Random Forest - ocean only,2,event_9174,2006-07-13,1,1,0.7133333333333334
+Random Forest - ocean only,2,non_event_9580_1,2006-07-27,0,0,0.3566666666666667
+Random Forest - ocean only,2,non_event_9312_1,2006-08-06,0,1,0.6066666666666667
+Random Forest - ocean only,2,non_event_8109_1,2006-08-07,0,0,0.37
+Random Forest - ocean only,2,non_event_10042_1,2006-08-26,0,1,0.6566666666666666
+Random Forest - ocean only,2,event_8911,2006-10-18,1,0,0.39
+Random Forest - ocean only,3,event_8913,2006-10-27,1,0,0.4666666666666667
+Random Forest - ocean only,3,event_8925,2006-11-01,1,0,0.28
+Random Forest - ocean only,3,non_event_9652_1,2006-11-02,0,1,0.6466666666666666
+Random Forest - ocean only,3,event_8455,2007-01-14,1,0,0.38
+Random Forest - ocean only,3,non_event_9667_1,2007-01-27,0,1,0.7533333333333333
+Random Forest - ocean only,3,non_event_8000_1,2007-02-02,0,1,0.7066666666666667
+Random Forest - ocean only,3,non_event_7059_1,2007-02-12,0,1,0.5133333333333333
+Random Forest - ocean only,3,non_event_9537_1,2007-03-14,0,1,0.6966666666666667
+Random Forest - ocean only,3,non_event_9113_1,2007-03-18,0,1,0.7433333333333333
+Random Forest - ocean only,3,non_event_9125_1,2007-04-14,0,1,0.7433333333333333
+Random Forest - ocean only,3,non_event_8003_1,2007-05-27,0,0,0.27
+Random Forest - ocean only,3,non_event_9548_1,2007-05-28,0,1,0.5666666666666667
+Random Forest - ocean only,3,event_8525,2007-06-04,1,0,0.4533333333333333
+Random Forest - ocean only,3,event_8524,2007-07-17,1,0,0.16666666666666666
+Random Forest - ocean only,3,non_event_9174_1,2007-07-27,0,0,0.24333333333333335
+Random Forest - ocean only,3,event_8605,2007-07-31,1,1,0.62
+Random Forest - ocean only,3,event_8530,2007-09-04,1,0,0.2633333333333333
+Random Forest - ocean only,3,event_8491,2007-10-13,1,0,0.49666666666666665
+Random Forest - ocean only,3,event_8562,2007-10-14,1,1,0.5266666666666666
+Random Forest - ocean only,3,event_8563,2007-10-23,1,0,0.2633333333333333
+Random Forest - ocean only,3,event_8000,2008-02-03,1,1,0.74
+Random Forest - ocean only,3,event_8194,2008-03-01,1,0,0.44
+Random Forest - ocean only,3,event_7951,2008-03-13,1,1,0.79
+Random Forest - ocean only,3,non_event_9225_1,2008-04-05,0,1,0.7233333333333334
+Random Forest - ocean only,3,non_event_7524_1,2008-05-03,0,0,0.4
+Random Forest - ocean only,3,non_event_7119_1,2008-05-22,0,0,0.4533333333333333
+Random Forest - ocean only,3,event_8003,2008-05-26,1,0,0.15666666666666668
+Random Forest - ocean only,3,event_8097,2008-06-22,1,0,0.38666666666666666
+Random Forest - ocean only,3,non_event_7471_1,2008-06-29,0,1,0.56
+Random Forest - ocean only,3,event_8109,2008-08-07,1,0,0.25333333333333335
+Random Forest - ocean only,3,event_7901,2008-09-03,1,0,0.2833333333333333
+Random Forest - ocean only,3,non_event_6835_1,2008-09-23,0,1,0.6033333333333334
+Random Forest - ocean only,3,event_7059,2009-02-10,1,0,0.4666666666666667
+Random Forest - ocean only,3,non_event_8194_1,2009-03-21,0,1,0.6466666666666666
+Random Forest - ocean only,3,event_7543,2009-03-23,1,0,0.2733333333333333
+Random Forest - ocean only,3,non_event_6351_1,2009-04-19,0,1,0.51
+Random Forest - ocean only,3,event_7524,2009-05-01,1,0,0.38
+Random Forest - ocean only,3,event_7119,2009-05-04,1,0,0.38
+Random Forest - ocean only,3,event_7556,2009-05-11,1,0,0.32
+Random Forest - ocean only,3,event_7281,2009-05-26,1,0,0.37333333333333335
+Random Forest - ocean only,3,event_7491,2009-06-08,1,0,0.37333333333333335
+Random Forest - ocean only,3,non_event_8097_1,2009-06-11,0,0,0.32
+Random Forest - ocean only,3,event_7471,2009-06-15,1,1,0.5966666666666667
+Random Forest - ocean only,3,non_event_6506_1,2009-07-31,0,0,0.4666666666666667
+Random Forest - ocean only,3,non_event_5675_1,2010-02-10,0,0,0.07666666666666666
+Random Forest - ocean only,3,non_event_7281_1,2010-05-05,0,0,0.22
+Random Forest - ocean only,3,non_event_5782_1,2010-05-18,0,0,0.19333333333333333
+Random Forest - ocean only,3,event_6537,2010-06-01,1,1,0.55
+Random Forest - ocean only,3,event_6506,2010-07-12,1,0,0.4
+Random Forest - ocean only,3,event_6824,2010-08-02,1,0,0.49666666666666665
+Random Forest - ocean only,3,event_6522,2010-08-04,1,1,0.6633333333333333
+Random Forest - ocean only,3,non_event_5969_1,2010-08-31,0,1,0.51
+Random Forest - ocean only,3,event_6835,2010-09-10,1,0,0.3466666666666667
+Random Forest - ocean only,3,non_event_7901_1,2010-09-24,0,0,0.21666666666666667
+Random Forest - ocean only,3,non_event_7543_1,2011-03-28,0,0,0.35333333333333333
+Random Forest - ocean only,3,event_6351,2011-04-04,1,1,0.58
+Random Forest - ocean only,3,non_event_5308_1,2011-04-14,0,1,0.6
+Random Forest - ocean only,3,non_event_7556_1,2011-05-30,0,0,0.45
+Random Forest - ocean only,3,non_event_7491_1,2011-06-10,0,0,0.35333333333333333
+Random Forest - ocean only,3,non_event_5268_1,2011-06-30,0,1,0.51
+Random Forest - ocean only,3,event_6318,2011-07-22,1,0,0.22666666666666666
+Random Forest - ocean only,3,non_event_6824_1,2011-08-05,0,0,0.44333333333333336
+Random Forest - ocean only,3,non_event_5281_1,2011-08-07,0,0,0.29333333333333333
+Random Forest - ocean only,3,event_6432,2011-08-30,1,0,0.48
+Random Forest - ocean only,3,non_event_5396_1,2011-10-19,0,0,0.4033333333333333
+Random Forest - ocean only,3,event_6003,2011-10-21,1,1,0.67
+Random Forest - ocean only,3,non_event_5711_1,2011-11-27,0,0,0.4533333333333333
+Random Forest - ocean only,3,non_event_4896_1,2012-01-12,0,0,0.31666666666666665
+Random Forest - ocean only,3,event_5675,2012-02-18,1,0,0.3333333333333333
+Random Forest - ocean only,3,non_event_4852_1,2012-04-09,0,0,0.38333333333333336
+Random Forest - ocean only,3,event_5782,2012-05-15,1,0,0.15333333333333332
+Random Forest - ocean only,3,non_event_4658_1,2012-06-15,0,0,0.36
+Random Forest - ocean only,3,non_event_6537_1,2012-06-21,0,1,0.6466666666666666
+Random Forest - ocean only,3,event_5803,2012-07-17,1,1,0.5233333333333333
+Random Forest - ocean only,3,non_event_4846_1,2012-07-27,0,1,0.5066666666666667
+Random Forest - ocean only,3,event_5969,2012-08-01,1,0,0.44666666666666666
+Random Forest - ocean only,3,non_event_6432_1,2012-08-05,0,0,0.43666666666666665
+Random Forest - ocean only,3,non_event_4661_1,2012-08-12,0,1,0.55
+Random Forest - ocean only,3,non_event_6522_1,2012-08-13,0,1,0.6433333333333333
+Random Forest - ocean only,3,event_5784,2012-10-03,1,0,0.29333333333333333
+Random Forest - ocean only,3,event_5711,2012-11-25,1,0,0.47
+Random Forest - ocean only,3,event_5792,2012-12-07,1,0,0.48
+Random Forest - ocean only,3,non_event_4223_1,2013-01-14,0,1,0.7333333333333333
+Random Forest - ocean only,3,event_5308,2013-04-09,1,1,0.5166666666666667
+Random Forest - ocean only,3,non_event_4864_1,2013-04-20,0,0,0.43666666666666665
+Random Forest - ocean only,3,non_event_4710_1,2013-06-15,0,0,0.32
+Random Forest - ocean only,3,event_5335,2013-06-15,1,1,0.56
+Random Forest - ocean only,3,event_5268,2013-06-24,1,1,0.6133333333333333
+Random Forest - ocean only,3,event_5277,2013-07-01,1,0,0.27666666666666667
+Random Forest - ocean only,3,non_event_4876_1,2013-07-07,0,1,0.5333333333333333
+Random Forest - ocean only,3,non_event_6318_1,2013-07-17,0,0,0.4066666666666667
+Random Forest - ocean only,3,event_5281,2013-08-05,1,1,0.7133333333333334
+Random Forest - ocean only,3,non_event_6003_1,2013-10-06,0,1,0.79
+Random Forest - ocean only,3,non_event_5784_1,2013-10-17,0,0,0.30333333333333334
+Random Forest - ocean only,3,event_5396,2013-10-21,1,1,0.52
+Random Forest - ocean only,3,non_event_4631_1,2013-12-02,0,0,0.49666666666666665
+Random Forest - ocean only,3,event_4896,2014-01-17,1,0,0.4633333333333333
+Random Forest - ocean only,3,event_4852,2014-04-01,1,0,0.45
+Random Forest - ocean only,3,event_4446,2014-04-11,1,0,0.48333333333333334
+Random Forest - ocean only,3,event_4864,2014-04-22,1,1,0.5166666666666667
+Random Forest - ocean only,3,event_4658,2014-06-10,1,0,0.44666666666666666
+Random Forest - ocean only,3,event_4710,2014-06-23,1,0,0.2633333333333333
+Random Forest - ocean only,3,non_event_5803_1,2014-07-17,0,0,0.4166666666666667
+Random Forest - ocean only,3,event_4846,2014-07-22,1,1,0.7733333333333333
+Random Forest - ocean only,3,event_4876,2014-07-23,1,0,0.4866666666666667
+Random Forest - ocean only,3,non_event_3846_1,2014-08-06,0,0,0.45666666666666667
+Random Forest - ocean only,3,event_4661,2014-08-26,1,1,0.5166666666666667
+Random Forest - ocean only,3,non_event_3562_1,2014-10-25,0,1,0.6066666666666667
+Random Forest - ocean only,3,event_4631,2014-12-15,1,0,0.44333333333333336
+Random Forest - ocean only,3,non_event_5792_1,2014-12-31,0,1,0.69
+Random Forest - ocean only,3,event_4144,2015-01-05,1,1,0.6066666666666667
+Random Forest - ocean only,3,event_4223,2015-01-06,1,1,0.63
+Random Forest - ocean only,3,non_event_3960_1,2015-01-16,0,0,0.49333333333333335
+Random Forest - ocean only,3,non_event_3829_1,2015-02-15,0,0,0.49
+Random Forest - ocean only,3,event_4231,2015-03-26,1,0,0.5
+Random Forest - ocean only,3,event_4346,2015-04-01,1,1,0.6466666666666666
+Random Forest - ocean only,3,non_event_3600_1,2015-04-05,0,0,0.49
+Random Forest - ocean only,3,non_event_4446_1,2015-04-30,0,1,0.57
+Random Forest - ocean only,3,non_event_3974_1,2015-05-27,0,1,0.65
+Random Forest - ocean only,3,non_event_3498_1,2015-05-28,0,1,0.6633333333333333
+Random Forest - ocean only,3,non_event_5335_1,2015-06-03,0,1,0.6533333333333333
+Random Forest - ocean only,3,non_event_3523_1,2015-06-04,0,1,0.5933333333333334
+Random Forest - ocean only,4,event_4286,2015-06-24,1,0,0.45
+Random Forest - ocean only,4,event_4253,2015-06-29,1,0,0.36
+Random Forest - ocean only,4,non_event_3814_1,2015-07-01,0,1,0.5666666666666667
+Random Forest - ocean only,4,non_event_5277_1,2015-07-06,0,1,0.5366666666666666
+Random Forest - ocean only,4,event_4047,2015-07-18,1,0,0.30666666666666664
+Random Forest - ocean only,4,event_4227,2015-08-02,1,1,0.5833333333333334
+Random Forest - ocean only,4,non_event_3508_1,2015-08-27,0,0,0.28
+Random Forest - ocean only,4,event_4264,2015-09-28,1,0,0.47333333333333333
+Random Forest - ocean only,4,event_3960,2016-01-01,1,0,0.42333333333333334
+Random Forest - ocean only,4,event_3829,2016-02-16,1,0,0.4666666666666667
+Random Forest - ocean only,4,event_3645,2016-03-01,1,1,0.72
+Random Forest - ocean only,4,non_event_3109_1,2016-03-03,0,0,0.3566666666666667
+Random Forest - ocean only,4,non_event_2908_1,2016-03-13,0,0,0.42333333333333334
+Random Forest - ocean only,4,non_event_4231_1,2016-03-26,0,0,0.44333333333333336
+Random Forest - ocean only,4,event_3941,2016-04-05,1,0,0.4
+Random Forest - ocean only,4,non_event_4346_1,2016-04-17,0,1,0.7266666666666667
+Random Forest - ocean only,4,event_3600,2016-04-24,1,0,0.36666666666666664
+Random Forest - ocean only,4,non_event_3120_1,2016-05-10,0,0,0.34
+Random Forest - ocean only,4,event_3974,2016-05-23,1,1,0.65
+Random Forest - ocean only,4,non_event_4286_1,2016-06-08,0,0,0.4033333333333333
+Random Forest - ocean only,4,non_event_4253_1,2016-06-19,0,0,0.35333333333333333
+Random Forest - ocean only,4,non_event_2702_1,2016-06-20,0,1,0.58
+Random Forest - ocean only,4,event_3814,2016-07-06,1,0,0.43666666666666665
+Random Forest - ocean only,4,non_event_2765_1,2016-07-26,0,1,0.7933333333333333
+Random Forest - ocean only,4,non_event_3482_1,2016-08-01,0,1,0.6666666666666666
+Random Forest - ocean only,4,event_3846,2016-08-08,1,1,0.5166666666666667
+Random Forest - ocean only,4,event_3562,2016-10-15,1,0,0.4666666666666667
+Random Forest - ocean only,4,non_event_3024_1,2016-11-07,0,0,0.35333333333333333
+Random Forest - ocean only,4,non_event_3231_1,2016-11-30,0,1,0.6466666666666666
+Random Forest - ocean only,4,event_3664,2016-12-01,1,1,0.63
+Random Forest - ocean only,4,event_3667,2016-12-29,1,1,0.62
+Random Forest - ocean only,4,event_3655,2016-12-31,1,1,0.6033333333333334
+Random Forest - ocean only,4,non_event_3009_1,2017-01-11,0,0,0.4866666666666667
+Random Forest - ocean only,4,non_event_3001_1,2017-01-12,0,0,0.46
+Random Forest - ocean only,4,non_event_4144_1,2017-01-24,0,1,0.6
+Random Forest - ocean only,4,event_3427,2017-01-31,1,1,0.5033333333333333
+Random Forest - ocean only,4,event_3410,2017-03-27,1,1,0.54
+Random Forest - ocean only,4,non_event_2320_1,2017-04-01,0,0,0.43333333333333335
+Random Forest - ocean only,4,non_event_3941_1,2017-04-07,0,1,0.5033333333333333
+Random Forest - ocean only,4,event_3404,2017-05-08,1,0,0.35
+Random Forest - ocean only,4,event_3498,2017-05-16,1,1,0.5233333333333333
+Random Forest - ocean only,4,event_3523,2017-06-06,1,0,0.46
+Random Forest - ocean only,4,non_event_2331_1,2017-06-11,0,1,0.5433333333333333
+Random Forest - ocean only,4,non_event_2477_1,2017-06-14,0,0,0.44666666666666666
+Random Forest - ocean only,4,event_3196,2017-06-20,1,0,0.45666666666666667
+Random Forest - ocean only,4,non_event_4047_1,2017-07-04,0,1,0.5166666666666667
+Random Forest - ocean only,4,event_3339,2017-07-10,1,0,0.2733333333333333
+Random Forest - ocean only,4,event_3516,2017-07-17,1,1,0.5433333333333333
+Random Forest - ocean only,4,non_event_2538_1,2017-07-30,0,1,0.5166666666666667
+Random Forest - ocean only,4,non_event_2471_1,2017-07-31,0,0,0.4166666666666667
+Random Forest - ocean only,4,event_3508,2017-08-03,1,0,0.32666666666666666
+Random Forest - ocean only,4,non_event_4227_1,2017-08-11,0,0,0.44666666666666666
+Random Forest - ocean only,4,event_3386,2017-08-14,1,1,0.5033333333333333
+Random Forest - ocean only,4,event_3482,2017-08-22,1,1,0.51
+Random Forest - ocean only,4,non_event_4264_1,2017-09-18,0,1,0.5166666666666667
+Random Forest - ocean only,4,event_3231,2017-11-01,1,0,0.37
+Random Forest - ocean only,4,non_event_3664_1,2017-12-29,0,0,0.18
+Random Forest - ocean only,4,non_event_3655_1,2017-12-30,0,0,0.22666666666666666
+Random Forest - ocean only,4,non_event_3667_1,2017-12-31,0,0,0.25
+Random Forest - ocean only,4,event_3009,2018-01-12,1,0,0.3933333333333333
+Random Forest - ocean only,4,event_3001,2018-01-15,1,1,0.6066666666666667
+Random Forest - ocean only,4,non_event_3427_1,2018-01-25,0,0,0.36333333333333334
+Random Forest - ocean only,4,event_3109,2018-03-15,1,1,0.54
+Random Forest - ocean only,4,event_2908,2018-03-20,1,0,0.35333333333333333
+Random Forest - ocean only,4,non_event_3645_1,2018-03-22,0,0,0.4633333333333333
+Random Forest - ocean only,4,non_event_2587_1,2018-04-09,0,1,0.53
+Random Forest - ocean only,4,event_3120,2018-05-09,1,0,0.4033333333333333
+Random Forest - ocean only,4,non_event_3404_1,2018-05-31,0,0,0.21666666666666667
+Random Forest - ocean only,4,event_2702,2018-06-18,1,0,0.4
+Random Forest - ocean only,4,event_2698,2018-06-26,1,0,0.43666666666666665
+Random Forest - ocean only,4,non_event_3196_1,2018-06-29,0,1,0.5866666666666667
+Random Forest - ocean only,4,non_event_2283_1,2018-07-11,0,0,0.32
+Random Forest - ocean only,4,non_event_3516_1,2018-07-11,0,1,0.64
+Random Forest - ocean only,4,non_event_3339_1,2018-07-15,0,0,0.2733333333333333
+Random Forest - ocean only,4,event_2765,2018-07-25,1,0,0.3433333333333333
+Random Forest - ocean only,4,non_event_2121_1,2018-07-26,0,1,0.6833333333333333
+Random Forest - ocean only,4,non_event_3386_1,2018-08-18,0,1,0.6333333333333333
+Random Forest - ocean only,4,event_2655,2018-08-22,1,0,0.47
+Random Forest - ocean only,4,non_event_2087_1,2018-10-11,0,0,0.31333333333333335
+Random Forest - ocean only,4,event_3024,2018-11-23,1,0,0.4633333333333333
+Random Forest - ocean only,4,non_event_1663_1,2019-03-05,0,0,0.3566666666666667
+Random Forest - ocean only,4,non_event_3410_1,2019-03-12,0,0,0.4066666666666667
+Random Forest - ocean only,4,non_event_1301_1,2019-04-02,0,0,0.46
+Random Forest - ocean only,4,event_2587,2019-04-15,1,0,0.47
+Random Forest - ocean only,4,event_2320,2019-04-29,1,0,0.27666666666666667
+Random Forest - ocean only,4,event_2331,2019-06-24,1,1,0.51
+Random Forest - ocean only,4,event_2477,2019-06-28,1,0,0.4166666666666667
+Random Forest - ocean only,4,event_2121,2019-07-11,1,1,0.6
+Random Forest - ocean only,4,event_2538,2019-07-12,1,1,0.6533333333333333
+Random Forest - ocean only,4,event_2283,2019-07-22,1,0,0.38333333333333336
+Random Forest - ocean only,4,event_2471,2019-07-24,1,0,0.42333333333333334
+Random Forest - ocean only,4,event_2165,2019-08-24,1,0,0.2833333333333333
+Random Forest - ocean only,4,non_event_2655_1,2019-08-29,0,0,0.44333333333333336
+Random Forest - ocean only,4,non_event_1457_1,2019-09-18,0,0,0.3566666666666667
+Random Forest - ocean only,4,event_2438,2019-09-26,1,0,0.49333333333333335
+Random Forest - ocean only,4,event_2440,2019-09-26,1,0,0.41333333333333333
+Random Forest - ocean only,4,event_2292,2019-11-05,1,0,0.38333333333333336
+Random Forest - ocean only,4,event_1951,2020-03-09,1,0,0.2966666666666667
+Random Forest - ocean only,4,event_1988,2020-03-09,1,0,0.36666666666666664
+Random Forest - ocean only,4,non_event_1053_1,2020-03-26,0,1,0.6766666666666666
+Random Forest - ocean only,4,event_1941,2020-03-27,1,0,0.4033333333333333
+Random Forest - ocean only,4,event_1663,2020-03-30,1,1,0.5033333333333333
+Random Forest - ocean only,4,event_1922,2020-05-21,1,0,0.41
+Random Forest - ocean only,4,non_event_877_1,2020-06-11,0,0,0.32666666666666666
+Random Forest - ocean only,4,non_event_2698_1,2020-06-30,0,1,0.78
+Random Forest - ocean only,4,non_event_990_1,2020-07-31,0,1,0.5833333333333334
+Random Forest - ocean only,4,non_event_2165_1,2020-08-01,0,0,0.22333333333333333
+Random Forest - ocean only,4,event_1524,2020-08-19,1,0,0.42
+Random Forest - ocean only,4,event_1862,2020-09-19,1,0,0.35333333333333333
+Random Forest - ocean only,4,event_1867,2020-09-19,1,0,0.44666666666666666
+Random Forest - ocean only,4,event_1671,2020-10-12,1,0,0.44333333333333336
+Random Forest - ocean only,4,event_2087,2020-10-12,1,0,0.45666666666666667
+Random Forest - ocean only,4,non_event_1507_1,2020-10-26,0,1,0.5266666666666666
+Random Forest - ocean only,4,event_1966,2020-12-14,1,0,0.4533333333333333
+Random Forest - ocean only,4,event_1702,2020-12-22,1,1,0.6366666666666667
+Random Forest - ocean only,4,event_1751,2020-12-22,1,1,0.6266666666666667
+Random Forest - ocean only,4,event_1371,2021-01-12,1,0,0.37333333333333335
+Random Forest - ocean only,4,event_1342,2021-01-28,1,1,0.6
+Random Forest - ocean only,4,event_1335,2021-02-08,1,1,0.5333333333333333
+Random Forest - ocean only,4,event_1379,2021-02-08,1,0,0.4166666666666667
+Random Forest - ocean only,4,event_1317,2021-02-26,1,0,0.4633333333333333
+Random Forest - ocean only,4,non_event_1003_1,2021-03-07,0,0,0.38333333333333336
+Random Forest - ocean only,4,non_event_1951_1,2021-03-29,0,0,0.32666666666666666
+Random Forest - ocean only,4,non_event_720_1,2021-04-05,0,0,0.42333333333333334
+Random Forest - ocean only,4,event_1301,2021-04-12,1,1,0.72
+Random Forest - ocean only,4,non_event_1922_1,2021-05-13,0,1,0.5766666666666667
+Random Forest - ocean only,4,event_1271,2021-05-30,1,0,0.4
+Random Forest - ocean only,4,non_event_820_1,2021-06-09,0,0,0.3466666666666667
+Random Forest - ocean only,5,non_event_1040_1,2021-07-25,0,1,0.5333333333333333
+Random Forest - ocean only,5,non_event_1052_1,2021-08-07,0,1,0.58
+Random Forest - ocean only,5,event_1168,2021-08-15,1,0,0.37
+Random Forest - ocean only,5,non_event_2438_1,2021-09-07,0,1,0.6833333333333333
+Random Forest - ocean only,5,event_1457,2021-09-15,1,0,0.34
+Random Forest - ocean only,5,non_event_1867_1,2021-09-18,0,0,0.44666666666666666
+Random Forest - ocean only,5,non_event_2440_1,2021-09-19,0,1,0.7366666666666667
+Random Forest - ocean only,5,non_event_1862_1,2021-09-20,0,1,0.66
+Random Forest - ocean only,5,non_event_1671_1,2021-10-01,0,0,0.4166666666666667
+Random Forest - ocean only,5,event_1507,2021-10-08,1,1,0.5866666666666667
+Random Forest - ocean only,5,non_event_1034_1,2021-10-12,0,1,0.6533333333333333
+Random Forest - ocean only,5,non_event_2292_1,2021-11-06,0,1,0.7
+Random Forest - ocean only,5,non_event_1702_1,2021-12-23,0,1,0.8033333333333333
+Random Forest - ocean only,5,non_event_1371_1,2022-01-30,0,1,0.76
+Random Forest - ocean only,5,non_event_1317_1,2022-02-26,0,1,0.5366666666666666
+Random Forest - ocean only,5,non_event_1379_1,2022-02-27,0,1,0.54
+Random Forest - ocean only,5,non_event_1941_1,2022-03-02,0,1,0.52
+Random Forest - ocean only,5,non_event_423_1,2022-03-13,0,1,0.7333333333333333
+Random Forest - ocean only,5,non_event_1988_1,2022-03-22,0,1,0.5633333333333334
+Random Forest - ocean only,5,event_1053,2022-03-22,1,0,0.2733333333333333
+Random Forest - ocean only,5,event_1003,2022-03-28,1,0,0.44666666666666666
+Random Forest - ocean only,5,non_event_1271_1,2022-05-02,0,1,0.5433333333333333
+Random Forest - ocean only,5,event_838,2022-05-20,1,1,0.65
+Random Forest - ocean only,5,non_event_254_1,2022-05-23,0,0,0.36333333333333334
+Random Forest - ocean only,5,event_877,2022-06-09,1,0,0.22
+Random Forest - ocean only,5,event_820,2022-06-28,1,1,0.7466666666666667
+Random Forest - ocean only,5,event_821,2022-06-28,1,0,0.47
+Random Forest - ocean only,5,event_990,2022-07-11,1,0,0.3233333333333333
+Random Forest - ocean only,5,event_1040,2022-07-20,1,1,0.5466666666666666
+Random Forest - ocean only,5,event_817,2022-07-22,1,0,0.4166666666666667
+Random Forest - ocean only,5,event_1052,2022-08-02,1,1,0.69
+Random Forest - ocean only,5,non_event_1524_1,2022-08-07,0,1,0.56
+Random Forest - ocean only,5,non_event_564_1,2022-08-18,0,1,0.56
+Random Forest - ocean only,5,non_event_373_1,2022-09-29,0,0,0.33
+Random Forest - ocean only,5,event_1014,2022-10-07,1,1,0.7333333333333333
+Random Forest - ocean only,5,event_1034,2022-10-07,1,1,0.7733333333333333
+Random Forest - ocean only,5,non_event_1966_1,2022-12-02,0,1,0.6466666666666666
+Random Forest - ocean only,5,non_event_1751_1,2022-12-05,0,1,0.81
+Random Forest - ocean only,5,non_event_1342_1,2023-01-26,0,1,0.7
+Random Forest - ocean only,5,non_event_366_1,2023-02-14,0,1,0.6333333333333333
+Random Forest - ocean only,5,non_event_1335_1,2023-02-18,0,1,0.6
+Random Forest - ocean only,5,event_680,2023-02-24,1,0,0.33
+Random Forest - ocean only,5,non_event_77_1,2023-03-06,0,0,0.37333333333333335
+Random Forest - ocean only,5,event_710,2023-04-10,1,1,0.6066666666666667
+Random Forest - ocean only,5,event_720,2023-04-17,1,1,0.6366666666666667
+Random Forest - ocean only,5,non_event_170_1,2023-05-25,0,1,0.6
+Random Forest - ocean only,5,event_623,2023-06-05,1,1,0.6866666666666666
+Random Forest - ocean only,5,non_event_821_1,2023-06-13,0,1,0.65
+Random Forest - ocean only,5,non_event_355_1,2023-07-24,0,1,0.7766666666666666
+Random Forest - ocean only,5,non_event_1168_1,2023-08-08,0,1,0.5333333333333333
+Random Forest - ocean only,5,event_596,2023-08-13,1,1,0.64
+Random Forest - ocean only,5,event_564,2023-08-23,1,0,0.49
+Random Forest - ocean only,5,event_670,2023-08-23,1,1,0.5233333333333333
+Random Forest - ocean only,5,event_601,2023-09-03,1,0,0.37
+Random Forest - ocean only,5,event_600,2023-09-29,1,1,0.7966666666666666
+Random Forest - ocean only,5,non_event_1014_1,2023-10-07,0,1,0.7366666666666667
+Random Forest - ocean only,5,non_event_107_1,2023-11-07,0,0,0.47333333333333333
+Random Forest - ocean only,5,event_610,2023-11-15,1,0,0.19333333333333333
+Random Forest - ocean only,5,event_575,2023-12-12,1,1,0.5766666666666667
+Random Forest - ocean only,5,event_750,2023-12-18,1,0,0.45
+Random Forest - ocean only,5,non_event_15_1,2024-01-03,0,1,0.6166666666666667
+Random Forest - ocean only,5,non_event_132_1,2024-01-13,0,0,0.26666666666666666
+Random Forest - ocean only,5,non_event_17_1,2024-01-21,0,1,0.5466666666666666
+Random Forest - ocean only,5,non_event_680_1,2024-02-04,0,0,0.4033333333333333
+Random Forest - ocean only,5,event_366,2024-02-13,1,0,0.49
+Random Forest - ocean only,5,event_423,2024-03-15,1,1,0.5733333333333334
+Random Forest - ocean only,5,event_315,2024-03-18,1,0,0.37
+Random Forest - ocean only,5,event_352,2024-04-12,1,1,0.53
+Random Forest - ocean only,5,non_event_3_1,2024-04-28,0,1,0.5533333333333333
+Random Forest - ocean only,5,non_event_838_1,2024-05-02,0,0,0.44666666666666666
+Random Forest - ocean only,5,non_event_36_1,2024-05-14,0,0,0.22333333333333333
+Random Forest - ocean only,5,event_254,2024-05-22,1,0,0.2633333333333333
+Random Forest - ocean only,5,non_event_97_1,2024-06-17,0,0,0.4
+Random Forest - ocean only,5,event_320,2024-06-17,1,1,0.54
+Random Forest - ocean only,5,event_308,2024-07-01,1,0,0.2866666666666667
+Random Forest - ocean only,5,non_event_817_1,2024-07-12,0,1,0.5466666666666666
+Random Forest - ocean only,5,event_355,2024-07-19,1,1,0.77
+Random Forest - ocean only,5,event_491,2024-07-24,1,1,0.64
+Random Forest - ocean only,5,event_268,2024-08-05,1,1,0.6166666666666667
+Random Forest - ocean only,5,event_266,2024-08-11,1,1,0.7933333333333333
+Random Forest - ocean only,5,event_465,2024-08-27,1,1,0.6433333333333333
+Random Forest - ocean only,5,non_event_670_1,2024-08-28,0,1,0.56
+Random Forest - ocean only,5,event_325,2024-09-01,1,0,0.44
+Random Forest - ocean only,5,event_373,2024-09-27,1,0,0.41333333333333333
+Random Forest - ocean only,5,non_event_750_1,2024-12-13,0,0,0.4666666666666667
+Random Forest - ocean only,5,event_132,2025-01-25,1,0,0.31333333333333335
+Random Forest - ocean only,5,non_event_28_1,2025-02-16,0,1,0.6466666666666666
+Random Forest - ocean only,5,event_50,2025-03-01,1,0,0.4266666666666667
+Random Forest - ocean only,5,event_29,2025-03-17,1,1,0.5066666666666667
+Random Forest - ocean only,5,event_77,2025-03-24,1,0,0.26666666666666666
+Random Forest - ocean only,5,event_47,2025-03-31,1,1,0.6533333333333333
+Random Forest - ocean only,5,non_event_352_1,2025-04-15,0,1,0.5366666666666666
+Random Forest - ocean only,5,event_39,2025-04-26,1,0,0.16666666666666666
+Random Forest - ocean only,5,non_event_12_1,2025-04-27,0,1,0.6
+Random Forest - ocean only,5,non_event_710_1,2025-04-29,0,0,0.46
+Random Forest - ocean only,5,non_event_0_1,2025-05-02,0,1,0.5666666666666667
+Random Forest - ocean only,5,event_36,2025-05-02,1,1,0.92
+Random Forest - ocean only,5,event_170,2025-05-06,1,1,0.5166666666666667
+Random Forest - ocean only,5,event_94,2025-06-02,1,1,0.7066666666666667
+Random Forest - ocean only,5,event_97,2025-06-02,1,0,0.31333333333333335
+Random Forest - ocean only,5,non_event_623_1,2025-06-07,0,1,0.7333333333333333
+Random Forest - ocean only,5,event_89,2025-06-09,1,1,0.5133333333333333
+Random Forest - ocean only,5,non_event_308_1,2025-07-24,0,0,0.33
+Random Forest - ocean only,5,non_event_266_1,2025-08-02,0,0,0.3433333333333333
+Random Forest - ocean only,5,non_event_268_1,2025-08-09,0,0,0.12333333333333334
+Random Forest - ocean only,5,event_81,2025-08-18,1,0,0.2833333333333333
+Random Forest - ocean only,5,non_event_596_1,2025-08-22,0,0,0.31666666666666665
+Random Forest - ocean only,5,non_event_601_1,2025-09-18,0,1,0.51
+Random Forest - ocean only,5,non_event_600_1,2025-09-20,0,0,0.4166666666666667
+Random Forest - ocean only,5,non_event_610_1,2025-11-26,0,1,0.7566666666666667
+Random Forest - ocean only,5,event_107,2025-11-28,1,1,0.5133333333333333
+Random Forest - ocean only,5,non_event_575_1,2025-12-18,0,0,0.47333333333333333
+Random Forest - ocean only,5,event_15,2026-01-15,1,1,0.58
+Random Forest - ocean only,5,event_17,2026-01-15,1,0,0.43
+Random Forest - ocean only,5,event_28,2026-02-26,1,1,0.6366666666666667
+Random Forest - ocean only,5,non_event_315_1,2026-03-06,0,1,0.5266666666666666
+Random Forest - ocean only,5,non_event_29_1,2026-03-08,0,0,0.4033333333333333
+Random Forest - ocean only,5,non_event_50_1,2026-03-17,0,1,0.5366666666666666
+Random Forest - ocean only,5,non_event_47_1,2026-03-20,0,0,0.38
+Random Forest - ocean only,5,event_3,2026-04-20,1,0,0.43
+Random Forest - ocean only,5,event_12,2026-04-27,1,1,0.5566666666666666
+Random Forest - ocean only,5,non_event_39_1,2026-04-30,0,0,0.3
+Random Forest - ocean only,5,event_0,2026-05-04,1,1,0.6533333333333333
+Random Forest - ocean only,5,non_event_320_1,2026-06-13,0,0,0.4533333333333333
+Random Forest - ocean only,5,non_event_89_1,2026-06-27,0,0,0.47333333333333333
+Random Forest - ocean only,5,non_event_94_1,2026-06-27,0,0,0.47333333333333333
+Random Forest - ocean only,5,non_event_491_1,2026-07-01,0,1,0.69
+Random Forest - ocean only,5,non_event_81_1,2026-08-02,0,0,0.29
+Random Forest - ocean only,5,non_event_465_1,2026-08-21,0,1,0.5766666666666667
+Random Forest - ocean only,5,non_event_325_1,2026-09-07,0,0,0.3
+Random Forest - ocean plus season,1,non_event_12833_1,1997-09-09,0,1,0.8233333333333334
+Random Forest - ocean plus season,1,non_event_12217_1,1997-09-22,0,1,0.59
+Random Forest - ocean plus season,1,non_event_12642_1,1997-09-26,0,0,0.49333333333333335
+Random Forest - ocean plus season,1,event_12353,1997-09-28,1,1,0.6066666666666667
+Random Forest - ocean plus season,1,non_event_12610_1,1997-09-29,0,1,0.5666666666666667
+Random Forest - ocean plus season,1,event_12359,1997-10-08,1,1,0.66
+Random Forest - ocean plus season,1,non_event_12615_1,1997-10-27,0,1,0.5966666666666667
+Random Forest - ocean plus season,1,non_event_12363_1,1998-01-01,0,0,0.4066666666666667
+Random Forest - ocean plus season,1,event_12202,1998-01-08,1,0,0.31333333333333335
+Random Forest - ocean plus season,1,non_event_11419_1,1998-01-16,0,1,0.5733333333333334
+Random Forest - ocean plus season,1,non_event_11302_1,1998-01-17,0,1,0.57
+Random Forest - ocean plus season,1,non_event_12483_1,1998-02-12,0,1,0.8166666666666667
+Random Forest - ocean plus season,1,non_event_12024_1,1998-02-17,0,0,0.31666666666666665
+Random Forest - ocean plus season,1,non_event_12559_1,1998-03-15,0,0,0.43
+Random Forest - ocean plus season,1,event_12281,1998-04-30,1,0,0.4066666666666667
+Random Forest - ocean plus season,1,non_event_11870_1,1998-05-28,0,1,0.6166666666666667
+Random Forest - ocean plus season,1,non_event_12665_1,1998-05-29,0,1,0.5766666666666667
+Random Forest - ocean plus season,1,event_12226,1998-06-22,1,0,0.38333333333333336
+Random Forest - ocean plus season,1,event_12120,1998-06-23,1,1,0.55
+Random Forest - ocean plus season,1,non_event_12102_1,1998-07-03,0,1,0.5633333333333334
+Random Forest - ocean plus season,1,non_event_12413_1,1998-07-05,0,1,0.5633333333333334
+Random Forest - ocean plus season,1,event_12253,1998-07-15,1,0,0.3433333333333333
+Random Forest - ocean plus season,1,event_12262,1998-07-16,1,0,0.36333333333333334
+Random Forest - ocean plus season,1,non_event_11499_1,1998-07-26,0,1,0.66
+Random Forest - ocean plus season,1,event_12302,1998-07-28,1,0,0.4666666666666667
+Random Forest - ocean plus season,1,event_12264,1998-08-01,1,1,0.6333333333333333
+Random Forest - ocean plus season,1,event_12688,1998-08-01,1,0,0.48
+Random Forest - ocean plus season,1,event_12260,1998-08-10,1,1,0.5466666666666666
+Random Forest - ocean plus season,1,event_12176,1998-08-23,1,0,0.48333333333333334
+Random Forest - ocean plus season,1,non_event_11634_1,1998-08-25,0,1,0.5833333333333334
+Random Forest - ocean plus season,1,event_12297,1998-08-30,1,1,0.56
+Random Forest - ocean plus season,1,non_event_12496_1,1998-09-11,0,1,0.5833333333333334
+Random Forest - ocean plus season,1,event_13026,1998-09-13,1,1,0.6933333333333334
+Random Forest - ocean plus season,1,event_12217,1998-09-22,1,1,0.5833333333333334
+Random Forest - ocean plus season,1,non_event_11973_1,1998-10-07,0,0,0.4633333333333333
+Random Forest - ocean plus season,1,non_event_11327_1,1998-10-20,0,1,0.7333333333333333
+Random Forest - ocean plus season,1,non_event_11766_1,1998-12-01,0,1,0.6866666666666666
+Random Forest - ocean plus season,1,event_12191,1998-12-11,1,1,0.7066666666666667
+Random Forest - ocean plus season,1,non_event_11121_1,1999-01-01,0,1,0.65
+Random Forest - ocean plus season,1,non_event_12433_1,1999-01-02,0,0,0.4533333333333333
+Random Forest - ocean plus season,1,non_event_11218_1,1999-01-14,0,1,0.54
+Random Forest - ocean plus season,1,non_event_10935_1,1999-01-22,0,0,0.3933333333333333
+Random Forest - ocean plus season,1,event_12023,1999-02-08,1,0,0.4866666666666667
+Random Forest - ocean plus season,1,event_12024,1999-02-08,1,0,0.3566666666666667
+Random Forest - ocean plus season,1,event_12026,1999-02-08,1,0,0.45666666666666667
+Random Forest - ocean plus season,1,event_12000,1999-02-22,1,0,0.33
+Random Forest - ocean plus season,1,event_12060,1999-04-01,1,1,0.7833333333333333
+Random Forest - ocean plus season,1,non_event_10862_1,1999-05-21,0,1,0.5233333333333333
+Random Forest - ocean plus season,1,non_event_11868_1,1999-05-24,0,1,0.52
+Random Forest - ocean plus season,1,event_11911,1999-06-09,1,0,0.4866666666666667
+Random Forest - ocean plus season,1,event_12081,1999-06-21,1,0,0.33666666666666667
+Random Forest - ocean plus season,1,event_12087,1999-06-22,1,0,0.25333333333333335
+Random Forest - ocean plus season,1,event_12100,1999-06-30,1,1,0.57
+Random Forest - ocean plus season,1,non_event_12345_1,1999-07-01,0,1,0.6966666666666667
+Random Forest - ocean plus season,1,non_event_12253_1,1999-07-08,0,0,0.35333333333333333
+Random Forest - ocean plus season,1,event_11921,1999-07-14,1,0,0.4866666666666667
+Random Forest - ocean plus season,1,event_12102,1999-07-16,1,1,0.5533333333333333
+Random Forest - ocean plus season,1,non_event_12461_1,1999-08-11,0,1,0.56
+Random Forest - ocean plus season,1,non_event_12353_1,1999-09-04,0,1,0.6566666666666666
+Random Forest - ocean plus season,1,event_11920,1999-09-15,1,1,0.62
+Random Forest - ocean plus season,1,event_12096,1999-10-05,1,0,0.48333333333333334
+Random Forest - ocean plus season,1,event_11973,1999-10-12,1,1,0.57
+Random Forest - ocean plus season,1,non_event_11449_1,1999-10-14,0,1,0.51
+Random Forest - ocean plus season,1,non_event_12359_1,1999-10-22,0,1,0.62
+Random Forest - ocean plus season,1,event_11918,1999-11-02,1,1,0.6833333333333333
+Random Forest - ocean plus season,1,non_event_11141_1,1999-12-01,0,1,0.51
+Random Forest - ocean plus season,1,event_11218,2000-01-01,1,0,0.47333333333333333
+Random Forest - ocean plus season,1,event_11583,2000-01-03,1,1,0.7033333333333334
+Random Forest - ocean plus season,1,event_11302,2000-01-09,1,1,0.7533333333333333
+Random Forest - ocean plus season,1,non_event_12202_1,2000-01-10,0,1,0.54
+Random Forest - ocean plus season,1,event_11419,2000-01-21,1,1,0.7266666666666667
+Random Forest - ocean plus season,1,non_event_12281_1,2000-04-24,0,1,0.55
+Random Forest - ocean plus season,1,non_event_12060_1,2000-04-29,0,1,0.6333333333333333
+Random Forest - ocean plus season,1,event_11868,2000-05-07,1,1,0.62
+Random Forest - ocean plus season,1,event_11870,2000-05-23,1,1,0.54
+Random Forest - ocean plus season,1,non_event_10844_1,2000-06-12,0,1,0.5766666666666667
+Random Forest - ocean plus season,1,non_event_12100_1,2000-06-13,0,0,0.4066666666666667
+Random Forest - ocean plus season,1,non_event_10802_1,2000-07-07,0,0,0.29333333333333333
+Random Forest - ocean plus season,1,non_event_10530_1,2000-07-19,0,0,0.4866666666666667
+Random Forest - ocean plus season,1,event_11499,2000-07-20,1,1,0.65
+Random Forest - ocean plus season,1,non_event_12176_1,2000-08-01,0,1,0.58
+Random Forest - ocean plus season,1,event_11634,2000-08-02,1,1,0.6366666666666667
+Random Forest - ocean plus season,1,non_event_12297_1,2000-08-07,0,1,0.6366666666666667
+Random Forest - ocean plus season,1,event_11368,2000-08-22,1,1,0.6833333333333333
+Random Forest - ocean plus season,1,non_event_12688_1,2000-08-28,0,0,0.44333333333333336
+Random Forest - ocean plus season,1,non_event_12260_1,2000-08-29,0,0,0.43
+Random Forest - ocean plus season,1,non_event_12264_1,2000-08-31,0,1,0.7
+Random Forest - ocean plus season,1,event_11373,2000-09-16,1,1,0.7533333333333333
+Random Forest - ocean plus season,1,event_11563,2000-09-23,1,1,0.6966666666666667
+Random Forest - ocean plus season,1,non_event_11920_1,2000-09-26,0,1,0.5733333333333334
+Random Forest - ocean plus season,1,non_event_13026_1,2000-09-28,0,1,0.6866666666666666
+Random Forest - ocean plus season,1,non_event_12096_1,2000-10-05,0,1,0.66
+Random Forest - ocean plus season,1,event_11449,2000-10-21,1,1,0.8066666666666666
+Random Forest - ocean plus season,1,event_11327,2000-10-26,1,1,0.67
+Random Forest - ocean plus season,1,non_event_11918_1,2000-11-05,0,1,0.7166666666666667
+Random Forest - ocean plus season,1,event_11432,2000-12-04,1,1,0.7033333333333334
+Random Forest - ocean plus season,1,non_event_12191_1,2000-12-05,0,1,0.5566666666666666
+Random Forest - ocean plus season,1,non_event_10813_1,2000-12-15,0,1,0.6133333333333333
+Random Forest - ocean plus season,1,event_11766,2000-12-15,1,1,0.62
+Random Forest - ocean plus season,1,event_10935,2001-01-01,1,1,0.5933333333333334
+Random Forest - ocean plus season,1,event_11121,2001-01-29,1,1,0.5166666666666667
+Random Forest - ocean plus season,1,non_event_12026_1,2001-02-13,0,0,0.45
+Random Forest - ocean plus season,1,non_event_12000_1,2001-02-24,0,0,0.2966666666666667
+Random Forest - ocean plus season,1,event_10999,2001-03-01,1,0,0.4633333333333333
+Random Forest - ocean plus season,1,non_event_10763_1,2001-04-06,0,0,0.4266666666666667
+Random Forest - ocean plus season,1,event_11021,2001-04-06,1,1,0.5633333333333334
+Random Forest - ocean plus season,1,non_event_10390_1,2001-05-09,0,1,0.61
+Random Forest - ocean plus season,1,event_10862,2001-05-15,1,1,0.5766666666666667
+Random Forest - ocean plus season,1,event_11177,2001-05-25,1,1,0.5766666666666667
+Random Forest - ocean plus season,1,non_event_12087_1,2001-06-03,0,0,0.37333333333333335
+Random Forest - ocean plus season,1,event_11145,2001-06-05,1,0,0.39
+Random Forest - ocean plus season,1,event_10844,2001-06-09,1,0,0.4533333333333333
+Random Forest - ocean plus season,1,event_10866,2001-06-20,1,0,0.31
+Random Forest - ocean plus season,1,non_event_11911_1,2001-06-22,0,0,0.4533333333333333
+Random Forest - ocean plus season,1,non_event_11921_1,2001-07-03,0,0,0.42
+Random Forest - ocean plus season,1,non_event_10393_1,2001-07-17,0,0,0.35
+Random Forest - ocean plus season,1,non_event_10236_1,2001-07-27,0,0,0.48
+Random Forest - ocean plus season,1,event_11053,2001-07-28,1,0,0.4766666666666667
+Random Forest - ocean plus season,1,event_10948,2001-08-08,1,0,0.36333333333333334
+Random Forest - ocean plus season,1,event_10859,2001-08-27,1,1,0.76
+Random Forest - ocean plus season,1,non_event_11373_1,2001-09-09,0,1,0.8566666666666667
+Random Forest - ocean plus season,1,non_event_10295_1,2001-10-01,0,1,0.6633333333333333
+Random Forest - ocean plus season,1,event_11014,2001-11-19,1,1,0.6233333333333333
+Random Forest - ocean plus season,1,event_10813,2001-12-15,1,1,0.5033333333333333
+Random Forest - ocean plus season,1,event_11141,2001-12-21,1,1,0.54
+Random Forest - ocean plus season,1,non_event_11432_1,2001-12-30,0,1,0.6533333333333333
+Random Forest - ocean plus season,2,non_event_9866_1,2002-01-05,0,0,0.43
+Random Forest - ocean plus season,2,non_event_11583_1,2002-01-18,0,1,0.7866666666666666
+Random Forest - ocean plus season,2,non_event_9888_1,2002-01-19,0,1,0.8033333333333333
+Random Forest - ocean plus season,2,non_event_10414_1,2002-01-24,0,1,0.6
+Random Forest - ocean plus season,2,event_10701,2002-03-11,1,0,0.4266666666666667
+Random Forest - ocean plus season,2,non_event_10307_1,2002-03-17,0,0,0.43666666666666665
+Random Forest - ocean plus season,2,event_10763,2002-04-22,1,0,0.33666666666666667
+Random Forest - ocean plus season,2,event_10706,2002-06-24,1,0,0.35333333333333333
+Random Forest - ocean plus season,2,event_10716,2002-07-01,1,1,0.6033333333333334
+Random Forest - ocean plus season,2,event_10530,2002-07-02,1,1,0.6933333333333334
+Random Forest - ocean plus season,2,non_event_10244_1,2002-07-19,0,1,0.5133333333333333
+Random Forest - ocean plus season,2,non_event_10221_1,2002-07-22,0,0,0.3
+Random Forest - ocean plus season,2,event_10710,2002-07-22,1,0,0.38666666666666666
+Random Forest - ocean plus season,2,event_10684,2002-07-28,1,1,0.7333333333333333
+Random Forest - ocean plus season,2,event_10802,2002-07-29,1,0,0.31666666666666665
+Random Forest - ocean plus season,2,non_event_10431_1,2002-08-05,0,0,0.4533333333333333
+Random Forest - ocean plus season,2,event_10725,2002-08-17,1,1,0.5433333333333333
+Random Forest - ocean plus season,2,non_event_11368_1,2002-08-23,0,0,0.4533333333333333
+Random Forest - ocean plus season,2,non_event_10859_1,2002-08-30,0,1,0.82
+Random Forest - ocean plus season,2,non_event_11563_1,2002-09-03,0,1,0.6266666666666667
+Random Forest - ocean plus season,2,event_10688,2002-09-05,1,1,0.6733333333333333
+Random Forest - ocean plus season,2,event_10734,2002-09-07,1,1,0.6066666666666667
+Random Forest - ocean plus season,2,event_10761,2002-09-15,1,0,0.4633333333333333
+Random Forest - ocean plus season,2,non_event_10059_1,2002-10-19,0,0,0.46
+Random Forest - ocean plus season,2,event_10404,2003-01-01,1,1,0.65
+Random Forest - ocean plus season,2,event_10470,2003-01-02,1,1,0.6166666666666667
+Random Forest - ocean plus season,2,event_10414,2003-01-10,1,0,0.31
+Random Forest - ocean plus season,2,non_event_9915_1,2003-01-25,0,1,0.6466666666666666
+Random Forest - ocean plus season,2,non_event_9949_1,2003-01-29,0,1,0.6033333333333334
+Random Forest - ocean plus season,2,non_event_9864_1,2003-02-02,0,1,0.6033333333333334
+Random Forest - ocean plus season,2,non_event_9836_1,2003-02-05,0,1,0.6233333333333333
+Random Forest - ocean plus season,2,event_10307,2003-03-01,1,1,0.6233333333333333
+Random Forest - ocean plus season,2,event_10358,2003-03-06,1,1,0.6
+Random Forest - ocean plus season,2,non_event_10138_1,2003-03-17,0,0,0.43333333333333335
+Random Forest - ocean plus season,2,non_event_10999_1,2003-03-30,0,1,0.7366666666666667
+Random Forest - ocean plus season,2,non_event_11021_1,2003-04-09,0,1,0.7966666666666666
+Random Forest - ocean plus season,2,non_event_9525_1,2003-04-17,0,0,0.41
+Random Forest - ocean plus season,2,non_event_9375_1,2003-04-21,0,0,0.4
+Random Forest - ocean plus season,2,non_event_9583_1,2003-04-26,0,0,0.3933333333333333
+Random Forest - ocean plus season,2,non_event_9384_1,2003-05-25,0,1,0.5333333333333333
+Random Forest - ocean plus season,2,event_10390,2003-05-26,1,0,0.4166666666666667
+Random Forest - ocean plus season,2,non_event_11177_1,2003-05-29,0,1,0.6133333333333333
+Random Forest - ocean plus season,2,non_event_10706_1,2003-06-06,0,0,0.26666666666666666
+Random Forest - ocean plus season,2,non_event_11145_1,2003-06-09,0,1,0.5433333333333333
+Random Forest - ocean plus season,2,non_event_10866_1,2003-06-15,0,1,0.71
+Random Forest - ocean plus season,2,event_10236,2003-07-05,1,0,0.31333333333333335
+Random Forest - ocean plus season,2,event_10221,2003-07-12,1,0,0.46
+Random Forest - ocean plus season,2,non_event_10710_1,2003-07-13,0,1,0.55
+Random Forest - ocean plus season,2,event_10244,2003-07-14,1,0,0.23666666666666666
+Random Forest - ocean plus season,2,event_10393,2003-07-14,1,0,0.41333333333333333
+Random Forest - ocean plus season,2,non_event_11053_1,2003-07-18,0,1,0.56
+Random Forest - ocean plus season,2,non_event_10684_1,2003-07-29,0,1,0.59
+Random Forest - ocean plus season,2,event_10431,2003-08-22,1,0,0.4866666666666667
+Random Forest - ocean plus season,2,non_event_10948_1,2003-08-27,0,1,0.63
+Random Forest - ocean plus season,2,non_event_9388_1,2003-09-11,0,0,0.42
+Random Forest - ocean plus season,2,non_event_9378_1,2003-09-16,0,0,0.38333333333333336
+Random Forest - ocean plus season,2,non_event_10734_1,2003-09-24,0,1,0.6933333333333334
+Random Forest - ocean plus season,2,non_event_10688_1,2003-09-30,0,0,0.43666666666666665
+Random Forest - ocean plus season,2,non_event_10761_1,2003-09-30,0,0,0.4533333333333333
+Random Forest - ocean plus season,2,event_10295,2003-10-17,1,0,0.38
+Random Forest - ocean plus season,2,non_event_11014_1,2003-11-05,0,1,0.6433333333333333
+Random Forest - ocean plus season,2,event_10124,2004-01-01,1,1,0.6433333333333333
+Random Forest - ocean plus season,2,event_9915,2004-01-07,1,1,0.5033333333333333
+Random Forest - ocean plus season,2,event_9866,2004-01-12,1,1,0.67
+Random Forest - ocean plus season,2,non_event_10470_1,2004-01-16,0,1,0.6333333333333333
+Random Forest - ocean plus season,2,event_9949,2004-01-20,1,1,0.7033333333333334
+Random Forest - ocean plus season,2,non_event_10404_1,2004-01-28,0,1,0.5933333333333334
+Random Forest - ocean plus season,2,event_9888,2004-01-28,1,0,0.41333333333333333
+Random Forest - ocean plus season,2,event_9929,2004-02-08,1,1,0.6866666666666666
+Random Forest - ocean plus season,2,event_9836,2004-02-20,1,1,0.6166666666666667
+Random Forest - ocean plus season,2,event_9864,2004-02-21,1,1,0.6033333333333334
+Random Forest - ocean plus season,2,event_10138,2004-03-15,1,0,0.38
+Random Forest - ocean plus season,2,non_event_10358_1,2004-03-17,0,1,0.6
+Random Forest - ocean plus season,2,non_event_10701_1,2004-03-17,0,0,0.37333333333333335
+Random Forest - ocean plus season,2,non_event_9137_1,2004-03-24,0,0,0.4766666666666667
+Random Forest - ocean plus season,2,event_10080,2004-05-06,1,1,0.6466666666666666
+Random Forest - ocean plus season,2,event_10062,2004-05-31,1,1,0.5766666666666667
+Random Forest - ocean plus season,2,non_event_9707_1,2004-06-30,0,1,0.52
+Random Forest - ocean plus season,2,non_event_10716_1,2004-07-27,0,1,0.59
+Random Forest - ocean plus season,2,event_10042,2004-08-10,1,1,0.6366666666666667
+Random Forest - ocean plus season,2,non_event_10725_1,2004-08-22,0,1,0.52
+Random Forest - ocean plus season,2,non_event_8911_1,2004-10-01,0,1,0.5333333333333333
+Random Forest - ocean plus season,2,non_event_8913_1,2004-10-07,0,1,0.5333333333333333
+Random Forest - ocean plus season,2,event_10059,2004-10-15,1,0,0.42
+Random Forest - ocean plus season,2,non_event_9471_1,2004-10-17,0,0,0.38
+Random Forest - ocean plus season,2,non_event_8925_1,2004-11-27,0,0,0.25666666666666665
+Random Forest - ocean plus season,2,event_9667,2005-01-01,1,0,0.25
+Random Forest - ocean plus season,2,non_event_9161_1,2005-01-06,0,0,0.44333333333333336
+Random Forest - ocean plus season,2,event_9537,2005-03-14,1,0,0.41
+Random Forest - ocean plus season,2,event_9375,2005-04-25,1,0,0.42
+Random Forest - ocean plus season,2,event_9583,2005-04-25,1,0,0.36
+Random Forest - ocean plus season,2,event_9525,2005-04-28,1,0,0.29333333333333333
+Random Forest - ocean plus season,2,non_event_10080_1,2005-05-12,0,0,0.4866666666666667
+Random Forest - ocean plus season,2,event_9548,2005-05-13,1,0,0.3233333333333333
+Random Forest - ocean plus season,2,event_9384,2005-05-29,1,1,0.6233333333333333
+Random Forest - ocean plus season,2,non_event_8525_1,2005-06-06,0,1,0.5166666666666667
+Random Forest - ocean plus season,2,event_9707,2005-06-08,1,0,0.28
+Random Forest - ocean plus season,2,event_9580,2005-07-25,1,0,0.18
+Random Forest - ocean plus season,2,non_event_8524_1,2005-07-27,0,1,0.51
+Random Forest - ocean plus season,2,event_9554,2005-07-29,1,0,0.49333333333333335
+Random Forest - ocean plus season,2,event_9312,2005-08-28,1,0,0.44666666666666666
+Random Forest - ocean plus season,2,non_event_8530_1,2005-09-11,0,0,0.4166666666666667
+Random Forest - ocean plus season,2,event_9388,2005-09-27,1,0,0.49666666666666665
+Random Forest - ocean plus season,2,event_9378,2005-09-29,1,0,0.47
+Random Forest - ocean plus season,2,non_event_8563_1,2005-10-06,0,1,0.69
+Random Forest - ocean plus season,2,event_9471,2005-10-15,1,0,0.22666666666666666
+Random Forest - ocean plus season,2,non_event_8562_1,2005-10-17,0,1,0.6733333333333333
+Random Forest - ocean plus season,2,non_event_8491_1,2005-10-20,0,1,0.6
+Random Forest - ocean plus season,2,event_9652,2005-11-01,1,1,0.6133333333333333
+Random Forest - ocean plus season,2,event_9161,2006-01-12,1,0,0.20666666666666667
+Random Forest - ocean plus season,2,non_event_8455_1,2006-01-25,0,0,0.4033333333333333
+Random Forest - ocean plus season,2,non_event_10124_1,2006-01-28,0,1,0.51
+Random Forest - ocean plus season,2,non_event_9929_1,2006-02-18,0,0,0.4033333333333333
+Random Forest - ocean plus season,2,event_9137,2006-03-08,1,1,0.53
+Random Forest - ocean plus season,2,event_9113,2006-03-16,1,0,0.37
+Random Forest - ocean plus season,2,non_event_7951_1,2006-03-19,0,0,0.41
+Random Forest - ocean plus season,2,event_9225,2006-04-06,1,1,0.5333333333333333
+Random Forest - ocean plus season,2,event_9125,2006-04-21,1,0,0.33
+Random Forest - ocean plus season,2,non_event_10062_1,2006-05-06,0,0,0.32
+Random Forest - ocean plus season,2,non_event_8605_1,2006-07-01,0,1,0.5566666666666666
+Random Forest - ocean plus season,2,non_event_9554_1,2006-07-02,0,1,0.5966666666666667
+Random Forest - ocean plus season,2,event_9174,2006-07-13,1,1,0.7033333333333334
+Random Forest - ocean plus season,2,non_event_9580_1,2006-07-27,0,0,0.3466666666666667
+Random Forest - ocean plus season,2,non_event_9312_1,2006-08-06,0,1,0.5766666666666667
+Random Forest - ocean plus season,2,non_event_8109_1,2006-08-07,0,0,0.49
+Random Forest - ocean plus season,2,non_event_10042_1,2006-08-26,0,1,0.6366666666666667
+Random Forest - ocean plus season,2,event_8911,2006-10-18,1,0,0.25333333333333335
+Random Forest - ocean plus season,3,event_8913,2006-10-27,1,0,0.47333333333333333
+Random Forest - ocean plus season,3,event_8925,2006-11-01,1,0,0.27666666666666667
+Random Forest - ocean plus season,3,non_event_9652_1,2006-11-02,0,1,0.6166666666666667
+Random Forest - ocean plus season,3,event_8455,2007-01-14,1,0,0.37666666666666665
+Random Forest - ocean plus season,3,non_event_9667_1,2007-01-27,0,1,0.73
+Random Forest - ocean plus season,3,non_event_8000_1,2007-02-02,0,1,0.6766666666666666
+Random Forest - ocean plus season,3,non_event_7059_1,2007-02-12,0,1,0.5266666666666666
+Random Forest - ocean plus season,3,non_event_9537_1,2007-03-14,0,1,0.7
+Random Forest - ocean plus season,3,non_event_9113_1,2007-03-18,0,1,0.73
+Random Forest - ocean plus season,3,non_event_9125_1,2007-04-14,0,1,0.7033333333333334
+Random Forest - ocean plus season,3,non_event_8003_1,2007-05-27,0,0,0.29
+Random Forest - ocean plus season,3,non_event_9548_1,2007-05-28,0,1,0.55
+Random Forest - ocean plus season,3,event_8525,2007-06-04,1,1,0.5566666666666666
+Random Forest - ocean plus season,3,event_8524,2007-07-17,1,0,0.20666666666666667
+Random Forest - ocean plus season,3,non_event_9174_1,2007-07-27,0,0,0.2633333333333333
+Random Forest - ocean plus season,3,event_8605,2007-07-31,1,1,0.52
+Random Forest - ocean plus season,3,event_8530,2007-09-04,1,0,0.23666666666666666
+Random Forest - ocean plus season,3,event_8491,2007-10-13,1,0,0.47333333333333333
+Random Forest - ocean plus season,3,event_8562,2007-10-14,1,0,0.49333333333333335
+Random Forest - ocean plus season,3,event_8563,2007-10-23,1,0,0.26666666666666666
+Random Forest - ocean plus season,3,event_8000,2008-02-03,1,1,0.77
+Random Forest - ocean plus season,3,event_8194,2008-03-01,1,1,0.5466666666666666
+Random Forest - ocean plus season,3,event_7951,2008-03-13,1,1,0.77
+Random Forest - ocean plus season,3,non_event_9225_1,2008-04-05,0,1,0.7366666666666667
+Random Forest - ocean plus season,3,non_event_7524_1,2008-05-03,0,0,0.3933333333333333
+Random Forest - ocean plus season,3,non_event_7119_1,2008-05-22,0,0,0.4266666666666667
+Random Forest - ocean plus season,3,event_8003,2008-05-26,1,0,0.22
+Random Forest - ocean plus season,3,event_8097,2008-06-22,1,0,0.36
+Random Forest - ocean plus season,3,non_event_7471_1,2008-06-29,0,1,0.5366666666666666
+Random Forest - ocean plus season,3,event_8109,2008-08-07,1,0,0.26
+Random Forest - ocean plus season,3,event_7901,2008-09-03,1,0,0.3
+Random Forest - ocean plus season,3,non_event_6835_1,2008-09-23,0,1,0.5966666666666667
+Random Forest - ocean plus season,3,event_7059,2009-02-10,1,0,0.48
+Random Forest - ocean plus season,3,non_event_8194_1,2009-03-21,0,1,0.5633333333333334
+Random Forest - ocean plus season,3,event_7543,2009-03-23,1,0,0.38666666666666666
+Random Forest - ocean plus season,3,non_event_6351_1,2009-04-19,0,0,0.4666666666666667
+Random Forest - ocean plus season,3,event_7524,2009-05-01,1,0,0.4166666666666667
+Random Forest - ocean plus season,3,event_7119,2009-05-04,1,0,0.38333333333333336
+Random Forest - ocean plus season,3,event_7556,2009-05-11,1,0,0.32666666666666666
+Random Forest - ocean plus season,3,event_7281,2009-05-26,1,0,0.3233333333333333
+Random Forest - ocean plus season,3,event_7491,2009-06-08,1,0,0.39
+Random Forest - ocean plus season,3,non_event_8097_1,2009-06-11,0,0,0.2866666666666667
+Random Forest - ocean plus season,3,event_7471,2009-06-15,1,1,0.5533333333333333
+Random Forest - ocean plus season,3,non_event_6506_1,2009-07-31,0,0,0.3433333333333333
+Random Forest - ocean plus season,3,non_event_5675_1,2010-02-10,0,0,0.15
+Random Forest - ocean plus season,3,non_event_7281_1,2010-05-05,0,0,0.2833333333333333
+Random Forest - ocean plus season,3,non_event_5782_1,2010-05-18,0,0,0.17333333333333334
+Random Forest - ocean plus season,3,event_6537,2010-06-01,1,1,0.5166666666666667
+Random Forest - ocean plus season,3,event_6506,2010-07-12,1,0,0.33
+Random Forest - ocean plus season,3,event_6824,2010-08-02,1,1,0.5266666666666666
+Random Forest - ocean plus season,3,event_6522,2010-08-04,1,1,0.66
+Random Forest - ocean plus season,3,non_event_5969_1,2010-08-31,0,0,0.5
+Random Forest - ocean plus season,3,event_6835,2010-09-10,1,1,0.5066666666666667
+Random Forest - ocean plus season,3,non_event_7901_1,2010-09-24,0,0,0.19666666666666666
+Random Forest - ocean plus season,3,non_event_7543_1,2011-03-28,0,0,0.39
+Random Forest - ocean plus season,3,event_6351,2011-04-04,1,1,0.6233333333333333
+Random Forest - ocean plus season,3,non_event_5308_1,2011-04-14,0,1,0.6433333333333333
+Random Forest - ocean plus season,3,non_event_7556_1,2011-05-30,0,0,0.42
+Random Forest - ocean plus season,3,non_event_7491_1,2011-06-10,0,0,0.37333333333333335
+Random Forest - ocean plus season,3,non_event_5268_1,2011-06-30,0,1,0.5766666666666667
+Random Forest - ocean plus season,3,event_6318,2011-07-22,1,0,0.19666666666666666
+Random Forest - ocean plus season,3,non_event_6824_1,2011-08-05,0,0,0.4066666666666667
+Random Forest - ocean plus season,3,non_event_5281_1,2011-08-07,0,0,0.2866666666666667
+Random Forest - ocean plus season,3,event_6432,2011-08-30,1,1,0.5366666666666666
+Random Forest - ocean plus season,3,non_event_5396_1,2011-10-19,0,0,0.49
+Random Forest - ocean plus season,3,event_6003,2011-10-21,1,1,0.6333333333333333
+Random Forest - ocean plus season,3,non_event_5711_1,2011-11-27,0,0,0.44
+Random Forest - ocean plus season,3,non_event_4896_1,2012-01-12,0,0,0.41
+Random Forest - ocean plus season,3,event_5675,2012-02-18,1,0,0.31333333333333335
+Random Forest - ocean plus season,3,non_event_4852_1,2012-04-09,0,0,0.38333333333333336
+Random Forest - ocean plus season,3,event_5782,2012-05-15,1,0,0.14
+Random Forest - ocean plus season,3,non_event_4658_1,2012-06-15,0,0,0.4266666666666667
+Random Forest - ocean plus season,3,non_event_6537_1,2012-06-21,0,1,0.65
+Random Forest - ocean plus season,3,event_5803,2012-07-17,1,0,0.4666666666666667
+Random Forest - ocean plus season,3,non_event_4846_1,2012-07-27,0,0,0.43333333333333335
+Random Forest - ocean plus season,3,event_5969,2012-08-01,1,0,0.4766666666666667
+Random Forest - ocean plus season,3,non_event_6432_1,2012-08-05,0,0,0.4166666666666667
+Random Forest - ocean plus season,3,non_event_4661_1,2012-08-12,0,1,0.6133333333333333
+Random Forest - ocean plus season,3,non_event_6522_1,2012-08-13,0,1,0.5966666666666667
+Random Forest - ocean plus season,3,event_5784,2012-10-03,1,0,0.2866666666666667
+Random Forest - ocean plus season,3,event_5711,2012-11-25,1,0,0.48333333333333334
+Random Forest - ocean plus season,3,event_5792,2012-12-07,1,0,0.47333333333333333
+Random Forest - ocean plus season,3,non_event_4223_1,2013-01-14,0,1,0.6366666666666667
+Random Forest - ocean plus season,3,event_5308,2013-04-09,1,1,0.59
+Random Forest - ocean plus season,3,non_event_4864_1,2013-04-20,0,0,0.4866666666666667
+Random Forest - ocean plus season,3,non_event_4710_1,2013-06-15,0,0,0.27666666666666667
+Random Forest - ocean plus season,3,event_5335,2013-06-15,1,1,0.5333333333333333
+Random Forest - ocean plus season,3,event_5268,2013-06-24,1,1,0.6533333333333333
+Random Forest - ocean plus season,3,event_5277,2013-07-01,1,0,0.33666666666666667
+Random Forest - ocean plus season,3,non_event_4876_1,2013-07-07,0,0,0.47333333333333333
+Random Forest - ocean plus season,3,non_event_6318_1,2013-07-17,0,0,0.44666666666666666
+Random Forest - ocean plus season,3,event_5281,2013-08-05,1,1,0.61
+Random Forest - ocean plus season,3,non_event_6003_1,2013-10-06,0,1,0.68
+Random Forest - ocean plus season,3,non_event_5784_1,2013-10-17,0,0,0.34
+Random Forest - ocean plus season,3,event_5396,2013-10-21,1,0,0.4633333333333333
+Random Forest - ocean plus season,3,non_event_4631_1,2013-12-02,0,0,0.37333333333333335
+Random Forest - ocean plus season,3,event_4896,2014-01-17,1,0,0.49
+Random Forest - ocean plus season,3,event_4852,2014-04-01,1,0,0.4866666666666667
+Random Forest - ocean plus season,3,event_4446,2014-04-11,1,1,0.5233333333333333
+Random Forest - ocean plus season,3,event_4864,2014-04-22,1,0,0.5
+Random Forest - ocean plus season,3,event_4658,2014-06-10,1,0,0.44333333333333336
+Random Forest - ocean plus season,3,event_4710,2014-06-23,1,0,0.24
+Random Forest - ocean plus season,3,non_event_5803_1,2014-07-17,0,0,0.4266666666666667
+Random Forest - ocean plus season,3,event_4846,2014-07-22,1,1,0.7933333333333333
+Random Forest - ocean plus season,3,event_4876,2014-07-23,1,1,0.5266666666666666
+Random Forest - ocean plus season,3,non_event_3846_1,2014-08-06,0,0,0.4633333333333333
+Random Forest - ocean plus season,3,event_4661,2014-08-26,1,1,0.5333333333333333
+Random Forest - ocean plus season,3,non_event_3562_1,2014-10-25,0,1,0.5166666666666667
+Random Forest - ocean plus season,3,event_4631,2014-12-15,1,0,0.3433333333333333
+Random Forest - ocean plus season,3,non_event_5792_1,2014-12-31,0,1,0.5233333333333333
+Random Forest - ocean plus season,3,event_4144,2015-01-05,1,1,0.6633333333333333
+Random Forest - ocean plus season,3,event_4223,2015-01-06,1,1,0.5666666666666667
+Random Forest - ocean plus season,3,non_event_3960_1,2015-01-16,0,1,0.53
+Random Forest - ocean plus season,3,non_event_3829_1,2015-02-15,0,1,0.5433333333333333
+Random Forest - ocean plus season,3,event_4231,2015-03-26,1,0,0.42
+Random Forest - ocean plus season,3,event_4346,2015-04-01,1,1,0.6833333333333333
+Random Forest - ocean plus season,3,non_event_3600_1,2015-04-05,0,1,0.5433333333333333
+Random Forest - ocean plus season,3,non_event_4446_1,2015-04-30,0,1,0.6266666666666667
+Random Forest - ocean plus season,3,non_event_3974_1,2015-05-27,0,1,0.6933333333333334
+Random Forest - ocean plus season,3,non_event_3498_1,2015-05-28,0,1,0.63
+Random Forest - ocean plus season,3,non_event_5335_1,2015-06-03,0,1,0.6766666666666666
+Random Forest - ocean plus season,3,non_event_3523_1,2015-06-04,0,1,0.6366666666666667
+Random Forest - ocean plus season,4,event_4286,2015-06-24,1,0,0.4633333333333333
+Random Forest - ocean plus season,4,event_4253,2015-06-29,1,0,0.4266666666666667
+Random Forest - ocean plus season,4,non_event_3814_1,2015-07-01,0,1,0.5133333333333333
+Random Forest - ocean plus season,4,non_event_5277_1,2015-07-06,0,1,0.5166666666666667
+Random Forest - ocean plus season,4,event_4047,2015-07-18,1,0,0.36
+Random Forest - ocean plus season,4,event_4227,2015-08-02,1,1,0.5166666666666667
+Random Forest - ocean plus season,4,non_event_3508_1,2015-08-27,0,0,0.32
+Random Forest - ocean plus season,4,event_4264,2015-09-28,1,1,0.52
+Random Forest - ocean plus season,4,event_3960,2016-01-01,1,0,0.4533333333333333
+Random Forest - ocean plus season,4,event_3829,2016-02-16,1,0,0.41333333333333333
+Random Forest - ocean plus season,4,event_3645,2016-03-01,1,1,0.6633333333333333
+Random Forest - ocean plus season,4,non_event_3109_1,2016-03-03,0,0,0.38333333333333336
+Random Forest - ocean plus season,4,non_event_2908_1,2016-03-13,0,0,0.43
+Random Forest - ocean plus season,4,non_event_4231_1,2016-03-26,0,0,0.47
+Random Forest - ocean plus season,4,event_3941,2016-04-05,1,0,0.45666666666666667
+Random Forest - ocean plus season,4,non_event_4346_1,2016-04-17,0,1,0.74
+Random Forest - ocean plus season,4,event_3600,2016-04-24,1,0,0.4166666666666667
+Random Forest - ocean plus season,4,non_event_3120_1,2016-05-10,0,0,0.39
+Random Forest - ocean plus season,4,event_3974,2016-05-23,1,1,0.6933333333333334
+Random Forest - ocean plus season,4,non_event_4286_1,2016-06-08,0,0,0.4033333333333333
+Random Forest - ocean plus season,4,non_event_4253_1,2016-06-19,0,0,0.47333333333333333
+Random Forest - ocean plus season,4,non_event_2702_1,2016-06-20,0,1,0.5733333333333334
+Random Forest - ocean plus season,4,event_3814,2016-07-06,1,0,0.4166666666666667
+Random Forest - ocean plus season,4,non_event_2765_1,2016-07-26,0,1,0.6966666666666667
+Random Forest - ocean plus season,4,non_event_3482_1,2016-08-01,0,1,0.71
+Random Forest - ocean plus season,4,event_3846,2016-08-08,1,1,0.54
+Random Forest - ocean plus season,4,event_3562,2016-10-15,1,0,0.49333333333333335
+Random Forest - ocean plus season,4,non_event_3024_1,2016-11-07,0,0,0.29
+Random Forest - ocean plus season,4,non_event_3231_1,2016-11-30,0,1,0.5966666666666667
+Random Forest - ocean plus season,4,event_3664,2016-12-01,1,1,0.62
+Random Forest - ocean plus season,4,event_3667,2016-12-29,1,1,0.6233333333333333
+Random Forest - ocean plus season,4,event_3655,2016-12-31,1,1,0.61
+Random Forest - ocean plus season,4,non_event_3009_1,2017-01-11,0,0,0.4066666666666667
+Random Forest - ocean plus season,4,non_event_3001_1,2017-01-12,0,0,0.4066666666666667
+Random Forest - ocean plus season,4,non_event_4144_1,2017-01-24,0,1,0.73
+Random Forest - ocean plus season,4,event_3427,2017-01-31,1,0,0.47
+Random Forest - ocean plus season,4,event_3410,2017-03-27,1,1,0.63
+Random Forest - ocean plus season,4,non_event_2320_1,2017-04-01,0,0,0.38333333333333336
+Random Forest - ocean plus season,4,non_event_3941_1,2017-04-07,0,1,0.5366666666666666
+Random Forest - ocean plus season,4,event_3404,2017-05-08,1,0,0.31666666666666665
+Random Forest - ocean plus season,4,event_3498,2017-05-16,1,0,0.49666666666666665
+Random Forest - ocean plus season,4,event_3523,2017-06-06,1,1,0.5066666666666667
+Random Forest - ocean plus season,4,non_event_2331_1,2017-06-11,0,1,0.5633333333333334
+Random Forest - ocean plus season,4,non_event_2477_1,2017-06-14,0,0,0.43666666666666665
+Random Forest - ocean plus season,4,event_3196,2017-06-20,1,1,0.5233333333333333
+Random Forest - ocean plus season,4,non_event_4047_1,2017-07-04,0,1,0.5966666666666667
+Random Forest - ocean plus season,4,event_3339,2017-07-10,1,0,0.3566666666666667
+Random Forest - ocean plus season,4,event_3516,2017-07-17,1,1,0.5833333333333334
+Random Forest - ocean plus season,4,non_event_2538_1,2017-07-30,0,1,0.6033333333333334
+Random Forest - ocean plus season,4,non_event_2471_1,2017-07-31,0,0,0.39666666666666667
+Random Forest - ocean plus season,4,event_3508,2017-08-03,1,0,0.35333333333333333
+Random Forest - ocean plus season,4,non_event_4227_1,2017-08-11,0,0,0.47
+Random Forest - ocean plus season,4,event_3386,2017-08-14,1,1,0.5833333333333334
+Random Forest - ocean plus season,4,event_3482,2017-08-22,1,1,0.56
+Random Forest - ocean plus season,4,non_event_4264_1,2017-09-18,0,1,0.5333333333333333
+Random Forest - ocean plus season,4,event_3231,2017-11-01,1,0,0.31
+Random Forest - ocean plus season,4,non_event_3664_1,2017-12-29,0,0,0.19
+Random Forest - ocean plus season,4,non_event_3655_1,2017-12-30,0,0,0.2
+Random Forest - ocean plus season,4,non_event_3667_1,2017-12-31,0,0,0.22666666666666666
+Random Forest - ocean plus season,4,event_3009,2018-01-12,1,0,0.4633333333333333
+Random Forest - ocean plus season,4,event_3001,2018-01-15,1,1,0.5066666666666667
+Random Forest - ocean plus season,4,non_event_3427_1,2018-01-25,0,0,0.32666666666666666
+Random Forest - ocean plus season,4,event_3109,2018-03-15,1,1,0.5633333333333334
+Random Forest - ocean plus season,4,event_2908,2018-03-20,1,0,0.4066666666666667
+Random Forest - ocean plus season,4,non_event_3645_1,2018-03-22,0,0,0.43333333333333335
+Random Forest - ocean plus season,4,non_event_2587_1,2018-04-09,0,1,0.5466666666666666
+Random Forest - ocean plus season,4,event_3120,2018-05-09,1,0,0.4066666666666667
+Random Forest - ocean plus season,4,non_event_3404_1,2018-05-31,0,0,0.32
+Random Forest - ocean plus season,4,event_2702,2018-06-18,1,0,0.49
+Random Forest - ocean plus season,4,event_2698,2018-06-26,1,0,0.44333333333333336
+Random Forest - ocean plus season,4,non_event_3196_1,2018-06-29,0,1,0.51
+Random Forest - ocean plus season,4,non_event_2283_1,2018-07-11,0,0,0.44
+Random Forest - ocean plus season,4,non_event_3516_1,2018-07-11,0,1,0.71
+Random Forest - ocean plus season,4,non_event_3339_1,2018-07-15,0,0,0.3
+Random Forest - ocean plus season,4,event_2765,2018-07-25,1,0,0.41333333333333333
+Random Forest - ocean plus season,4,non_event_2121_1,2018-07-26,0,1,0.58
+Random Forest - ocean plus season,4,non_event_3386_1,2018-08-18,0,1,0.5866666666666667
+Random Forest - ocean plus season,4,event_2655,2018-08-22,1,1,0.56
+Random Forest - ocean plus season,4,non_event_2087_1,2018-10-11,0,0,0.36
+Random Forest - ocean plus season,4,event_3024,2018-11-23,1,0,0.4766666666666667
+Random Forest - ocean plus season,4,non_event_1663_1,2019-03-05,0,0,0.30666666666666664
+Random Forest - ocean plus season,4,non_event_3410_1,2019-03-12,0,0,0.4166666666666667
+Random Forest - ocean plus season,4,non_event_1301_1,2019-04-02,0,0,0.4533333333333333
+Random Forest - ocean plus season,4,event_2587,2019-04-15,1,0,0.43666666666666665
+Random Forest - ocean plus season,4,event_2320,2019-04-29,1,0,0.2966666666666667
+Random Forest - ocean plus season,4,event_2331,2019-06-24,1,1,0.5533333333333333
+Random Forest - ocean plus season,4,event_2477,2019-06-28,1,0,0.46
+Random Forest - ocean plus season,4,event_2121,2019-07-11,1,1,0.6033333333333334
+Random Forest - ocean plus season,4,event_2538,2019-07-12,1,1,0.69
+Random Forest - ocean plus season,4,event_2283,2019-07-22,1,0,0.47333333333333333
+Random Forest - ocean plus season,4,event_2471,2019-07-24,1,0,0.4866666666666667
+Random Forest - ocean plus season,4,event_2165,2019-08-24,1,0,0.34
+Random Forest - ocean plus season,4,non_event_2655_1,2019-08-29,0,1,0.5066666666666667
+Random Forest - ocean plus season,4,non_event_1457_1,2019-09-18,0,0,0.45
+Random Forest - ocean plus season,4,event_2438,2019-09-26,1,1,0.52
+Random Forest - ocean plus season,4,event_2440,2019-09-26,1,0,0.4166666666666667
+Random Forest - ocean plus season,4,event_2292,2019-11-05,1,0,0.38666666666666666
+Random Forest - ocean plus season,4,event_1951,2020-03-09,1,0,0.35
+Random Forest - ocean plus season,4,event_1988,2020-03-09,1,0,0.4266666666666667
+Random Forest - ocean plus season,4,non_event_1053_1,2020-03-26,0,1,0.6433333333333333
+Random Forest - ocean plus season,4,event_1941,2020-03-27,1,0,0.42
+Random Forest - ocean plus season,4,event_1663,2020-03-30,1,0,0.4066666666666667
+Random Forest - ocean plus season,4,event_1922,2020-05-21,1,0,0.37333333333333335
+Random Forest - ocean plus season,4,non_event_877_1,2020-06-11,0,0,0.32
+Random Forest - ocean plus season,4,non_event_2698_1,2020-06-30,0,1,0.6666666666666666
+Random Forest - ocean plus season,4,non_event_990_1,2020-07-31,0,1,0.5833333333333334
+Random Forest - ocean plus season,4,non_event_2165_1,2020-08-01,0,0,0.33
+Random Forest - ocean plus season,4,event_1524,2020-08-19,1,0,0.43
+Random Forest - ocean plus season,4,event_1862,2020-09-19,1,0,0.38
+Random Forest - ocean plus season,4,event_1867,2020-09-19,1,0,0.46
+Random Forest - ocean plus season,4,event_1671,2020-10-12,1,0,0.41333333333333333
+Random Forest - ocean plus season,4,event_2087,2020-10-12,1,1,0.51
+Random Forest - ocean plus season,4,non_event_1507_1,2020-10-26,0,1,0.52
+Random Forest - ocean plus season,4,event_1966,2020-12-14,1,0,0.46
+Random Forest - ocean plus season,4,event_1702,2020-12-22,1,1,0.6066666666666667
+Random Forest - ocean plus season,4,event_1751,2020-12-22,1,1,0.6066666666666667
+Random Forest - ocean plus season,4,event_1371,2021-01-12,1,0,0.4166666666666667
+Random Forest - ocean plus season,4,event_1342,2021-01-28,1,1,0.51
+Random Forest - ocean plus season,4,event_1335,2021-02-08,1,1,0.52
+Random Forest - ocean plus season,4,event_1379,2021-02-08,1,0,0.43333333333333335
+Random Forest - ocean plus season,4,event_1317,2021-02-26,1,0,0.44
+Random Forest - ocean plus season,4,non_event_1003_1,2021-03-07,0,0,0.44
+Random Forest - ocean plus season,4,non_event_1951_1,2021-03-29,0,0,0.37666666666666665
+Random Forest - ocean plus season,4,non_event_720_1,2021-04-05,0,0,0.3433333333333333
+Random Forest - ocean plus season,4,event_1301,2021-04-12,1,1,0.6966666666666667
+Random Forest - ocean plus season,4,non_event_1922_1,2021-05-13,0,1,0.5533333333333333
+Random Forest - ocean plus season,4,event_1271,2021-05-30,1,0,0.4066666666666667
+Random Forest - ocean plus season,4,non_event_820_1,2021-06-09,0,0,0.4033333333333333
+Random Forest - ocean plus season,5,non_event_1040_1,2021-07-25,0,0,0.44
+Random Forest - ocean plus season,5,non_event_1052_1,2021-08-07,0,1,0.54
+Random Forest - ocean plus season,5,event_1168,2021-08-15,1,0,0.41333333333333333
+Random Forest - ocean plus season,5,non_event_2438_1,2021-09-07,0,1,0.77
+Random Forest - ocean plus season,5,event_1457,2021-09-15,1,0,0.36666666666666664
+Random Forest - ocean plus season,5,non_event_1867_1,2021-09-18,0,1,0.6833333333333333
+Random Forest - ocean plus season,5,non_event_2440_1,2021-09-19,0,1,0.8366666666666667
+Random Forest - ocean plus season,5,non_event_1862_1,2021-09-20,0,1,0.81
+Random Forest - ocean plus season,5,non_event_1671_1,2021-10-01,0,0,0.49333333333333335
+Random Forest - ocean plus season,5,event_1507,2021-10-08,1,1,0.5133333333333333
+Random Forest - ocean plus season,5,non_event_1034_1,2021-10-12,0,1,0.6266666666666667
+Random Forest - ocean plus season,5,non_event_2292_1,2021-11-06,0,1,0.7333333333333333
+Random Forest - ocean plus season,5,non_event_1702_1,2021-12-23,0,1,0.85
+Random Forest - ocean plus season,5,non_event_1371_1,2022-01-30,0,1,0.6833333333333333
+Random Forest - ocean plus season,5,non_event_1317_1,2022-02-26,0,1,0.6
+Random Forest - ocean plus season,5,non_event_1379_1,2022-02-27,0,1,0.6566666666666666
+Random Forest - ocean plus season,5,non_event_1941_1,2022-03-02,0,1,0.6233333333333333
+Random Forest - ocean plus season,5,non_event_423_1,2022-03-13,0,1,0.7566666666666667
+Random Forest - ocean plus season,5,non_event_1988_1,2022-03-22,0,1,0.5933333333333334
+Random Forest - ocean plus season,5,event_1053,2022-03-22,1,0,0.21
+Random Forest - ocean plus season,5,event_1003,2022-03-28,1,0,0.5
+Random Forest - ocean plus season,5,non_event_1271_1,2022-05-02,0,1,0.5833333333333334
+Random Forest - ocean plus season,5,event_838,2022-05-20,1,1,0.52
+Random Forest - ocean plus season,5,non_event_254_1,2022-05-23,0,0,0.3933333333333333
+Random Forest - ocean plus season,5,event_877,2022-06-09,1,0,0.22333333333333333
+Random Forest - ocean plus season,5,event_820,2022-06-28,1,1,0.58
+Random Forest - ocean plus season,5,event_821,2022-06-28,1,1,0.53
+Random Forest - ocean plus season,5,event_990,2022-07-11,1,0,0.49333333333333335
+Random Forest - ocean plus season,5,event_1040,2022-07-20,1,0,0.5
+Random Forest - ocean plus season,5,event_817,2022-07-22,1,0,0.44666666666666666
+Random Forest - ocean plus season,5,event_1052,2022-08-02,1,1,0.6633333333333333
+Random Forest - ocean plus season,5,non_event_1524_1,2022-08-07,0,1,0.64
+Random Forest - ocean plus season,5,non_event_564_1,2022-08-18,0,1,0.5833333333333334
+Random Forest - ocean plus season,5,non_event_373_1,2022-09-29,0,0,0.45
+Random Forest - ocean plus season,5,event_1014,2022-10-07,1,1,0.7666666666666667
+Random Forest - ocean plus season,5,event_1034,2022-10-07,1,1,0.8233333333333334
+Random Forest - ocean plus season,5,non_event_1966_1,2022-12-02,0,1,0.7966666666666666
+Random Forest - ocean plus season,5,non_event_1751_1,2022-12-05,0,1,0.8566666666666667
+Random Forest - ocean plus season,5,non_event_1342_1,2023-01-26,0,1,0.6
+Random Forest - ocean plus season,5,non_event_366_1,2023-02-14,0,1,0.7
+Random Forest - ocean plus season,5,non_event_1335_1,2023-02-18,0,1,0.7066666666666667
+Random Forest - ocean plus season,5,event_680,2023-02-24,1,0,0.4
+Random Forest - ocean plus season,5,non_event_77_1,2023-03-06,0,0,0.35333333333333333
+Random Forest - ocean plus season,5,event_710,2023-04-10,1,1,0.5166666666666667
+Random Forest - ocean plus season,5,event_720,2023-04-17,1,1,0.61
+Random Forest - ocean plus season,5,non_event_170_1,2023-05-25,0,1,0.54
+Random Forest - ocean plus season,5,event_623,2023-06-05,1,1,0.6633333333333333
+Random Forest - ocean plus season,5,non_event_821_1,2023-06-13,0,1,0.61
+Random Forest - ocean plus season,5,non_event_355_1,2023-07-24,0,1,0.72
+Random Forest - ocean plus season,5,non_event_1168_1,2023-08-08,0,0,0.49666666666666665
+Random Forest - ocean plus season,5,event_596,2023-08-13,1,1,0.6433333333333333
+Random Forest - ocean plus season,5,event_564,2023-08-23,1,1,0.52
+Random Forest - ocean plus season,5,event_670,2023-08-23,1,1,0.5766666666666667
+Random Forest - ocean plus season,5,event_601,2023-09-03,1,0,0.2833333333333333
+Random Forest - ocean plus season,5,event_600,2023-09-29,1,1,0.83
+Random Forest - ocean plus season,5,non_event_1014_1,2023-10-07,0,1,0.83
+Random Forest - ocean plus season,5,non_event_107_1,2023-11-07,0,0,0.5
+Random Forest - ocean plus season,5,event_610,2023-11-15,1,0,0.24333333333333335
+Random Forest - ocean plus season,5,event_575,2023-12-12,1,1,0.5766666666666667
+Random Forest - ocean plus season,5,event_750,2023-12-18,1,0,0.4866666666666667
+Random Forest - ocean plus season,5,non_event_15_1,2024-01-03,0,1,0.5533333333333333
+Random Forest - ocean plus season,5,non_event_132_1,2024-01-13,0,0,0.31666666666666665
+Random Forest - ocean plus season,5,non_event_17_1,2024-01-21,0,1,0.62
+Random Forest - ocean plus season,5,non_event_680_1,2024-02-04,0,0,0.47333333333333333
+Random Forest - ocean plus season,5,event_366,2024-02-13,1,0,0.48
+Random Forest - ocean plus season,5,event_423,2024-03-15,1,1,0.6166666666666667
+Random Forest - ocean plus season,5,event_315,2024-03-18,1,0,0.38
+Random Forest - ocean plus season,5,event_352,2024-04-12,1,0,0.4
+Random Forest - ocean plus season,5,non_event_3_1,2024-04-28,0,1,0.5666666666666667
+Random Forest - ocean plus season,5,non_event_838_1,2024-05-02,0,0,0.44333333333333336
+Random Forest - ocean plus season,5,non_event_36_1,2024-05-14,0,0,0.37
+Random Forest - ocean plus season,5,event_254,2024-05-22,1,0,0.3333333333333333
+Random Forest - ocean plus season,5,non_event_97_1,2024-06-17,0,0,0.36666666666666664
+Random Forest - ocean plus season,5,event_320,2024-06-17,1,1,0.6033333333333334
+Random Forest - ocean plus season,5,event_308,2024-07-01,1,0,0.31
+Random Forest - ocean plus season,5,non_event_817_1,2024-07-12,0,0,0.5
+Random Forest - ocean plus season,5,event_355,2024-07-19,1,1,0.65
+Random Forest - ocean plus season,5,event_491,2024-07-24,1,0,0.47333333333333333
+Random Forest - ocean plus season,5,event_268,2024-08-05,1,1,0.5333333333333333
+Random Forest - ocean plus season,5,event_266,2024-08-11,1,1,0.76
+Random Forest - ocean plus season,5,event_465,2024-08-27,1,1,0.59
+Random Forest - ocean plus season,5,non_event_670_1,2024-08-28,0,1,0.5233333333333333
+Random Forest - ocean plus season,5,event_325,2024-09-01,1,0,0.42
+Random Forest - ocean plus season,5,event_373,2024-09-27,1,1,0.5166666666666667
+Random Forest - ocean plus season,5,non_event_750_1,2024-12-13,0,0,0.5
+Random Forest - ocean plus season,5,event_132,2025-01-25,1,0,0.38
+Random Forest - ocean plus season,5,non_event_28_1,2025-02-16,0,1,0.7466666666666667
+Random Forest - ocean plus season,5,event_50,2025-03-01,1,0,0.3933333333333333
+Random Forest - ocean plus season,5,event_29,2025-03-17,1,0,0.49333333333333335
+Random Forest - ocean plus season,5,event_77,2025-03-24,1,0,0.29
+Random Forest - ocean plus season,5,event_47,2025-03-31,1,1,0.5633333333333334
+Random Forest - ocean plus season,5,non_event_352_1,2025-04-15,0,0,0.43333333333333335
+Random Forest - ocean plus season,5,event_39,2025-04-26,1,0,0.20333333333333334
+Random Forest - ocean plus season,5,non_event_12_1,2025-04-27,0,1,0.5533333333333333
+Random Forest - ocean plus season,5,non_event_710_1,2025-04-29,0,0,0.42333333333333334
+Random Forest - ocean plus season,5,non_event_0_1,2025-05-02,0,1,0.5333333333333333
+Random Forest - ocean plus season,5,event_36,2025-05-02,1,1,0.8766666666666667
+Random Forest - ocean plus season,5,event_170,2025-05-06,1,0,0.49666666666666665
+Random Forest - ocean plus season,5,event_94,2025-06-02,1,1,0.6666666666666666
+Random Forest - ocean plus season,5,event_97,2025-06-02,1,0,0.35
+Random Forest - ocean plus season,5,non_event_623_1,2025-06-07,0,1,0.6566666666666666
+Random Forest - ocean plus season,5,event_89,2025-06-09,1,1,0.6133333333333333
+Random Forest - ocean plus season,5,non_event_308_1,2025-07-24,0,0,0.44
+Random Forest - ocean plus season,5,non_event_266_1,2025-08-02,0,0,0.35
+Random Forest - ocean plus season,5,non_event_268_1,2025-08-09,0,0,0.11666666666666667
+Random Forest - ocean plus season,5,event_81,2025-08-18,1,0,0.4066666666666667
+Random Forest - ocean plus season,5,non_event_596_1,2025-08-22,0,0,0.36
+Random Forest - ocean plus season,5,non_event_601_1,2025-09-18,0,1,0.54
+Random Forest - ocean plus season,5,non_event_600_1,2025-09-20,0,0,0.4033333333333333
+Random Forest - ocean plus season,5,non_event_610_1,2025-11-26,0,1,0.7566666666666667
+Random Forest - ocean plus season,5,event_107,2025-11-28,1,0,0.47333333333333333
+Random Forest - ocean plus season,5,non_event_575_1,2025-12-18,0,0,0.4666666666666667
+Random Forest - ocean plus season,5,event_15,2026-01-15,1,1,0.54
+Random Forest - ocean plus season,5,event_17,2026-01-15,1,0,0.47333333333333333
+Random Forest - ocean plus season,5,event_28,2026-02-26,1,1,0.7
+Random Forest - ocean plus season,5,non_event_315_1,2026-03-06,0,1,0.51
+Random Forest - ocean plus season,5,non_event_29_1,2026-03-08,0,0,0.4066666666666667
+Random Forest - ocean plus season,5,non_event_50_1,2026-03-17,0,1,0.5666666666666667
+Random Forest - ocean plus season,5,non_event_47_1,2026-03-20,0,0,0.41
+Random Forest - ocean plus season,5,event_3,2026-04-20,1,0,0.41333333333333333
+Random Forest - ocean plus season,5,event_12,2026-04-27,1,1,0.5766666666666667
+Random Forest - ocean plus season,5,non_event_39_1,2026-04-30,0,0,0.2633333333333333
+Random Forest - ocean plus season,5,event_0,2026-05-04,1,1,0.6433333333333333
+Random Forest - ocean plus season,5,non_event_320_1,2026-06-13,0,1,0.5266666666666666
+Random Forest - ocean plus season,5,non_event_89_1,2026-06-27,0,0,0.4866666666666667
+Random Forest - ocean plus season,5,non_event_94_1,2026-06-27,0,0,0.5
+Random Forest - ocean plus season,5,non_event_491_1,2026-07-01,0,0,0.49666666666666665
+Random Forest - ocean plus season,5,non_event_81_1,2026-08-02,0,0,0.36333333333333334
+Random Forest - ocean plus season,5,non_event_465_1,2026-08-21,0,1,0.6566666666666666
+Random Forest - ocean plus season,5,non_event_325_1,2026-09-07,0,0,0.3466666666666667
